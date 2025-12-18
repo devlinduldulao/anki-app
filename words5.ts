@@ -36,7 +36,7 @@ export const words: Question[] = [
     spanish: "que surgen",
   },
   {
-    norwegian: "går etter utssendet",
+    norwegian: "går etter utseendet",
     english: "goes after the appearance",
     spanish: "va tras la apariencia",
   },
