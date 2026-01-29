@@ -34,5 +34,30 @@ export const words: Question[] = [
     norwegian: 'nemlig flest',
     english: 'namely most',
     spanish: 'es decir la mayoría',
+  },
+  {
+    norwegian: 'er svaksynt',
+    english: 'is visually impaired',
+    spanish: 'es con discapacidad visual',
+  },
+  {
+    norwegian: 'det bryter folkeretten',
+    english: 'it breaks international law',
+    spanish: 'rompe el derecho internacional',
+  },
+  {
+    norwegian: 'samlet her',
+    english: 'gathered here',
+    spanish: 'reunidos aquí',
+  },
+  {
+    norwegian: 'sørlige halvkule',
+    english: 'southern hemisphere',
+    spanish: 'hemisferio sur',
+  },
+  {
+    norwegian: 'bryr seg katta',
+    english: "doesn't care a bit",
+    spanish: 'no le importa en absoluto',
   }
 ];
