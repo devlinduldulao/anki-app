@@ -274,5 +274,60 @@ export const words: Question[] = [
     norwegian: 'utfordring',
     english: 'challenge',
     spanish: 'desafío',
+  },
+  {
+    norwegian: 'fredagssendingen',
+    english: 'the Friday broadcast',
+    spanish: 'la transmisión del viernes',
+  },
+  {
+    norwegian: 'skrelle huden',
+    english: 'peel the skin',
+    spanish: 'pelar la piel',
+  },
+  {
+    norwegian: 'vi erfarte i fjor mot',
+    english: 'we experienced last year against',
+    spanish: 'experimentamos el año pasado contra',
+  },
+  {
+    norwegian: 'utsolgt',
+    english: 'sold out',
+    spanish: 'agotado',
+  },
+  {
+    norwegian: 'akebrett',
+    english: 'sled',
+    spanish: 'trineo',
+  },
+  {
+    norwegian: 'å ake',
+    english: 'to sled',
+    spanish: 'trineo',
+  },
+  {
+    norwegian: 'en liten glipp',
+    english: 'a small slip',
+    spanish: 'un pequeño desliz',
+  },
+  {
+    norwegian: 'en liten sniktitt',
+    english: 'a little sneak peek',
+    spanish: 'un pequeño adelanto',
+  },
+  {
+    norwegian: 'vil ned i vekt',
+    english: 'want to lose weight',
+    spanish: 'quieren perder peso',
+  },
+  {
+    norwegian: 'utviklet enda',
+    english: 'developed even',
+    spanish: 'desarrollado aún',
+  },
+  {
+    norwegian: 'i vekst',
+    english: 'in growth',
+    spanish: 'en crecimiento',
   }
 ];
