@@ -204,5 +204,75 @@ export const words: Question[] = [
     norwegian: 'i flosshatter til mannfolka',
     english: 'in top hats for the men',
     spanish: 'con sombreros de copa para los hombres',
+  },
+  {
+    norwegian: 'beboerne glefser i seg',
+    english: 'the residents snap up',
+    spanish: 'los residentes devoran',
+  },
+  {
+    norwegian: 'er nysgjerrige dyr',
+    english: 'are curious animals',
+    spanish: 'son animales curiosos',
+  },
+  {
+    norwegian: 'veldig ivrige',
+    english: 'very eager',
+    spanish: 'muy ansiosos',
+  },
+  {
+    norwegian: 'jeg juger aldri',
+    english: 'I never lie',
+    spanish: 'nunca miento',
+  },
+  {
+    norwegian: 'et ordtak',
+    english: 'a saying',
+    spanish: 'un dicho',
+  },
+  {
+    norwegian: 'er i slekt med',
+    english: 'is related to',
+    spanish: 'está relacionado con',
+  },
+  {
+    norwegian: 'elevundersøkelsen',
+    english: 'the student survey',
+    spanish: 'la encuesta estudiantil',
+  },
+  {
+    norwegian: 'ingen minner herfra',
+    english: 'no memories from here',
+    spanish: 'ningún recuerdo de aquí',
+  },
+  {
+    norwegian: 'er fryktelig',
+    english: 'is terrible',
+    spanish: 'es terrible',
+  },
+  {
+    norwegian: 'et støkk',
+    english: 'a fright',
+    spanish: 'un susto',
+  },
+  {
+    norwegian: 'en lignende situasjon',
+    english: 'a similar situation',
+    spanish: 'una situación similar',
+  },
+  {
+    norwegian: 'utestengt fra',
+    english: 'excluded from',
+    spanish: 'excluido de',
+  },
+  {
+    norwegian: 'er det fort gjort',
+    english: 'it is easily done',
+    spanish: 'se hace fácilmente',
+  },
+  {
+    norwegian: 'utfordring',
+    english: 'challenge',
+    spanish: 'desafío',
   }
 ];
