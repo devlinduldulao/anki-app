@@ -221,6 +221,11 @@ export const words: Question[] = [
     spanish: 'muy ansiosos',
   },
   {
+    norwegian: 'populasjon og beboere',
+    english: 'population and residents',
+    spanish: 'población y residentes',
+  },
+  {
     norwegian: 'jeg juger aldri',
     english: 'I never lie',
     spanish: 'nunca miento',
@@ -329,5 +334,105 @@ export const words: Question[] = [
     norwegian: 'i vekst',
     english: 'in growth',
     spanish: 'en crecimiento',
+  },
+  {
+    norwegian: 'det vondeste',
+    english: 'the most painful',
+    spanish: 'lo más doloroso',
+  },
+  {
+    norwegian: 'det trykke på',
+    english: 'the press on',
+    spanish: 'la presión sobre',
+  },
+  {
+    norwegian: 'ikke skiller seg ut',
+    english: 'does not stand out',
+    spanish: 'no se destaca',
+  },
+  {
+    norwegian: 'ild på innsida',
+    english: 'fire on the inside',
+    spanish: 'fuego en el interior',
+  },
+  {
+    norwegian: 'forresten',
+    english: 'by the way',
+    spanish: 'por cierto',
+  },
+  {
+    norwegian: 'gå utover deg',
+    english: 'affect you',
+    spanish: 'afectarte',
+  },
+  {
+    norwegian: 'markedsføring av',
+    english: 'marketing of',
+    spanish: 'mercadeo de',
+  },
+  {
+    norwegian: 'skryter over',
+    english: 'boasts about',
+    spanish: 'se jacta de',
+  },
+  {
+    norwegian: 'er troverdig',
+    english: 'is credible',
+    spanish: 'es creíble',
+  },
+  {
+    norwegian: 'ble du frista til',
+    english: 'were you tempted to',
+    spanish: 'te tentaste a',
+  },
+  {
+    norwegian: 'fristelser',
+    english: 'temptations',
+    spanish: 'tentaciones',
+  },
+  {
+    norwegian: 'nå om dagen',
+    english: 'nowadays',
+    spanish: 'hoy en día',
+  },
+  {
+    norwegian: 'stolhet',
+    english: 'pride',
+    spanish: 'orgullo',
+  },
+  {
+    norwegian: 'alt bråket',
+    english: 'all the noise',
+    spanish: 'todo el ruido',
+  },
+  {
+    norwegian: 'jeg merka at',
+    english: 'I noticed that',
+    spanish: 'me di cuenta de que',
+  },
+  {
+    norwegian: 'for innsatsen',
+    english: 'for the effort',
+    spanish: 'por el esfuerzo',
+  },
+  {
+    norwegian: 'at kroppen er laga for bevegelse',
+    english: 'that the body is made for movement',
+    spanish: 'que el cuerpo está hecho para el movimiento',
+  },
+  {
+    norwegian: 'kan forsvare',
+    english: 'can defend',
+    spanish: 'puede defender',
+  },
+  {
+    norwegian: 'veldig todelt',
+    english: 'very divided',
+    spanish: 'muy dividido',
+  },
+  {
+    norwegian: 'for å forsterke',
+    english: 'to reinforce',
+    spanish: 'para reforzar',
   }
 ];
