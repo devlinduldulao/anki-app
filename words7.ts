@@ -346,6 +346,11 @@ export const words: Question[] = [
     spanish: 'la presión sobre',
   },
   {
+    norwegian: 'ble till slutt kåra',
+    english: 'was finally elected',
+    spanish: 'finalmente fue elegido'
+  },
+  {
     norwegian: 'ikke skiller seg ut',
     english: 'does not stand out',
     spanish: 'no se destaca',
@@ -434,5 +439,95 @@ export const words: Question[] = [
     norwegian: 'for å forsterke',
     english: 'to reinforce',
     spanish: 'para reforzar',
+  },
+  {
+    norwegian: 'sprekker opp',
+    english: 'cracks up',
+    spanish: 'se ríe a carcajadas',
+  },
+  {
+    norwegian: 'uttseendet',
+    english: 'the appearance',
+    spanish: 'la apariencia',
+  },
+  {
+    norwegian:'hemmeligheten',
+    english:'the secret',
+    spanish:'el secreto',
+  },
+  {
+    norwegian: 'det avsløres',
+    english: 'it is revealed',
+    spanish: 'se revela',
+  },
+  {
+    norwegian: 'anledningen',
+    english: 'the occasion',
+    spanish: 'la ocasión',
+  },
+  {
+    norwegian: 'restitusjon',
+    english: 'restitution',
+    spanish: 'restitución',
+  },
+  {
+    norwegian: 'å kapre',
+    english: 'to capture',
+    spanish: 'capturar',
+  },
+  {
+    norwegian: 'klynga av folk',
+    english: 'the crowd of people',
+    spanish: 'la multitud de gente',
+  },
+  {
+    norwegian: 'så voldelige',
+    english: 'so violent',
+    spanish: 'tan violentos',
+  },
+  {
+    norwegian: 'oppmerksomheten',
+    english: 'the attention',
+    spanish: 'la atención',
+  },
+  {
+    norwegian: 'i hovedsak',
+    english: 'basically',
+    spanish: 'básicamente',
+  },
+  {
+    norwegian: 'selvforsvar',
+    english: 'self-defense',
+    spanish: 'defensa propia',
+  },
+  {
+    norwegian: 'flere vinkler',
+    english: 'several angles',
+    spanish: 'varios ángulos',
+  },
+  {
+    norwegian: 'i forbindelse med',
+    english: 'in connection with',
+    spanish: 'en conexión con',
+  },
+  {
+    norwegian: 'er ikke tilfeldig',
+    english: 'is not accidental',
+    spanish: 'no es accidental',
+  },
+  {
+    norwegian: 'avlytting',
+    english: 'eavesdropping',
+    spanish: 'escucha',
+  },
+  {
+    norwegian: 'på beite',
+    english: 'grazing',
+    spanish: 'pastoreo',
+  },
+  {
+    norwegian: 'kyr',
+    english: 'cows',
+    spanish: 'vacas',
   }
 ];
