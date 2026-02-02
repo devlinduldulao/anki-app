@@ -529,5 +529,20 @@ export const words: Question[] = [
     norwegian: 'kyr',
     english: 'cows',
     spanish: 'vacas',
+  },
+  {
+    norwegian: 'utenom skjerm',
+    english: 'without screens',
+    spanish: 'sin pantallas',
+  },
+  {
+    norwegian: 'å påtvinge isansvar',
+    english: 'to impose ice responsibility',
+    spanish: 'imponer la responsabilidad del hielo',
+  },
+  {
+    norwegian: 'forfatter',
+    english: 'author',
+    spanish: 'autor',
   }
 ];
