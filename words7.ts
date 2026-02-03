@@ -609,5 +609,15 @@ export const words: Question[] = [
     norwegian: 'favorittfag',
     english: 'favorite subject',
     spanish: 'asignatura favorita',
+  },
+  {
+    norwegian: 'å stille',
+    english: 'to ask',
+    spanish: 'preguntar',
+  },
+  {
+    norwegian: 'norske røtter',
+    english: 'Norwegian roots',
+    spanish: 'raíces noruegas',
   }
 ];
