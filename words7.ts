@@ -654,5 +654,25 @@ export const words: Question[] = [
     norwegian: 'å avspasere',
     english: 'to take time off',
     spanish: 'tomar tiempo libre',
+  },
+  {
+    norwegian: 'ivrig bussbruker',
+    english: 'eager bus user',
+    spanish: 'usuario entusiasta del autobús',
+  },
+  {
+    norwegian: 'utbredte',
+    english: 'widespread',
+    spanish: 'generalizado',
+  },
+  {
+    norwegian: 'faglig sterke',
+    english: 'academically strong',
+    spanish: 'académicamente fuerte',
+  },
+  {
+    norwegian: 'opplæring i nettvett',
+    english: 'training in netiquette',
+    spanish: 'formación en netiqueta',
   }
 ];
