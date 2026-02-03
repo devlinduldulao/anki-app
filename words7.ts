@@ -544,5 +544,70 @@ export const words: Question[] = [
     norwegian: 'forfatter',
     english: 'author',
     spanish: 'autor',
+  },
+  {
+    norwegian: 'en prisutdeling',
+    english: 'an award ceremony',
+    spanish: 'una ceremonia de premiación',
+  },
+  {
+    norwegian: 'enten du vil det eller ei',
+    english: 'whether you want it or not',
+    spanish: 'quieras o no',
+  },
+  {
+    norwegian: 'dermed',
+    english: 'thus',
+    spanish: 'por lo tanto',
+  },
+  {
+    norwegian: 'tok seieren i en slags',
+    english: 'took the victory in a kind of',
+    spanish: 'tomó la victoria en una especie de',
+  },
+  {
+    norwegian: 'er tårefylt',
+    english: 'is tearful',
+    spanish: 'está lloroso',
+  },
+  {
+    norwegian: 'i framtida',
+    english: 'in the future',
+    spanish: 'en el futuro',
+  },
+  {
+    norwegian: 'at dette funka',
+    english: 'that this worked',
+    spanish: 'que esto funcionó',
+  },
+  {
+    norwegian: 'er slike spørsmål',
+    english: 'are such questions',
+    spanish: 'son tales preguntas',
+  },
+  {
+    norwegian: 'som tolvåring',
+    english: 'as a twelve-year-old',
+    spanish: 'como un niño de doce años',
+  },
+  {
+    norwegian: 'til prega',
+    english: 'to the affected',
+    spanish: 'a los afectados',
+  },
+  {
+    norwegian: 'mektig',
+    english: 'powerful',
+    spanish: 'poderoso',
+  },
+  {
+    norwegian: 'høyby',
+    english: 'high city',
+    spanish: 'ciudad alta',
+  },
+  {
+    norwegian: 'favorittfag',
+    english: 'favorite subject',
+    spanish: 'asignatura favorita',
   }
 ];
