@@ -619,5 +619,40 @@ export const words: Question[] = [
     norwegian: 'norske røtter',
     english: 'Norwegian roots',
     spanish: 'raíces noruegas',
+  },
+  {
+    norwegian: 'kvantitet og frekvens',
+    english: 'quantity and frequency',
+    spanish: 'cantidad y frecuencia',
+  },
+  {
+    norwegian: 'å avbryte',
+    english: 'to interrupt',
+    spanish: 'interrumpir',
+  },
+  {
+    norwegian: 'å avslutte',
+    english: 'to conclude',
+    spanish: 'concluir',
+  },
+  {
+    norwegian: 'å amme',
+    english: 'to breastfeed',
+    spanish: 'amamantar',
+  },
+  {
+    norwegian: 'å ankomme',
+    english: 'to arrive',
+    spanish: 'llegar',
+  },
+  {
+    norwegian: 'å advare',
+    english: 'to warn',
+    spanish: 'advertir',
+  },
+  {
+    norwegian: 'å avspasere',
+    english: 'to take time off',
+    spanish: 'tomar tiempo libre',
   }
 ];
