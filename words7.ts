@@ -674,5 +674,175 @@ export const words: Question[] = [
     norwegian: 'opplæring i nettvett',
     english: 'training in netiquette',
     spanish: 'formación en netiqueta',
+  },
+  {
+    norwegian: 'slaktes etter exit',
+    english: 'slaughtered after exit',
+    spanish: 'masacrados después de la salida',
+  },
+  {
+    norwegian: 'revet i stykker',
+    english: 'torn to pieces',
+    spanish: 'destrozado',
+  },
+  {
+    norwegian: 'mer enn ventet',
+    english: 'more than expected',
+    spanish: 'más de lo esperado',
+  },
+  {
+    norwegian:'jeg forventer dette',
+    english:'i am expecting this',
+    spanish:'estoy esperando esto',
+  },
+  {
+    norwegian: 'dømte seksualforbryteren',
+    english: 'convicted sex offender',
+    spanish: 'condenado por delitos sexuales',
+  },
+  {
+    norwegian: 'svikter',
+    english: 'fails',
+    spanish: 'falla',
+  },
+  {
+    norwegian: 'svigerfaren bryter stillheten',
+    english: 'the father-in-law breaks the silence',
+    spanish: 'el suegro rompe el silencio',
+  },
+  {
+    norwegian: 'den overgrepsdømte milliardæren',
+    english: 'the convicted billionaire',
+    spanish: 'el multimillonario condenado',
+  },
+  {
+    norwegian: 'frykter represalier',
+    english: 'fears reprisals',
+    spanish: 'teme represalias',
+  },
+  {
+    norwegian: 'hun avslører',
+    english: 'she reveals',
+    spanish: 'ella revela',
+  },
+  {
+    norwegian: 'om skadelig støy',
+    english: 'about harmful noise',
+    spanish: 'sobre el ruido dañino',
+  },
+  {
+    norwegian: 'her sperrer bussen for all trafikken',
+    english: 'here the bus blocks all traffic',
+    spanish: 'aquí el autobús bloquea todo el tráfico',
+  },
+  {
+    norwegian: 'mister sitt særpreg',
+    english: 'loses its character',
+    spanish: 'pierde su carácter',
+  },
+  {
+    norwegian: 'køen strakte seg langt ut døra',
+    english: 'the queue stretched far out the door',
+    spanish: 'la cola se extendía lejos de la puerta',
+  },
+  {
+    norwegian: 'opplegget',
+    english: 'the arrangement',
+    spanish: 'el arreglo',
+  },
+  {
+    norwegian: 'en ressurs i lokalmiljøet',
+    english: 'a resource in the local community',
+    spanish: 'un recurso en la comunidad local',
+  },
+  {
+    norwegian: 'begynte å skjelve',
+    english: 'began to tremble',
+    spanish: 'comenzó a temblar',
+  },
+  {
+    norwegian: 'ut mot byrådet',
+    english: 'out against the city council',
+    spanish: 'contra el ayuntamiento',
+  },
+  {
+    norwegian: 'han ikke hadde rørt meg',
+    english: 'he had not touched me',
+    spanish: 'él no me había tocado',
+  },
+  {
+    norwegian: 'et forsvarsel',
+    english: 'a warning',
+    spanish: 'una advertencia',
+  },
+  {
+    norwegian: 'nye opptak av',
+    english: 'new recordings of',
+    spanish: 'nuevas grabaciones de',
+  },
+  {
+    norwegian: 'bivirkningene',
+    english: 'the side effects',
+    spanish: 'los efectos secundarios',
+  },
+  {
+    norwegian: 'lyddemping',
+    english: 'soundproofing',
+    spanish: 'insonorización',
+  },
+  {
+    norwegian: 'søvn av rastløse bein',
+    english: 'sleep of restless legs',
+    spanish: 'sueño de piernas inquietas',
+  },
+  {
+    norwegian: 'tvangsgiftet',
+    english: 'forcedly married',
+    spanish: 'casado a la fuerza',
+  },
+  {
+    norwegian: 'oppsiktsvekkende',
+    english: 'sensational',
+    spanish: 'sensacional',
+  },
+  {
+    norwegian: 'jubel blant',
+    english: 'cheers among',
+    spanish: 'alegría entre',
+  },
+  {
+    norwegian: 'boligblokk',
+    english: 'apartment block',
+    spanish: 'bloque de apartamentos',
+  },
+  {
+    norwegian: 'uredelig',
+    english: 'dishonest',
+    spanish: 'deshonesto',
+  },
+  {
+    norwegian: 'lokkepris',
+    english: 'bait price',
+    spanish: 'precio de cebo',
+  },
+  {
+    norwegian: 'nye funn',
+    english: 'new findings',
+    spanish: 'nuevos hallazgos',
+  },
+  {
+    norwegian: 'en type matvare',
+    english: 'a type of food',
+    spanish: 'un tipo de alimento',
+  },
+  {
+    norwegian: 'forlater overhuset',
+    english: 'leaves the upper house',
+    spanish: 'deja la cámara alta',
+  },
+  {
+    norwegian: 'milliondryss',
+    english: 'million shower',
+    spanish: 'lluvia de millones',
   }
 ];
