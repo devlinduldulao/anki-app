@@ -899,5 +899,25 @@ export const words: Question[] = [
     norwegian: 'offentlige anskaffelser',
     english: 'public procurements',
     spanish: 'adquisiciones públicas',
+  },
+  {
+    norwegian: 'avskriv',
+    english: 'write off',
+    spanish: 'descontar',
+  },
+  {
+    norwegian: 'å utfordre',
+    english: 'to challenge',
+    spanish: 'desafiar',
+  },
+  {
+    norwegian: 'drapsforsøk',
+    english: 'attempted murder',
+    spanish: 'intento de asesinato'
+  },
+  {
+    norwegian: 'forvaring',
+    english: 'custody',
+    spanish: 'custodia'
   }
 ];
