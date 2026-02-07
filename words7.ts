@@ -844,5 +844,60 @@ export const words: Question[] = [
     norwegian: 'milliondryss',
     english: 'million shower',
     spanish: 'lluvia de millones',
+  },
+  {
+    norwegian: 'han var besatt',
+    english: 'he was obsessed',
+    spanish: 'él estaba obsesionado',
+  },
+  {
+    norwegian: 'hun hevder',
+    english: 'she claims',
+    spanish: 'ella afirma',
+  },
+  {
+    norwegian: 'lønnsvekst',
+    english: 'wage growth',
+    spanish: 'crecimiento salarial',
+  },
+  {
+    norwegian: 'heltidsekvivalent',
+    english: 'full-time equivalent',
+    spanish: 'equivalente a tiempo completo',
+  },
+  {
+    norwegian: 'utnevner',
+    english: 'appoints',
+    spanish: 'nombra',
+  },
+  {
+    norwegian: 'satsing på',
+    english: 'focus on',
+    spanish: 'enfoque en',
+  },
+  {
+    norwegian: 'trolig er bygget av',
+    english: 'is probably built by',
+    spanish: 'probablemente está construido por',
+  },
+  {
+    norwegian: 'ransakes',
+    english: 'are searched',
+    spanish: 'son registrados',
+  },
+  {
+    norwegian: 'en enhet',
+    english: 'a unit',
+    spanish: 'una unidad',
+  },
+  {
+    norwegian: 'omgikk',
+    english: 'circumvented',
+    spanish: 'eludió',
+  },
+  {
+    norwegian: 'offentlige anskaffelser',
+    english: 'public procurements',
+    spanish: 'adquisiciones públicas',
   }
 ];
