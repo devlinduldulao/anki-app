@@ -979,5 +979,10 @@ export const words: Question[] = [
     norwegian: 'gjentatte ganger',
     english: 'repeatedly',
     spanish: 'repetidamente'
+  },
+  {
+    norwegian: 'farsrollen er helt avgjørende',
+    english: 'the father role is crucial',
+    spanish: 'el rol del padre es crucial'
   }
 ];
