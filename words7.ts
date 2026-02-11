@@ -919,5 +919,65 @@ export const words: Question[] = [
     norwegian: 'forvaring',
     english: 'custody',
     spanish: 'custodia'
+  },
+  {
+    norwegian: 'likhetstegnene',
+    english: 'the equal signs',
+    spanish: 'los signos iguales'
+  },
+  {
+    norwegian: 'innfører strengere',
+    english: 'introduces stricter',
+    spanish: 'introduce más estrictas'
+  },
+  {
+    norwegian: 'trykte feil',
+    english: 'printed errors',
+    spanish: 'errores impresos'
+  },
+  {
+    norwegian: 'har statlige tilsyn',
+    english: 'have state supervision',
+    spanish: 'tienen supervisión estatal'
+  },
+  {
+    norwegian: 'sager over egen grein',
+    english: 'saws over own branch',
+    spanish: 'se corta la rama en la que está sentado'
+  },
+  {
+    norwegian: 'KI-satsing',
+    english: 'AI initiative',
+    spanish: 'iniciativa de IA'
+  },
+  {
+    norwegian: 'skyter i været',
+    english: 'shoots up',
+    spanish: 'dispara hacia arriba'
+  },
+  {
+    norwegian: 'å måpe',
+    english: 'to gape',
+    spanish: 'boquiabierto'
+  },
+  {
+    norwegian: 'overført',
+    english: 'transferred',
+    spanish: 'transferido'
+  },
+  {
+    norwegian: 'over prisantydning',
+    english: 'over asking price',
+    spanish: 'sobre el precio de venta'
+  },
+  {
+    norwegian: 'hevder alle visste',
+    english: 'claims everyone knew',
+    spanish: 'afirma que todos sabían'
+  },
+  {
+    norwegian: 'gjentatte ganger',
+    english: 'repeatedly',
+    spanish: 'repetidamente'
   }
 ];
