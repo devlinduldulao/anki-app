@@ -399,5 +399,196 @@ export const words: Question[] = [
     norwegian: 'at vi turte',
     english: 'that we dared',
     spanish: 'que nos atrevimos'
-  }
+  },
+  {
+    norwegian: 'nye paven',
+    english: 'the new pope',
+    spanish: 'el nuevo papa'
+  },
+  {
+    norwegian: 'kjetting i baklomma er harry',
+    english: 'chain in the back pocket is tacky',
+    spanish: 'cadena en el bolsillo trasero es cursi'
+  },
+  {
+    norwegian: 'jeg ble tatt',
+    english: 'I was caught',
+    spanish: 'fui atrapado'
+  },
+  {
+    norwegian: 'kan avsløre sannheten',
+    english: 'can reveal the truth',
+    spanish: 'puede revelar la verdad'
+  },
+  {
+    norwegian: 'det fins forskere',
+    english: 'there are researchers',
+    spanish: 'hay investigadores'
+  },
+  {
+    norwegian: 'i oppløsning',
+    english: 'in dissolution',
+    spanish: 'en disolución'
+  },
+  {
+    norwegian: 'litt skumelt',
+    english: 'a little scary',
+    spanish: 'un poco aterrador'
+  },
+  {
+    norwegian: 'sårbar',
+    english: 'vulnerable',
+    spanish: 'vulnerable'
+  },
+  {
+    norwegian: 'er sandkorn på jorden',
+    english: 'is a grain of sand on the earth',
+    spanish: 'es un grano de arena en la tierra'
+  },
+  {
+    norwegian: 'i rumpesprekken',
+    english: 'in the butt crack',
+    spanish: 'en la raja del culo'
+  },
+  {
+    norwegian: 'romvesener',
+    english: 'aliens',
+    spanish: 'extraterrestres'
+  },
+  {
+    norwegian: 'ke det går i',
+    english: 'what it\'s about',
+    spanish: 'de qué se trata'
+  },
+  {
+    norwegian: 'første steget',
+    english: 'the first step',
+    spanish: 'el primer paso'
+  },
+  {
+    norwegian: 'slengkiss',
+    english: 'blow kiss',
+    spanish: 'beso volado'
+  },
+  {
+    norwegian: 'vekker oppsikt',
+    english: 'attracts attention',
+    spanish: 'atrae atención'
+  },
+  {
+    norwegian: 'lapper',
+    english: 'patches',
+    spanish: 'parches'
+  },
+  {
+    norwegian: 'en såpeopera',
+    english: 'a soap opera',
+    spanish: 'una telenovela'
+  },
+  {
+    norwegian: 'du leiter',
+    english: 'you search',
+    spanish: 'buscas'
+  },
+  {
+    norwegian: 'ja visst',
+    english: 'yes indeed',
+    spanish: 'sí, de hecho'
+  },
+  {
+    norwegian: 'du drev jo og bøffa veldig mye',
+    english: 'you were really buffing a lot',
+    spanish: 'estabas realmente puliendo mucho'
+  },
+  {
+    norwegian: 'som oppholdt seg',
+    english: 'who stayed',
+    spanish: 'que se quedó'
+  },
+  {
+    norwegian: 'å tilgi',
+    english: 'to forgive',
+    spanish: 'perdonar'
+  },
+  {
+    norwegian: 'yndlingslåta',
+    english: 'favorite song',
+    spanish: 'canción favorita'
+  },
+  {
+    norwegian: 'min fetter',
+    english: 'my cousin',
+    spanish: 'mi primo'
+  },
+  {
+    norwegian: 'fremføre en sang',
+    english: 'perform a song',
+    spanish: 'interpretar una canción'
+  },
+  {
+    norwegian: 'på takkmeldingslappen',
+    english: 'on the thank you note',
+    spanish: 'en la nota de agradecimiento'
+  },
+  {
+    norwegian: 'brettet',
+    english: 'folded',
+    spanish: 'plegado'
+  },
+  {
+    norwegian: 'har arvet',
+    english: 'have inherited',
+    spanish: 'he heredado'
+  },
+  {
+    norwegian: 'vedtatt',
+    english: 'adopted',
+    spanish: 'adoptado'
+  },
+  {
+    norwegian: 'alle tjenestedyktige menn',
+    english: 'all able-bodied men',
+    spanish: 'todos los hombres aptos para el servicio'
+  },
+  {
+    norwegian: 'har mitt eget verksted',
+    english: 'have my own workshop',
+    spanish: 'tengo mi propio taller'
+  },
+  {
+    norwegian: 'et brukersamfunn',
+    english: 'a user community',
+    spanish: 'una comunidad de usuarios'
+  },
+  {
+    norwegian: 'uskyldige som',
+    english: 'innocent as',
+    spanish: 'inocente como'
+  },
+   {
+    norwegian: 'jeg mekker på',
+    english: 'I work on',
+    spanish: 'trabajo en'
+  },
+  {
+    norwegian: 'skulle passe på',
+    english: 'should take care of',
+    spanish: 'debería cuidar de'
+  },
+  {
+    norwegian: 'traff',
+    english: 'hit',
+    spanish: 'golpeó'
+  },
+  {
+    norwegian: 'ble straffet',
+    english: 'was punished',
+    spanish: 'fue castigado'
+  },
+  { 
+    norwegian: 'at mord er galt', 
+    english: 'that murder is wrong', 
+    spanish: 'que el asesinato está mal' 
+  },
+ 
 ];
