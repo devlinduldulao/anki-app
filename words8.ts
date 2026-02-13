@@ -774,5 +774,65 @@ export const words: Question[] = [
     norwegian: 'tidvis har bedt',
     english: 'have at times asked',
     spanish: 'han pedido a veces'
+  },
+  {
+    norwegian: 'hensikten er å få',
+    english: 'the purpose is to get',
+    spanish: 'el propósito es obtener'
+  },
+  {
+    norwegian: 'gjentagende passiv inntekt',
+    english: 'recurring passive income',
+    spanish: 'ingresos pasivos recurrentes'
+  },
+  {
+    norwegian: 'virkelige navn',
+    english: 'real names',
+    spanish: 'nombres reales'
+  },
+  {
+    norwegian: 'oppført',
+    english: 'listed',
+    spanish: 'listado'
+  },
+  {
+    norwegian: 'har henlagt anmeldelsen',
+    english: 'has dismissed the complaint',
+    spanish: 'ha desestimado la denuncia'
+  },
+  {
+    norwegian: 'var etaten med',
+    english: 'was the agency with',
+    spanish: 'era la agencia con'
+  },
+  {
+    norwegian: 'en henleggelse betyr',
+    english: 'a dismissal means',
+    spanish: 'una desestimación significa'
+  },
+  {
+    norwegian: 'en kynisme',
+    english: 'a cynicism',
+    spanish: 'un cinismo'
+  },
+  {
+    norwegian: 'har råkjørt',
+    english: 'has driven recklessly',
+    spanish: 'ha conducido imprudentemente'
+  },
+  {
+    norwegian: 'min upline',
+    english: 'my upline',
+    spanish: 'mi upline'
+  },
+  {
+    norwegian: 'et søksmål',
+    english: 'a lawsuit',
+    spanish: 'una demanda'
+  },
+  {
+    norwegian: 'for ugyldige vilkår',
+    english: 'for invalid terms',
+    spanish: 'para términos inválidos'
   }
 ];
