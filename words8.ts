@@ -834,5 +834,55 @@ export const words: Question[] = [
     norwegian: 'for ugyldige vilkår',
     english: 'for invalid terms',
     spanish: 'para términos inválidos'
+  },
+  {
+    norwegian: 'å samle arbeid',
+    english: 'to gather work',
+    spanish: 'reunir trabajo'
+  },
+  {
+    norwegian: 'virkemidler',
+    english: 'means',
+    spanish: 'medios'
+  },
+  {
+    norwegian: 'vårt tildelingsbrev',
+    english: 'our allocation letter',
+    spanish: 'nuestra carta de asignación'
+  },
+  {
+    norwegian: 'vært forpliktet til å',
+    english: 'been obligated to',
+    spanish: 'ha estado obligado a'
+  },
+  {
+    norwegian: 'en oppblomstring av',
+    english: 'a blossoming of',
+    spanish: 'un florecimiento de'
+  },
+  {
+    norwegian: 'bedragerier',
+    english: 'frauds',
+    spanish: 'fraudes'
+  },
+  {
+    norwegian: 'etater',
+    english: 'agencies',
+    spanish: 'agencias'
+  },
+  {
+    norwegian: 'innblanding',
+    english: 'interference',
+    spanish: 'interferencia'
+  },
+  {
+    norwegian: 'anklager',
+    english: 'accuses',
+    spanish: 'acusa'
+  },
+  {
+    norwegian: 'oppriktig',
+    english: 'sincere',
+    spanish: 'sincero'
   }
 ];
