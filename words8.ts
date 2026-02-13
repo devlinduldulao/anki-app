@@ -590,5 +590,69 @@ export const words: Question[] = [
     english: 'that murder is wrong', 
     spanish: 'que el asesinato está mal' 
   },
- 
+  {
+    norwegian: 'verver',
+    english: 'recruits',
+    spanish: 'recluta'
+  },
+  {
+    norwegian: 'i selve huset så er',
+    english: 'in the very house there is',
+    spanish: 'en la misma casa hay'
+  },
+  {
+    norwegian: 'et forskudd på handel',
+    english: 'an advance on trade',
+    spanish: 'un adelanto en el comercio'
+  },
+  {
+    norwegian: 'enten',
+    english: 'either',
+    spanish: 'o'
+  },
+  {
+    norwegian: 'han består',
+    english: 'he consists',
+    spanish: 'él consiste'
+  },
+  {
+    norwegian: 'har vervet',
+    english: 'have recruited',
+    spanish: 'han reclutado'
+  },
+  {
+    norwegian: 'er navngitt flere folk',
+    english: 'is named several people',
+    spanish: 'se nombran varias personas'
+  },
+  {
+    norwegian: 'innsatsen vi gjør',
+    english: 'the effort we make',
+    spanish: 'el esfuerzo que hacemos'
+  },
+  {
+    norwegian: 'glød',
+    english: 'glow',
+    spanish: 'brillo'
+  },
+  {
+    norwegian: 'fordelsprogram',
+    english: 'loyalty program',
+    spanish: 'programa de fidelidad'
+  },
+  {
+    norwegian: 'i ellertid',
+    english: 'however',
+    spanish: 'sin embargo'
+  },
+  {
+    norwegian: 'puttet du inn',
+    english: 'you put in',
+    spanish: 'pusiste'
+  },
+  {
+    norwegian: 'utbetalingene',
+    english: 'the payouts',
+    spanish: 'los pagos'
+  }
 ];
