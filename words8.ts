@@ -654,5 +654,125 @@ export const words: Question[] = [
     norwegian: 'utbetalingene',
     english: 'the payouts',
     spanish: 'los pagos'
+  },
+  {
+    norwegian: 'utbetalingene skjer',
+    english: 'the payouts happen',
+    spanish: 'los pagos ocurren'
+  },
+  {
+    norwegian: 'utsette og finne',
+    english: 'postpone and find',
+    spanish: 'posponer y encontrar'
+  },
+  {
+    norwegian: 'jeg sliter',
+    english: 'I struggle',
+    spanish: 'yo lucho'
+  },
+  {
+    norwegian: 'det samarbeidet',
+    english: 'the cooperation',
+    spanish: 'la cooperación'
+  },
+  {
+    norwegian: 'forevist',
+    english: 'shown',
+    spanish: 'mostrado'
+  },
+  {
+    norwegian: 'på den måten',
+    english: 'in that way',
+    spanish: 'de esa manera'
+  },
+  {
+    norwegian: 'det fremstår',
+    english: 'it appears',
+    spanish: 'aparece'
+  },
+  {
+    norwegian: 'for på sikt',
+    english: 'for the long term',
+    spanish: 'a largo plazo'
+  },
+  {
+    norwegian: 'ellevit',
+    english: 'eleven',
+    spanish: 'once'
+  },
+  {
+    norwegian: 'ulike',
+    english: 'different',
+    spanish: 'diferente'
+  },
+  {
+    norwegian: 'er fokuset på vervingen',
+    english: 'is the focus on recruitment',
+    spanish: 'es el enfoque en el reclutamiento'
+  },
+  {
+    norwegian: 'stadig tilførsel av',
+    english: 'constant supply of',
+    spanish: 'suministro constante de'
+  },
+  {
+    norwegian: 'forretningsmodellen gående ut på',
+    english: 'the business model is based on',
+    spanish: 'el modelo de negocio se basa en'
+  },
+  {
+    norwegian: 'trakk og trakk',
+    english: 'pulled and pulled',
+    spanish: 'tiró y tiró'
+  },
+  {
+    norwegian: 'blitt omtalt',
+    english: 'been mentioned',
+    spanish: 'ha sido mencionado'
+  },
+  {
+    norwegian: 'vedtak',
+    english: 'decision',
+    spanish: 'decisión'
+  },
+  {
+    norwegian: 'er tilfelle',
+    english: 'is the case',
+    spanish: 'es el caso'
+  },
+  {
+    norwegian: 'de blir nok forbannet',
+    english: 'they will probably be angry',
+    spanish: 'probablemente estarán enojados'
+  },
+  {
+    norwegian: 'fremstilling er mangelfull',
+    english: 'presentation is incomplete',
+    spanish: 'la presentación es incompleta'
+  },
+  {
+    norwegian: 'pengedisponeringer',
+    english: 'cash flows',
+    spanish: 'flujos de efectivo'
+  },
+  {
+    norwegian: 'forutsetter betydelig vekst',
+    english: 'assumes significant growth',
+    spanish: 'asume un crecimiento significativo'
+  },
+  {
+    norwegian: 'langvarig og omfattende',
+    english: 'long-lasting and extensive',
+    spanish: 'duradero y extenso'
+  },
+  {
+    norwegian: 'de omfatter',
+    english: 'they include',
+    spanish: 'incluyen'
+  },
+  {
+    norwegian: 'tidvis har bedt',
+    english: 'have at times asked',
+    spanish: 'han pedido a veces'
   }
 ];
