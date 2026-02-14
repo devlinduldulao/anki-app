@@ -884,5 +884,95 @@ export const words: Question[] = [
     norwegian: 'oppriktig',
     english: 'sincere',
     spanish: 'sincero'
+  },
+  {
+    norwegian: 'selvstendige markedsførere',
+    english: 'independent marketers',
+    spanish: 'mercadólogos independientes'
+  },
+  {
+    norwegian: 'tapt noen panger',
+    english: 'lost some money',
+    spanish: 'perdió algo de dinero'
+  },
+  {
+    norwegian: 'sammenhengen mellom',
+    english: 'the connection between',
+    spanish: 'la conexión entre'
+  },
+  {
+    norwegian: 'å unngå rettslig forfølgelse',
+    english: 'to avoid legal prosecution',
+    spanish: 'para evitar la persecución legal'
+  },
+  {
+    norwegian: 'det vedtaket som er fattet',
+    english: 'the decision that has been made',
+    spanish: 'la decisión que se ha tomado'
+  },
+  {
+    norwegian: 'er pålagt stanset i Norge',
+    english: 'is required to stop in Norway',
+    spanish: 'se requiere que se detenga en Noruega'
+  },
+  {
+    norwegian: 'et vedlegg',
+    english: 'an attachment',
+    spanish: 'un adjunto'
+  },
+  {
+    norwegian: 'virksomheten i Norge',
+    english: 'the business in Norway',
+    spanish: 'el negocio en Noruega'
+  },
+  {
+    norwegian: 'har oppnådd',
+    english: 'has achieved',
+    spanish: 'ha logrado'
+  },
+  {
+    norwegian: 'dette belønnet med',
+    english: 'this rewarded with',
+    spanish: 'esto recompensado con'
+  },
+  {
+    norwegian: 'en råkjangs',
+    english: 'a reckless',
+    spanish: 'un imprudente'
+  },
+  {
+    norwegian: 'alle anklagene',
+    english: 'all the accusations',
+    spanish: 'todas las acusaciones'
+  },
+  {
+    norwegian: 'samvittighetsløst',
+    english: 'conscienceless',
+    spanish: 'despiadado'
+  },
+  {
+    norwegian: 'et strøk',
+    english: 'a stroke',
+    spanish: 'un golpe'
+  },
+  {
+    norwegian: 'er litt skrytete',
+    english: 'is a bit boastful',
+    spanish: 'es un poco jactancioso'
+  },
+  {
+    norwegian: 'at folk lar seg friste',
+    english: 'that people are tempted',
+    spanish: 'que la gente se siente tentada'
+  },
+  {
+    norwegian: 'sannheten er',
+    english: 'the truth is',
+    spanish: 'la verdad es'
+  },
+  {
+    norwegian: 'det er fritt frem in Norge',
+    english: 'it is free to operate in Norway',
+    spanish: 'es libre operar en Noruega'
   }
 ];
