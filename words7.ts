@@ -536,6 +536,11 @@ export const words: Question[] = [
     spanish: 'sin pantallas',
   },
   {
+    norwegian: 'det har gått en stund',
+    english: 'it has been a while',
+    spanish: 'ha pasado un tiempo',
+  },
+  {
     norwegian: 'å påtvinge isansvar',
     english: 'to impose ice responsibility',
     spanish: 'imponer la responsabilidad del hielo',
