@@ -607,8 +607,8 @@ export const words: Question[] = [
   },
   {
     norwegian: 'høyby',
-    english: 'high city',
-    spanish: 'ciudad alta',
+    english: 'high court',
+    spanish: 'tribunal supremo',
   },
   {
     norwegian: 'favorittfag',
