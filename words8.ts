@@ -974,5 +974,10 @@ export const words: Question[] = [
     norwegian: 'det er fritt frem in Norge',
     english: 'it is free to operate in Norway',
     spanish: 'es libre operar en Noruega'
+  },
+  {
+    norwegian: '200 ofre',
+    english: '200 victims',
+    spanish: '200 víctimas'
   }
 ];
