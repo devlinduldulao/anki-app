@@ -606,11 +606,6 @@ export const words: Question[] = [
     spanish: 'poderoso',
   },
   {
-    norwegian: 'høyby',
-    english: 'high court',
-    spanish: 'tribunal supremo',
-  },
-  {
     norwegian: 'favorittfag',
     english: 'favorite subject',
     spanish: 'asignatura favorita',
