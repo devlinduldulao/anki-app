@@ -494,5 +494,10 @@ export const words: Question[] = [
     norwegian: 'å synliggjøre kvalitet og bærekraft',
     english: 'to highlight quality and sustainability',
     spanish: 'para resaltar la calidad y la sostenibilidad'
+  },
+  {
+    norwegian: 'avslag fra',
+    english: 'rejection from',
+    spanish: 'rechazo de'
   }
 ];
