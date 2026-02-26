@@ -499,5 +499,135 @@ export const words: Question[] = [
     norwegian: 'avslag fra',
     english: 'rejection from',
     spanish: 'rechazo de'
+  },
+  {
+    norwegian: 'truer med å kutte samarbeid',
+    english: 'threatens to cut cooperation',
+    spanish: 'amenaza con cortar la cooperación'
+  },
+  {
+    norwegian: 'forsvarsdepartementet',
+    english: 'the defense department',
+    spanish: 'el departamento de defensa'
+  },
+  {
+    norwegian: 'etterretning og i strid',
+    english: 'intelligence and in conflict',
+    spanish: 'inteligencia y en conflicto'
+  },
+  {
+    norwegian: 'en høytstående',
+    english: 'a high-ranking',
+    spanish: 'un alto cargo'
+  },
+  {
+    norwegian: 'på studenthuben',
+    english: 'on the student hub',
+    spanish: 'en el centro de estudiantes'
+  },
+  {
+    norwegian: 'underveis',
+    english: 'underway',
+    spanish: 'en camino'
+  },
+  {
+    norwegian: 'du er bevisst',
+    english: 'you are aware',
+    spanish: 'eres consciente'
+  },
+  {
+    norwegian: 'bevisstgjøring',
+    english: 'awareness',
+    spanish: 'conciencia'
+  },
+  {
+    norwegian: 'lederstil og kultur kolliderer',
+    english: 'leadership style and culture collide',
+    spanish: 'el estilo de liderazgo y la cultura chocan'
+  },
+  {
+    norwegian: 'nær halvparten av',
+    english: 'nearly half of',
+    spanish: 'casi la mitad de'
+  },
+  {
+    norwegian: 'å videreutvikle',
+    english: 'to further develop',
+    spanish: 'para desarrollar aún más'
+  },
+  {
+    norwegian: 'norske leverandører',
+    english: 'Norwegian suppliers',
+    spanish: 'proveedores noruegos'
+  },
+  {
+    norwegian: 'er åpen for bidrag',
+    english: 'is open to contributions',
+    spanish: 'está abierto a contribuciones'
+  },
+  {
+    norwegian: 'i skjæringspunktet',
+    english: 'at the intersection',
+    spanish: 'en la intersección'
+  },
+  {
+    norwegian: 'fra kreatører',
+    english: 'from creators',
+    spanish: 'de los creadores'
+  },
+  {
+    norwegian: 'som kjennetegner vellykkede',
+    english: 'that characterize successful',
+    spanish: 'que caracterizan a los exitosos'
+  },
+  {
+    norwegian: 'bekostning av jobben',
+    english: 'at the expense of the job',
+    spanish: 'a expensas del trabajo'
+  },
+  {
+    norwegian: 'enkeltindivider',
+    english: 'individuals',
+    spanish: 'individuos'
+  },
+  {
+    norwegian: 'til sammenlikning stiller finansbransjen',
+    english: 'by comparison, the financial industry poses',
+    spanish: 'en comparación, la industria financiera plantea'
+  },
+  {
+    norwegian: 'rekordpåmelding',
+    english: 'record registration',
+    spanish: 'registro récord'
+  },
+  {
+    norwegian: 'på stafetten',
+    english: 'in the relay',
+    spanish: 'en el relevo'
+  },
+  {
+    norwegian: 'toppmøtet',
+    english: 'the summit',
+    spanish: 'la cumbre'
+  },
+  {
+    norwegian: 'en av innlederne',
+    english: 'one of the speakers',
+    spanish: 'uno de los oradores'
+  },
+  {
+    norwegian: 'i brede produktivitetstall',
+    english: 'in broad productivity figures',
+    spanish: 'en amplias cifras de productividad'
+  },
+  {
+    norwegian: 'tradisjonelle vårsyklus',
+    english: 'traditional spring cycle',
+    spanish: 'ciclo tradicional de primavera'
+  },
+  {
+    norwegian: 'ny rimelig MacBook',
+    english: 'new affordable MacBook',
+    spanish: 'nueva MacBook asequible'
   }
 ];
