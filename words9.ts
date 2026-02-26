@@ -629,5 +629,205 @@ export const words: Question[] = [
     norwegian: 'ny rimelig MacBook',
     english: 'new affordable MacBook',
     spanish: 'nueva MacBook asequible'
+  },
+  {
+    norwegian: 'årsaken',
+    english: 'the reason',
+    spanish: 'la razón'
+  },
+  {
+    norwegian: 'en økende spenning',
+    english: 'an increasing tension',
+    spanish: 'una tensión creciente'
+  },
+  {
+    norwegian: 'som inngår i',
+    english: 'which is part of',
+    spanish: 'que forma parte de'
+  },
+  {
+    norwegian: 'fullstendig utopi mener regjeringen',
+    english: 'complete utopia according to the government',
+    spanish: 'utopía completa según el gobierno'
+  },
+  {
+    norwegian: 'uttalelser om patenter leveres',
+    english: 'statements about patents are delivered',
+    spanish: 'declaraciones sobre patentes se entregan'
+  },
+  {
+    norwegian: 'utrullingsplaner',
+    english: 'rollout plans',
+    spanish: 'planes de despliegue'
+  },
+  {
+    norwegian: 'bokomslag',
+    english: 'book cover',
+    spanish: 'cubierta de libro'
+  },
+  {
+    norwegian: 'usikkerhet knyttet til',
+    english: 'uncertainty related to',
+    spanish: 'incertidumbre relacionada con'
+  },
+  {
+    norwegian: 'forlaget sier at',
+    english: 'the publisher says that',
+    spanish: 'la editorial dice que'
+  },
+  {
+    norwegian: 'raskere innlasting',
+    english: 'faster loading',
+    spanish: 'carga más rápida'
+  },
+  {
+    norwegian: 'standardoppførselen',
+    english: 'the standard behavior',
+    spanish: 'el comportamiento estándar'
+  },
+  {
+    norwegian: 'å være tilstede',
+    english: 'to be present',
+    spanish: 'estar presente'
+  },
+  {
+    norwegian: 'høyskoler og universiteter',
+    english: 'colleges and universities',
+    spanish: 'colegios y universidades'
+  },
+  {
+    norwegian: 'avklare',
+    english: 'clarify',
+    spanish: 'aclarar'
+  },
+  {
+    norwegian: 'etablere tydelige',
+    english: 'establish clear',
+    spanish: 'establecer claros'
+  },
+  {
+    norwegian: 'innrømmer utroskap',
+    english: 'admits infidelity',
+    spanish: 'admite infidelidad'
+  },
+  {
+    norwegian: 'en stor tabbe å omgås',
+    english: 'a big mistake to associate with',
+    spanish: 'un gran error asociarse con'
+  },
+  {
+    norwegian: 'beklager overfor stiftelsen',
+    english: 'apologizes to the foundation',
+    spanish: 'se disculpa con la fundación'
+  },
+  {
+    norwegian: 'lovbrudd',
+    english: 'violation of the law',
+    spanish: 'violación de la ley'
+  },
+  {
+    norwegian: 'forbauset over at',
+    english: 'surprised that',
+    spanish: 'sorprendido de que'
+  },
+  {
+    norwegian: 'har blitt lagt ut',
+    english: 'has been posted',
+    spanish: 'ha sido publicado'
+  },
+  {
+    norwegian: 'fargerik middag',
+    english: 'colorful dinner',
+    spanish: 'cena colorida'
+  },
+  {
+    norwegian: 'kjøttpinne',
+    english: 'meat stick',
+    spanish: 'palillo de carne'
+  },
+  {
+    norwegian: 'forbauset',
+    english: 'surprised',
+    spanish: 'sorprendido'
+  },
+  {
+    norwegian: 'har den nådd',
+    english: 'has it reached',
+    spanish: '¿ha alcanzado?'
+  },
+  {
+    norwegian: 'basert på frittgående kyr',
+    english: 'based on free-range cows',
+    spanish: 'basado en vacas de pastoreo'
+  },
+  {
+    norwegian: 'blant grunnleggerne',
+    english: 'among the founders',
+    spanish: 'entre los fundadores'
+  },
+  {
+    norwegian: 'av stiftelsens grunnleggere',
+    english: 'by the foundation\'s founders',
+    spanish: 'por los fundadores de la fundación'
+  },
+  {
+    norwegian: 'utvikler hevder',
+    english: 'developer claims',
+    spanish: 'el desarrollador afirma'
+  },
+  {
+    norwegian: 'gjør formell verifikasjon',
+    english: 'performs formal verification',
+    spanish: 'realiza verificación formal'
+  },
+  {
+    norwegian: 'utsagnene har naturlig nok skapt',
+    english: 'the statements have naturally created',
+    spanish: 'las declaraciones han creado naturalmente'
+  },
+  {
+    norwegian: 'enorme fremskritt',
+    english: 'enormous progress',
+    spanish: 'enorme progreso'
+  },
+  {
+    norwegian: 'består enhver test',
+    english: 'passes every test',
+    spanish: 'pasa todas las pruebas'
+  },
+  {
+    norwegian: 'snarere enn en',
+    english: 'rather than a',
+    spanish: 'en lugar de una'
+  },
+  {
+    norwegian: 'patentsøknader',
+    english: 'patent applications',
+    spanish: 'solicitudes de patentes'
+  },
+  {
+    norwegian: 'en rekke mangler og uklarheter',
+    english: 'a number of deficiencies and ambiguities',
+    spanish: 'una serie de deficiencias y ambigüedades'
+  },
+  {
+    norwegian: 'patentstyret merker en',
+    english: 'the patent office notes a',
+    spanish: 'la oficina de patentes nota un'
+  },
+  {
+    norwegian: 'uklarheter',
+    english: 'ambiguities',
+    spanish: 'ambigüedades'
+  },
+  {
+    norwegian: 'opplyser de i en pressemelding',
+    english: 'they state in a press release',
+    spanish: 'afirman en un comunicado de prensa'
+  },
+  {
+    norwegian: 'en stor mengde søknader',
+    english: 'a large number of applications',
+    spanish: 'una gran cantidad de solicitudes'
   }
 ];
