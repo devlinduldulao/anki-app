@@ -126,11 +126,6 @@ export const words: Question[] = [
     spanish: 'un escritor externo'
   },
   {
-    norwegian: 'en ekstern skribent',
-    english: 'an external writer',
-    spanish: 'un escritor externo'
-  },
-  {
     norwegian: 'mener utviklere bør',
     english: 'believes developers should',
     spanish: 'cree que los desarrolladores deberían'
