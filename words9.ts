@@ -824,5 +824,165 @@ export const words: Question[] = [
     norwegian: 'en stor mengde søknader',
     english: 'a large number of applications',
     spanish: 'una gran cantidad de solicitudes'
+  },
+  {
+    norwegian: 'ble kvitt',
+    english: 'got rid of',
+    spanish: 'se deshizo de'
+  },
+  {
+    norwegian: 'støttehjul',
+    english: 'training wheels',
+    spanish: 'ruedas de entrenamiento'
+  },
+  {
+    norwegian: 'finstyring',
+    english: 'fine-tuning',
+    spanish: 'ajuste fino'
+  },
+  {
+    norwegian: 'færre avvisninger',
+    english: 'fewer rejections',
+    spanish: 'menos rechazos'
+  },
+  {
+    norwegian: 'foreløpig har',
+    english: 'so far has',
+    spanish: 'hasta ahora tiene'
+  },
+  {
+    norwegian: 'har startet overgangen til',
+    english: 'has started the transition to',
+    spanish: 'ha comenzado la transición a'
+  },
+  {
+    norwegian: 'gikk konkurs',
+    english: 'went bankrupt',
+    spanish: 'quedó en bancarrota'
+  },
+  {
+    norwegian: 'han gruer seg til',
+    english: 'he dreads',
+    spanish: 'él teme'
+  },
+  {
+    norwegian: 'forsiden har ekstreme krav til oppetid',
+    english: 'the front page has extreme uptime requirements',
+    spanish: 'la página principal tiene requisitos extremos de tiempo de actividad'
+  },
+  {
+    norwegian: 'er frikoblet fra',
+    english: 'is decoupled from',
+    spanish: 'está desacoplado de'
+  },
+  {
+    norwegian: 'håndterer og deler verifiserte data',
+    english: 'handles and shares verified data',
+    spanish: 'maneja y comparte datos verificados'
+  },
+  {
+    norwegian: 'en rekke felles utfordringer',
+    english: 'a number of common challenges',
+    spanish: 'una serie de desafíos comunes'
+  },
+  {
+    norwegian: 'hacket ved et uhell',
+    english: 'hacked by accident',
+    spanish: 'hackeado por accidente'
+  },
+  {
+    norwegian: 'erkjenner feil',
+    english: 'acknowledges mistakes',
+    spanish: 'reconoce errores'
+  },
+  {
+    norwegian: 'å framstille en nøyaktig romoversikt',
+    english: 'to create an accurate room overview',
+    spanish: 'para crear una visión general precisa de la habitación'
+  },
+  {
+    norwegian: 'en app tilknyttet støvsugeren',
+    english: 'an app associated with the vacuum cleaner',
+    spanish: 'una aplicación asociada con la aspiradora'
+  },
+  {
+    norwegian: 'forente arabiske emirater',
+    english: 'United Arab Emirates',
+    spanish: 'Emiratos Árabes Unidos'
+  },
+  {
+    norwegian: 'flere soner rammet',
+    english: 'multiple zones affected',
+    spanish: 'múltiples zonas afectadas'
+  },
+  {
+    norwegian: 'å sikkerhetskopiere data umiddelbart',
+    english: 'to back up data immediately',
+    spanish: 'para respaldar los datos de inmediato'
+  },
+  {
+    norwegian: 'gradvis utrulling frem mot 2027',
+    english: 'gradual rollout towards 2027',
+    spanish: 'despliegue gradual hacia 2027'
+  },
+  {
+    norwegian: 'kvanteangrep fortsatt ligger noen',
+    english: 'quantum attacks still lie some',
+    spanish: 'los ataques cuánticos aún se encuentran algunos'
+  },
+  {
+    norwegian: 'spår oppkjøp av Tailwind',
+    english: 'predicts acquisition of Tailwind',
+    spanish: 'predice la adquisición de Tailwind'
+  },
+  {
+    norwegian: 'har synske egenskaper',
+    english: 'has psychic abilities',
+    spanish: 'tiene habilidades psíquicas'
+  },
+  {
+    norwegian: 'nye sikkerhetsutfordringer',
+    english: 'new security challenges',
+    spanish: 'nuevos desafíos de seguridad'
+  },
+  {
+    norwegian: 'felles begrep',
+    english: 'common term',
+    spanish: 'término común'
+  },
+  {
+    norwegian: 'fornuftig og ansvarlig bruk',
+    english: 'sensible and responsible use',
+    spanish: 'uso sensato y responsable'
+  },
+  {
+    norwegian: 'kartverket er bekymret for',
+    english: 'the mapping authority is concerned about',
+    spanish: 'la autoridad de cartografía está preocupada por'
+  },
+  {
+    norwegian: 'at veksten blir fremover',
+    english: 'that the growth will be forward',
+    spanish: 'que el crecimiento será hacia adelante'
+  },
+  {
+    norwegian: 'varsler mulig datalekkasje',
+    english: 'alerts possible data leak',
+    spanish: 'alerta posible fuga de datos'
+  },
+  {
+    norwegian: 'varsler mulig datalekkasje',
+    english: 'alerts possible data leak',
+    spanish: 'alerta posible fuga de datos'
+  },
+  {
+    norwegian: 'være avgrenset til',
+    english: 'be limited to',
+    spanish: 'estar limitado a'
+  },
+  {
+    norwegian: 'etterspørselen etter identitets',
+    english: 'the demand for identity',
+    spanish: 'la demanda de identidad'
   }
 ];
