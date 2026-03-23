@@ -984,5 +984,40 @@ export const words: Question[] = [
     norwegian: 'etterspørselen etter identitets',
     english: 'the demand for identity',
     spanish: 'la demanda de identidad'
+  },
+  {
+    norwegian: 'gjennombrudd i identitetsverifisering',
+    english: 'breakthrough in identity verification',
+    spanish: 'avance en la verificación de identidad'
+  },
+  {
+    norwegian: 'sjangeren er en blanding av',
+    english: 'the genre is a mix of',
+    spanish: 'el género es una mezcla de'
+  },
+  {
+    norwegian: 'vært gjevest',
+    english: 'been prestigious',
+    spanish: 'ha sido prestigioso'
+  },
+  {
+    norwegian: 'ydmyk',
+    english: 'humble',
+    spanish: 'humilde'
+  },
+  {
+    norwegian: 'urørt',
+    english: 'untouched',
+    spanish: 'intacto'
+  },
+  {
+    norwegian: 'pute',
+    english: 'pillow',
+    spanish: 'almohada'
+  },
+  {
+    norwegian: 'tipper',
+    english: 'predicts',
+    spanish: 'predice'
   }
 ];
