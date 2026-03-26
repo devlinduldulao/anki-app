@@ -1019,5 +1019,70 @@ export const words: Question[] = [
     norwegian: 'tipper',
     english: 'predicts',
     spanish: 'predice'
+  },
+  {
+    norwegian:'hvis du nekter å bruke',
+    english: 'if you refuse to use',
+    spanish: 'si te niegas a usar'
+  },
+  {
+    norwegian: 'datateknologi topper søkerveksten',
+    english: 'data technology tops search growth',
+    spanish: 'la tecnología de datos encabeza el crecimiento de las búsquedas'
+  },
+  {
+    norwegian: 'yrkesfag',
+    english: 'vocational subjects',
+    spanish: 'asignaturas vocacionales'
+  },
+  {
+    norwegian: 'ukjente sånn',
+    english: 'unknown like that',
+    spanish: 'desconocido así'
+  },
+  {
+    norwegian: 'tidsreising',
+    english: 'time travel',
+    spanish: 'viaje en el tiempo'
+  },
+  {
+    norwegian: 'laus tolking',
+    english: 'loose interpretation',
+    spanish: 'interpretación libre'
+  },
+  {
+    norwegian: 'veldig fengende',
+    english: 'very captivating',
+    spanish: 'muy cautivador'
+  },
+  {
+    norwegian: 'sjakk',
+    english: 'chess',
+    spanish: 'ajedrez'
+  },
+  {
+    norwegian: 'overgripere er ikke monstre',
+    english: 'perpetrators are not monsters',
+    spanish: 'los perpetradores no son monstruos'
+  },
+  {
+    norwegian: 'ungarer',
+    english: 'Hungarians',
+    spanish: 'húngaros'
+  },
+  {
+    norwegian: 'tidssonen',
+    english: 'time zone',
+    spanish: 'zona horaria'
+  },
+  {
+    norwegian: 'å omgås',
+    english: 'to associate with',
+    spanish: 'asociarse con'
+  },
+  {
+    norwegian: 'tillitsvalgte',
+    english: 'union representatives',
+    spanish: 'representantes sindicales'
   }
 ];
