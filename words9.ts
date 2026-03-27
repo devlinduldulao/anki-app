@@ -1084,5 +1084,45 @@ export const words: Question[] = [
     norwegian: 'tillitsvalgte',
     english: 'union representatives',
     spanish: 'representantes sindicales'
+  },
+  {
+    norwegian: 'drøy',
+    english: 'excessive',
+    spanish: 'excesivo'
+  },
+  {
+    norwegian: 'antagelsen om at',
+    english: 'the assumption that',
+    spanish: 'la suposición de que'
+  },
+  {
+    norwegian: 'dømt',
+    english: 'convicted',
+    spanish: 'condenado'
+  },
+  {
+    norwegian: 'repetisjon',
+    english: 'rehearsal',
+    spanish: 'ensayo'
+  },
+  {
+    norwegian: 'du frossa fast',
+    english: 'you froze solid',
+    spanish: 'te congelaste'
+  },
+  {
+    norwegian: 'ikke tieren',
+    english: 'not the ten',
+    spanish: 'no el diez'
+  },
+  {
+    norwegian: 'myndighetene har innført',
+    english: 'the authorities have implemented',
+    spanish: 'las autoridades han implementado'
+  },
+  {
+    norwegian: 'beundring for',
+    english: 'admiration for',
+    spanish: 'admiración por'
   }
 ];
