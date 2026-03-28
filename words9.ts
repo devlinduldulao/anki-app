@@ -1134,5 +1134,30 @@ export const words: Question[] = [
     norwegian: 'oppmerksomhet',
     english: 'attention',
     spanish: 'atención'
+  },
+  {
+    norwegian: 'glor du på meg',
+    english: 'are you staring at me',
+    spanish: '¿me estás mirando fijamente?'
+  },
+  {
+    norwegian: 'åstedet',
+    english: 'the crime scene',
+    spanish: 'la escena del crimen'
+  },
+  {
+    norwegian: 'purken',
+    english: 'the cop',
+    spanish: 'el policía'
+  },
+  {
+    norwegian: 'artig uttrykk',
+    english: 'funny expression',
+    spanish: 'expresión divertida'
+  },
+  {
+    norwegian: 'motbakker',
+    english: 'uphill battles',
+    spanish: 'batallas cuesta arriba'
   }
 ];
