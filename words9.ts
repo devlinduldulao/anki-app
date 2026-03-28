@@ -1124,5 +1124,15 @@ export const words: Question[] = [
     norwegian: 'beundring for',
     english: 'admiration for',
     spanish: 'admiración por'
+  },
+  {
+    norwegian: 'usaklig',
+    english: 'unfair',
+    spanish: 'injusto'
+  },
+  {
+    norwegian: 'oppmerksomhet',
+    english: 'attention',
+    spanish: 'atención'
   }
 ];
