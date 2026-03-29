@@ -1324,5 +1324,25 @@ export const words: Question[] = [
     norwegian: 'luft ut eventuell røyk',
     english: 'ventilate any smoke',
     spanish: 'ventilar cualquier humo'
+  },
+  {
+    norwegian: 'tilbakestill',
+    english: 'reset',
+    spanish: 'reiniciar'
+  },
+  {
+    norwegian:'følg instruksen nedenfor',
+    english: 'follow the instructions below',
+    spanish: 'siga las instrucciones a continuación'
+  },
+  {
+    norwegian: 'vil nå slukke',
+    english: 'will now extinguish',
+    spanish: 'ahora extinguirá'
+  },
+  {
+    norwegian: 'bistå med evakuering',
+    english: 'assist with evacuation',
+    spanish: 'ayudar con la evacuación'
   }
 ];
