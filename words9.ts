@@ -1249,5 +1249,80 @@ export const words: Question[] = [
     norwegian: 'antagelig',
     english: 'probably',
     spanish: 'probablemente'
+  },
+  {
+    norwegian: 'branninstruks boliger tilknyttet feliesanlegget',
+    english: 'fire instructions for housing associated with the community facility',
+    spanish: 'instrucciones de incendio para viviendas asociadas con la instalación comunitaria'
+  },
+  {
+    norwegian: 'sameie',
+    english: 'condominium',
+    spanish: 'condominio'
+  },
+  {
+    norwegian: 'er tilknyttet',
+    english: 'is associated with',
+    spanish: 'está asociado con'
+  },
+  {
+    norwegian: 'brannvarslingsanlegget',
+    english: 'fire alarm system',
+    spanish: 'sistema de alarma contra incendios'
+  },
+  {
+    norwegian: 'har innebygget',
+    english: 'has built-in',
+    spanish: 'tiene incorporado'
+  },
+  {
+    norwegian: 'alamorgan',
+    english: 'alarm organ',
+    spanish: 'órgano de alarma'
+  },
+  {
+    norwegian: 'utløst brannalarm',
+    english: 'triggered fire alarm',
+    spanish: 'alarma de incendio activada'
+  },
+  {
+    norwegian: 'i fellesanlegget',
+    english: 'in the community facility',
+    spanish: 'en la instalación comunitaria'
+  },
+  {
+    norwegian: 'bygårdsfunksjon',
+    english: 'courtyard function',
+    spanish: 'función de patio'
+  },
+  {
+    norwegian: 'detektorer',
+    english: 'detectors',
+    spanish: 'detectores'
+  },
+  {
+    norwegian: 'instruks ved feilalarm',
+    english: 'instructions for false alarm',
+    spanish: 'instrucciones para falsa alarma'
+  },
+  {
+    norwegian: 'brannmannspanel',
+    english: 'fireman panel',
+    spanish: 'panel de bombero'
+  },
+  {
+    norwegian: 'montert i fellesanlegget',
+    english: 'mounted in the community facility',
+    spanish: 'montado en la instalación comunitaria'
+  },
+  {
+    norwegian: 'vri om nøkkel til betjent posisjon',
+    english: 'turn the key to the attended position',
+    spanish: 'girar la llave a la posición atendida'
+  },
+  {
+    norwegian: 'luft ut eventuell røyk',
+    english: 'ventilate any smoke',
+    spanish: 'ventilar cualquier humo'
   }
 ];
