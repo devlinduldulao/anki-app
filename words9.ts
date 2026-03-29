@@ -1159,5 +1159,95 @@ export const words: Question[] = [
     norwegian: 'motbakker',
     english: 'uphill battles',
     spanish: 'batallas cuesta arriba'
+  },
+  {
+    norwegian: 'innbrudd',
+    english: 'burglary',
+    spanish: 'robo'
+  },
+  {
+    norwegian: 'forsvunnet',
+    english: 'disappeared',
+    spanish: 'desaparecido'
+  },
+  {
+    norwegian: 'alkis',
+    english: 'drunk',
+    spanish: 'borracho'
+  },
+  {
+    norwegian: 'unntakk',
+    english: 'exception',
+    spanish: 'excepción'
+  },
+  {
+    norwegian: 'hva gjelder det',
+    english: 'what does it concern',
+    spanish: '¿de qué se trata?'
+  },
+  {
+    norwegian: 'innkasso',
+    english: 'debt collection',
+    spanish: 'cobro de deudas'  
+  },
+  {
+    norwegian: 'helt middels',
+    english: 'completely average',
+    spanish: 'completamente promedio'
+  },
+  {
+    norwegian: 'hadde stukket',
+    english: 'had stabbed',
+    spanish: 'había apuñalado'
+  },
+  {
+    norwegian: 'vedlikeholde',
+    english: 'maintain',
+    spanish: 'mantener'
+  },
+  {
+    norwegian: 'tilfellet',
+    english: 'the case',
+    spanish: 'el caso'
+  },
+  {
+    norwegian: 'ondskap',
+    english: 'evil',
+    spanish: 'mal'
+  },
+  {
+    norwegian: 'friheten',
+    english: 'freedom',
+    spanish: 'libertad'
+  },
+  {
+    norwegian: 'enehersker',
+    english: 'autocrat',
+    spanish: 'autócrata'
+  },
+  {
+    norwegian: 'et redskap',
+    english: 'a tool',
+    spanish: 'una herramienta'
+  },
+  {
+    norwegian: 'hedningene',
+    english: 'the pagans',
+    spanish: 'los paganos'
+  },
+  {
+    norwegian: 'rir vedkommende',
+    english: 'rides the person',
+    spanish: 'monta a la persona'
+  },
+  {
+    norwegian: 'sykkelbrud',
+    english: 'bicycle break',
+    spanish: 'rotura de bicicleta'
+  },
+  {
+    norwegian: 'antagelig',
+    english: 'probably',
+    spanish: 'probablemente'
   }
 ];
