@@ -1344,5 +1344,85 @@ export const words: Question[] = [
     norwegian: 'bistå med evakuering',
     english: 'assist with evacuation',
     spanish: 'ayudar con la evacuación'
-  }
+  },
+  {
+    norwegian: 'brannslukkeutstyr',
+    english: 'fire extinguishing equipment',
+    spanish: 'equipo de extinción de incendios'
+  },
+  {
+    norwegian: 'betjeningsinstruks',
+    english: 'operating instructions',
+    spanish: 'instrucciones de operación'
+  },
+  {
+    norwegian: 'lamper og taster',
+    english: 'lamps and buttons',
+    spanish: 'lámparas y botones'
+  },
+  {
+    norwegian: 'funksjonstaster',
+    english: 'function keys',
+    spanish: 'teclas de función'
+  },
+  {
+    norwegian: 'forsinkelse',
+    english: 'delay',
+    spanish: 'retraso'
+  },
+  {
+    norwegian: 'alarmsted utkoblet',
+    english: 'alarm location disconnected',
+    spanish: 'ubicación de alarma desconectada'
+  },
+  {
+    norwegian: 'alarmsender aktivert',
+    english: 'alarm sender activated',
+    spanish: 'emisor de alarma activado'
+  },
+  {
+    norwegian: 'slokkeanlegg aktivert',
+    english: 'extinguishing system activated',
+    spanish: 'sistema de extinción activado'
+  },
+  {
+    norwegian: 'avstill klokker',
+    english: 'silence the bells',
+    spanish: 'silenciar las campanas'
+  },
+  {
+    norwegian: 'tilbakestill',
+    english: 'reset',
+    spanish: 'reiniciar'
+  },
+  {
+    norwegian: 'panelets dørbryter',
+    english: 'the panel\'s door switch',
+    spanish: 'el interruptor de la puerta del panel'
+  },
+  {
+    norwegian: 'å avstille',
+    english: 'to silence',
+    spanish: 'silenciar'
+  },
+  {
+    norwegian: 'er meldt til',
+    english: 'is reported to',
+    spanish: 'se informa a'
+  },
+  {
+    norwegian: 'brannsentralen',
+    english: 'the fire station',
+    spanish: 'la estación de bomberos'
+  },
+  {
+    norwegian: 'slokkeanlegg aktivert',
+    english: 'extinguishing system activated',
+    spanish: 'sistema de extinción activado'
+  },
+  {
+    norwegian: 'alarmsted utkoblet',
+    english: 'alarm location disconnected',
+    spanish: 'ubicación de alarma desconectada'
+  },
 ];
