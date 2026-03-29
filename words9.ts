@@ -1425,4 +1425,19 @@ export const words: Question[] = [
     english: 'alarm location disconnected',
     spanish: 'ubicación de alarma desconectada'
   },
+  {
+    norwegian: 'skurker',
+    english: 'villains',
+    spanish: 'villanos'
+  },
+  {
+    norwegian: 'lidenskap',
+    english: 'passion',
+    spanish: 'pasión'
+  },
+  {
+    norwegian: 'friheten',
+    english: 'freedom',
+    spanish: 'libertad'
+  }
 ];
