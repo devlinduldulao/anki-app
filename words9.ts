@@ -1439,5 +1439,65 @@ export const words: Question[] = [
     norwegian: 'friheten',
     english: 'freedom',
     spanish: 'libertad'
+  },
+  {
+    norwegian: 'jeg sviktet ham',
+    english: 'I failed him',
+    spanish: 'lo fallé'
+  },
+  {
+    norwegian: 'ubevæpna',
+    english: 'unarmed',
+    spanish: 'desarmado'
+  },
+  {
+    norwegian: 'innehar',
+    english: 'holds',
+    spanish: 'posee'
+  },
+  {
+    norwegian: 'bouillonet',
+    english: 'the broth',
+    spanish: 'el caldo'
+  },
+  {
+    norwegian: 'de er av gårde på',
+    english: 'they are off on',
+    spanish: 'están de camino a'
+  },
+  {
+    norwegian: 'åndelig leder',
+    english: 'spiritual leader',
+    spanish: 'líder espiritual'
+  },
+  {
+    norwegian: 'betrodde deg staven',
+    english: 'entrusted you with the staff',
+    spanish: 'te confió el bastón'
+  },
+  {
+    norwegian: 'etterfølger',
+    english: 'successor',
+    spanish: 'sucesor'
+  },
+  {
+    norwegian: 'overfinne fiender',
+    english: 'overcome enemies',
+    spanish: 'superar enemigos'
+  },
+  {
+    norwegian: 'i tvil om',
+    english: 'in doubt about',
+    spanish: 'en duda sobre'
+  },
+  {
+    norwegian: 'framstår død',
+    english: 'appears dead',
+    spanish: 'parece muerto'
+  },
+  {
+    norwegian: 'øvinge',
+    english: 'rehearse',
+    spanish: 'ensayar'
   }
 ];
