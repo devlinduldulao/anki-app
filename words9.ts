@@ -1436,6 +1436,31 @@ export const words: Question[] = [
     spanish: 'pasión'
   },
   {
+    norwegian: 'veit',
+    english: 'knows',
+    spanish: 'sabe'
+  },
+  {
+    norwegian: 'vekk',
+    english: 'away',
+    spanish: 'lejos'
+  },
+  {
+    norwegian: 'anledning',
+    english: 'occasion',
+    spanish: 'ocasión'
+  },
+  {
+    norwegian: 'et offer',
+    english: 'a victim',
+    spanish: 'una víctima'
+  },
+  {
+    norwegian: 'drevet',
+    english: 'driven',
+    spanish: 'impulsado'
+  },
+  {
     norwegian: 'friheten',
     english: 'freedom',
     spanish: 'libertad'
