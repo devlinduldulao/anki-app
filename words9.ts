@@ -1524,5 +1524,185 @@ export const words: Question[] = [
     norwegian: 'øvinge',
     english: 'rehearse',
     spanish: 'ensayar'
+  },
+  {
+    norwegian: 'å erstatte',
+    english: 'to replace',
+    spanish: 'reemplazar'
+  },
+  {
+    norwegian: 'bak opprop',
+    english: 'behind the appeal',
+    spanish: 'detrás del llamamiento'
+  },
+  {
+    norwegian: 'dømt til nederlag',
+    english: 'condemned to defeat',
+    spanish: 'condenado a la derrota'
+  },
+  {
+    norwegian: 'slakter oppførsel',
+    english: 'slaughters behavior',
+    spanish: 'destruye el comportamiento'
+  },
+  {
+    norwegian: 'pressevakt',
+    english: 'press guard',
+    spanish: 'guardia de prensa'
+  },
+  {
+    norwegian: 'omkom',
+    english: 'perished',
+    spanish: 'pereció'
+  },
+  {
+    norwegian: 'revurdere',
+    english: 'reconsider',
+    spanish: 'reconsiderar'
+  },
+  {
+    norwegian: 'gror undertøye',
+    english: 'grows underwear',
+    spanish: 'crece ropa interior'
+  },
+  {
+    norwegian: 'hun byller',
+    english: 'she boils',
+    spanish: 'ella hierve'
+  },
+  {
+    norwegian: 'smertefullt',
+    english: 'painful',
+    spanish: 'doloroso'
+  },
+  {
+    norwegian: 'utforsking',
+    english: 'exploration',
+    spanish: 'exploración'
+  },
+  {
+    norwegian: 'tilkalle',
+    english: 'call',
+    spanish: 'llamar'
+  },
+  {
+    norwegian: 'etterlyst',
+    english: 'wanted',
+    spanish: 'buscado'
+  },
+  {
+    norwegian: 'maken',
+    english: 'match',
+    spanish: 'partido'
+  },
+  {
+    norwegian: 'herfra',
+    english: 'from here',
+    spanish: 'desde aquí'
+  },
+  {
+    norwegian: 'utvide',
+    english: 'expand',
+    spanish: 'expandir'
+  },
+  {
+    norwegian: 'skjebnen',
+    english: 'fate',
+    spanish: 'destino'
+  },
+  {
+    norwegian: 'stans',
+    english: 'stop',
+    spanish: 'detener'
+  },
+  {
+    norwegian: 'hukommelse',
+    english: 'memory',
+    spanish: 'memoria'
+  },
+  {
+    norwegian: 'oppføre',
+    english: 'behave',
+    spanish: 'comportarse'
+  },
+  {
+    norwegian: 'styrte',
+    english: 'govern',
+    spanish: 'gobernar'
+  },
+  {
+    norwegian: 'utgifter',
+    english: 'expenses',
+    spanish: 'gastos'
+  },
+  {
+    norwegian: 'formidle',
+    english: 'convey',
+    spanish: 'transmitir'
+  },
+  {
+    norwegian: 'gavmild',
+    english: 'generous',
+    spanish: 'generoso'
+  },
+  {
+    norwegian: 'frifot',
+    english: 'at large',
+    spanish: 'en libertad'
+  },
+  {
+    norwegian: 'løgnens øgle',
+    english: 'the lizard of lies',
+    spanish: 'el lagarto de las mentiras'
+  },
+  {
+    norwegian: 'glødende',
+    english: 'glowing',
+    spanish: 'brillante'
+  },
+  {
+    norwegian: 'et fotavtrykl',
+    english: 'a footprint',
+    spanish: 'una huella'
+  },
+  {
+    norwegian: 'etterlater seg',
+    english: 'leaves behind',
+    spanish: 'deja atrás'
+  },
+  {
+    norwegian: 'skritt',
+    english: 'steps',
+    spanish: 'pasos'
+  },
+  {
+    norwegian: 'kneler',
+    english: 'kneels',
+    spanish: 'se arrodilla'
+  },
+  {
+    norwegian: 'the dragon warrior',
+    english: 'the dragon warrior',
+    spanish: 'el guerrero dragón'
+  },
+  {
+    norwegian: 'steinbruddet',
+    english: 'the quarry',
+    spanish: 'la cantera'
+  },
+  {
+    norwegian: 'jernet',
+    english: 'the iron',
+    spanish: 'el hierro'
+  },
+  {
+    norwegian: 'våger',
+    english: 'dares',
+    spanish: 'se atreve'
+  },
+  {
+    norwegian: 'dolken',
+    english: 'the dagger',
+    spanish: 'la daga'
   }
 ];
