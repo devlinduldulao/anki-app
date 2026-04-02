@@ -1704,5 +1704,75 @@ export const words: Question[] = [
     norwegian: 'dolken',
     english: 'the dagger',
     spanish: 'la daga'
+  },
+  {
+    norwegian: 'innsett',
+    english: 'install',
+    spanish: 'instalar'
+  },
+  {
+    norwegian: 'krydret',
+    english: 'spiced',
+    spanish: 'especiado'
+  },
+  {
+    norwegian: 'et brutt løfte',
+    english: 'a broken promise',
+    spanish: 'una promesa rota'
+  },
+  {
+    norwegian: 'gjenopprette',
+    english: 'restore',
+    spanish: 'restaurar'
+  },
+  {
+    norwegian: 'forlot',
+    english: 'left',
+    spanish: 'dejó'
+  },
+  {
+    norwegian: 'i dalen',
+    english: 'in the valley',
+    spanish: 'en el valle'
+  },
+  {
+    norwegian: 'forhekset',
+    english: 'enchanted',
+    spanish: 'encantado'
+  },
+  {
+    norwegian: 'utføres',
+    english: 'performed',
+    spanish: 'realizado'
+  },
+  {
+    norwegian: 'føre deg',
+    english: 'lead you',
+    spanish: 'llevarte'
+  },
+  {
+    norwegian: 'gylne dragen',
+    english: 'the golden dragon',
+    spanish: 'el dragón dorado'
+  },
+  {
+    norwegian: 'bortsett fra',
+    english: 'except for',
+    spanish: 'excepto por'
+  },
+  {
+    norwegian: 'opp riktig',
+    english: 'up right',
+    spanish: 'hacia arriba'
+  },
+  {
+    norwegian: 'ordtaket',
+    english: 'the saying',
+    spanish: 'el dicho'
+  },
+  {
+    norwegian: 'tyr til vold',
+    english: 'resorts to violence',
+    spanish: 'recurre a la violencia'
   }
 ];
