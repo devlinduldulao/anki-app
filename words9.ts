@@ -1774,5 +1774,215 @@ export const words: Question[] = [
     norwegian: 'tyr til vold',
     english: 'resorts to violence',
     spanish: 'recurre a la violencia'
+  },
+  {
+    norwegian: 'utstillingen',
+    english: 'the exhibition',
+    spanish: 'la exposición'
+  },
+  {
+    norwegian: 'hvem heier du på',
+    english: 'who are you cheering for',
+    spanish: '¿por quién estás animando?'
+  },
+  {
+    norwegian: 'har tilegnet seg',
+    english: 'has acquired',
+    spanish: 'ha adquirido'
+  },
+  {
+    norwegian: 'en motstander',
+    english: 'an opponent',
+    spanish: 'un oponente'
+  },
+  {
+    norwegian: 'burde ha latt deg råtne',
+    english: 'should have let you rot',
+    spanish: 'debería haberte dejado pudrir'
+  },
+  {
+    norwegian: 'utjevne oddsen',
+    english: 'even the odds',
+    spanish: 'igualar las probabilidades'
+  },
+  {
+    norwegian: 'urovekkende',
+    english: 'disturbing',
+    spanish: 'perturbador'
+  },
+  {
+    norwegian: 'trekk deg',
+    english: 'withdraw',
+    spanish: 'retírate'
+  },
+  {
+    norwegian: 'trøkke',
+    english: 'push',
+    spanish: 'empujar'
+  },
+  {
+    norwegian: 'undersekt',
+    english: 'subsector',
+    spanish: 'subsector'
+  },
+  {
+    norwegian: 'frø',
+    english: 'seed',
+    spanish: 'semilla'
+  },
+  {
+    norwegian: 'teller til',
+    english: 'counts to',
+    spanish: 'cuenta hasta'
+  },
+  {
+    norwegian: 'fyllekompis',
+    english: 'drinking buddy',
+    spanish: 'compañero de copas'
+  },
+  {
+    norwegian: 'umiddelbar',
+    english: 'immediate',
+    spanish: 'inmediato'
+  },
+  {
+    norwegian: 'ordenspatruljen orientert',
+    english: 'the order patrol informed',
+    spanish: 'la patrulla de orden informada'
+  },
+  {
+    norwegian: 'prosedyrer',
+    english: 'procedures',
+    spanish: 'procedimientos'
+  },
+  {
+    norwegian: 'påminnelse om å',
+    english: 'reminder to',
+    spanish: 'recordatorio para'
+  },
+  {
+    norwegian: 'omtrent',
+    english: 'approximately',
+    spanish: 'aproximadamente'
+  },
+  {
+    norwegian: 'sammenligner',
+    english: 'compares',
+    spanish: 'compara'
+  },
+  {
+    norwegian: 'oppmerksomhet',
+    english: 'attention',
+    spanish: 'atención'
+  },
+  {
+    norwegian: 'kvitterer',
+    english: 'acknowledges',
+    spanish: 'reconoce'
+  },
+  {
+    norwegian: 'sjette',
+    english: 'sixth',
+    spanish: 'sexto'
+  },
+  {
+    norwegian: 'overbetjent',
+    english: 'superintendent',
+    spanish: 'superintendente'
+  },
+  {
+    norwegian: 'veddemål',
+    english: 'bet',
+    spanish: 'apuesta'
+  },
+  {
+    norwegian: 'inngikk',
+    english: 'entered into',
+    spanish: 'ingresó en'
+  },
+  {
+    norwegian: 'noe helt annet',
+    english: 'something completely different',
+    spanish: 'algo completamente diferente'
+  },
+  {
+    norwegian: 'åstedet',
+    english: 'the crime scene',
+    spanish: 'la escena del crimen'
+  },
+  {
+    norwegian: 'avtrykkene',
+    english: 'the prints',
+    spanish: 'las huellas'
+  },
+  {
+    norwegian: 'bekreft',
+    english: 'confirm',
+    spanish: 'confirmar'
+  },
+  {
+    norwegian: 'avhør oppi',
+    english: 'interrogation upstairs',
+    spanish: 'interrogatorio arriba'
+  },
+  {
+    norwegian: 'ytterdøra',
+    english: 'the front door',
+    spanish: 'la puerta principal'
+  },
+  {
+    norwegian: 'oppdraget',
+    english: 'the mission',
+    spanish: 'la misión'
+  },
+  {
+    norwegian: 'pirker',
+    english: 'picks',
+    spanish: 'escoge'
+  },
+  {
+    norwegian: 'har hakka',
+    english: 'has hacked',
+    spanish: 'ha hackeado'
+  },
+  {
+    norwegian: 'motbydelig',
+    english: 'disgusting',
+    spanish: 'repugnante'
+  },
+  {
+    norwegian: 'erstatning',
+    english: 'compensation',
+    spanish: 'compensación'
+  },
+  {
+    norwegian: 'regissøren',
+    english: 'the director',
+    spanish: 'el director'
+  },
+  {
+    norwegian: 'beundrer',
+    english: 'admires',
+    spanish: 'admira'
+  },
+  {
+    norwegian: 'umiddelbart',
+    english: 'immediately',
+    spanish: 'inmediatamente'
+  },
+  {
+    norwegian: 'er bedre egnet',
+    english: 'is better suited',
+    spanish: 'es mejor adecuado'
+  },
+  {
+    norwegian: 'du er tross',
+    english: 'you are despite',
+    spanish: 'eres a pesar de'
+  },
+  {
+    norwegian: 'utakknemlig',
+    english: 'ungrateful',
+    spanish: 'desagradecido'
   }
 ];
