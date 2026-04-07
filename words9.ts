@@ -1984,5 +1984,100 @@ export const words: Question[] = [
     norwegian: 'utakknemlig',
     english: 'ungrateful',
     spanish: 'desagradecido'
+    },
+  {
+    norwegian: 'oppsagt',
+    english: 'terminated',
+    spanish: 'terminado'
+  },
+  {
+    norwegian: 'omgitt av',
+    english: 'surrounded by',
+    spanish: 'rodeado por'
+  },
+  {
+    norwegian: 'biskoper',
+    english: 'bishops',
+    spanish: 'obispos'
+  },
+  {
+    norwegian: 'en målskive',
+    english: 'a target',
+    spanish: 'un objetivo'
+  },
+  {
+    norwegian: 'uendelige formuer',
+    english: 'endless fortunes',
+    spanish: 'fortunas infinitas'
+  },
+  {
+    norwegian: 'formuer',
+    english: 'fortunes',
+    spanish: 'fortunas'
+  },
+  {
+    norwegian: 'berømte',
+    english: 'famous',
+    spanish: 'famosos'
+  },
+  {
+    norwegian: 'tidenes største',
+    english: 'the greatest of all time',
+    spanish: 'el mejor de todos los tiempos'
+  },
+  {
+    norwegian: 'utnytter',
+    english: 'exploits',
+    spanish: 'explotar'
+  },
+  {
+    norwegian: 'i bleien',
+    english: 'in diapers',
+    spanish: 'en pañales'
+  },
+  {
+    norwegian: 'nydelig',
+    english: 'lovely',
+    spanish: 'encantador'
+  },
+  {
+    norwegian: 'bedårende',
+    english: 'adorable',
+    spanish: 'adorable'
+  },
+  {
+    norwegian: 'tilfredstil',
+    english: 'satisfy',
+    spanish: 'satisfacer'
+  },
+  {
+    norwegian: 'hudpleie',
+    english: 'skincare',
+    spanish: 'cuidado de la piel'
+  },
+  {
+    norwegian: 'avlytte',
+    english: 'eavesdrop',
+    spanish: 'escuchar a escondidas'
+  },
+  {
+    norwegian: 'promille',
+    english: 'blood alcohol content',
+    spanish: 'contenido de alcohol en sangre'
+  },
+  {
+    norwegian: 'avgjøre',
+    english: 'decide',
+    spanish: 'decidir'
+  },
+  {
+    norwegian: 'avgjørende faktor',
+    english: 'decisive factor',
+    spanish: 'factor decisivo'
+  },
+  {
+    norwegian: 'en syndebukk',
+    english: 'a scapegoat',
+    spanish: 'un chivo expiatorio'
   }
 ];
