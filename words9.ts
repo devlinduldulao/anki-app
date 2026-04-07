@@ -2079,5 +2079,10 @@ export const words: Question[] = [
     norwegian: 'en syndebukk',
     english: 'a scapegoat',
     spanish: 'un chivo expiatorio'
+  },
+  {
+    norwegian: 'vidåpen',
+    english: 'wide open',
+    spanish: 'abierto de par en par'
   }
 ];
