@@ -1681,9 +1681,9 @@ export const words: Question[] = [
     spanish: 'se arrodilla'
   },
   {
-    norwegian: 'the dragon warrior',
-    english: 'the dragon warrior',
-    spanish: 'el guerrero dragón'
+    norwegian: 'dragekrigeren',
+    english: 'dragon warrior',
+    spanish: 'guerrero dragón'
   },
   {
     norwegian: 'steinbruddet',
