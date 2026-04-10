@@ -4,4 +4,360 @@ type Question = {
   spanish: string;
 };
 
-export const words: Question[] = [];
+export const words: Question[] = [
+  {
+    norwegian: 'litt oppmuntring',
+    english: 'a little encouragement',
+    spanish: 'un poco de ánimo'
+  },
+  {
+    norwegian: 'i nuet',
+    english: 'in the moment',
+    spanish: 'en el momento'
+  },
+  {
+    norwegian: 'nå for tiden',
+    english: 'nowadays',
+    spanish: 'hoy en día'
+  },
+  {
+    norwegian: 'en nyhetssak',
+    english: 'a news story',
+    spanish: 'una noticia'
+  },
+  {
+    norwegian: 'en herdet gruppe døgenikter',
+    english: 'a hardened group of layabouts',
+    spanish: 'un grupo endurecido de vagos'
+  },
+  {
+    norwegian: 'har forlagt stolkostymet',
+    english: 'has misplaced the stool costume',
+    spanish: 'ha extraviado el disfraz de taburete'
+  },
+  {
+    norwegian: 'jeg plaprer ikke med',
+    english: 'I do not babble with',
+    spanish: 'no balbuceo con'
+  },
+  {
+    norwegian: 'røpet noen',
+    english: 'exposed someone',
+    spanish: 'expuesto a alguien'
+  },
+  {
+    norwegian: 'missilforsvarssytem',
+    english: 'missile defense system',
+    spanish: 'sistema de defensa de misiles'
+  },
+  {
+    norwegian: 'måloppnåd',
+    english: 'goal achieved',
+    spanish: 'objetivo alcanzado'
+  },
+  {
+    norwegian: 'fyrverkeri',
+    english: 'fireworks',
+    spanish: 'fuegos artificiales'
+  },
+  {
+    norwegian: 'begår ikke bare forbrytelser',
+    english: 'not only commits crimes',
+    spanish: 'no solo comete crímenes'
+  },
+  {
+    norwegian: 'forbrytelser',
+    english: 'crimes',
+    spanish: 'crímenes'
+  },
+  {
+    norwegian: 'forvrenge stemmen',
+    english: 'distort the voice',
+    spanish: 'distorsionar la voz'
+  },
+  {
+    norwegian: 'hvilke seere',
+    english: 'which viewers',
+    spanish: 'qué espectadores'
+  },
+  {
+    norwegian: 'et pip om dagen',
+    english: 'a peep a day',
+    spanish: 'un piar al día'
+  },
+  {
+    norwegian: 'blått minner meg om havet',
+    english: 'blue reminds me of the sea',
+    spanish: 'el azul me recuerda al mar'
+  },
+  {
+    norwegian: 'apropos',
+    english: 'by the way',
+    spanish: 'a propósito'
+  },
+  {
+    norwegian: 'forresten',
+    english: 'by the way',
+    spanish: 'a propósito'
+  },
+  {
+    norwegian: 'nesten sprengt i luften',
+    english: 'almost blown up',
+    spanish: 'casi explotado'
+  },
+  {
+    norwegian: 'intim dans',
+    english: 'intimate dance',
+    spanish: 'baile íntimo'
+  },
+  {
+    norwegian: 'dette er grunnen til at',
+    english: 'this is the reason why',
+    spanish: 'esta es la razón por la que'
+  },
+  {
+    norwegian: 'all æren hos kanal 6',
+    english: 'all the credit to channel 6',
+    spanish: 'todo el crédito al canal 6'
+  }, 
+  {
+    norwegian: 'en lurvete hund',
+    english: 'a scruffy dog',
+    spanish: 'un perro desaliñado'
+  },
+  {
+    norwegian: 'berømte skuespillere',
+    english: 'famous actors',
+    spanish: 'actores famosos'
+  },
+  {
+    norwegian: 'dere tilgir ikke',
+    english: 'you do not forgive',
+    spanish: 'no perdonan'
+  },
+  {
+    norwegian: 'fristende ut',
+    english: 'tempting out',
+    spanish: 'tentador fuera'
+  },
+  {
+    norwegian: 'berømte skuespillere',
+    english: 'famous actors',
+    spanish: 'actores famosos'
+  },
+  {
+    norwegian: 'liksomskurkene',
+    english: 'the pseudo-villains',
+    spanish: 'los pseudo-villanos'
+  },
+  {
+    norwegian: 'et ordentlig gjemmested',
+    english: 'a proper hiding place',
+    spanish: 'un escondite adecuado'
+  },
+  {
+    norwegian: 'å utfordre deg',
+    english: 'to challenge you',
+    spanish: 'desafiarte'
+  },
+  {
+    norwegian: 'rørlegger',
+    english: 'plumber',
+    spanish: 'fontanero'
+  },
+  {
+    norwegian: 'forsprang',
+    english: 'lead',
+    spanish: 'ventaja'
+  },
+  {
+    norwegian: 'overmanner deg',
+    english: 'overpowers you',
+    spanish: 'te domina'
+  },
+  {
+    norwegian: 'i smug',
+    english: 'secretly',
+    spanish: 'a escondidas'
+  },
+  {
+    norwegian: 'skjule',
+    english: 'hide',
+    spanish: 'esconder'
+  },
+  {
+    norwegian: 'å gjemme',
+    english: 'to hide',
+    spanish: 'esconder'
+  },
+  {
+    norwegian: 'favoritteiendel',
+    english: 'favorite possession',
+    spanish: 'posesión favorita'
+  },
+  {
+    norwegian: 'havets farer',
+    english: 'dangers of the sea',
+    spanish: 'peligros del mar'
+  },
+  {
+    norwegian: 'i dy meg',
+    english: 'in me',
+    spanish: 'en mí'
+  },
+  {
+    norwegian: 'trekk i snora',
+    english: 'pull the string',
+    spanish: 'tirar de la cuerda'
+  },
+  {
+    norwegian: 'en parykk',
+    english: 'a wig',
+    spanish: 'una peluca'
+  },
+  {
+    norwegian: 'ikke betvil at',
+    english: 'do not doubt that',
+    spanish: 'no dudes que'
+  },
+  {
+    norwegian: 'er skapåner',
+    english: 'is a closet',
+    spanish: 'es un armario'
+  },
+  {
+    norwegian: 'synd',
+    english: 'pity',
+    spanish: 'pena'
+  },
+  {
+    norwegian: 'napper det',
+    english: 'snatches it',
+    spanish: 'lo arrebata'
+  },
+  {
+    norwegian: 'amatør',
+    english: 'amateur',
+    spanish: 'aficionado'
+  },
+  {
+    norwegian: 'å spy',
+    english: 'to vomit',
+    spanish: 'vomitar'
+  },
+  {
+    norwegian: 'ydmik',
+    english: 'humble',
+    spanish: 'humilde'
+  },
+  {
+    norwegian: 'pliktene dine',
+    english: 'your duties',
+    spanish: 'tus deberes'
+  },
+  {
+    norwegian: 'dere har skylt ned',
+    english: 'you have flushed down',
+    spanish: 'han tirado por el inodoro'
+  },
+  {
+    norwegian: 'på flukten',
+    english: 'on the run',
+    spanish: 'en fuga'
+  },
+  {
+    norwegian: 'pelsbrødre',
+    english: 'brothers in fur',
+    spanish: 'hermanos en piel'
+  },
+  {
+    norwegian: 'det snåle er at',
+    english: 'the strange thing is that',
+    spanish: 'lo extraño es que'
+  },
+  {
+    norwegian: 'utbryterkonge',
+    english: 'king of outbursts',
+    spanish: 'rey de los estallidos'
+  },
+  {
+    norwegian:'bragd',
+    english: 'feat',
+    spanish: 'hazaña'
+  },
+  {
+    norwegian: 'fintastisk',
+    english: 'fantastic',
+    spanish: 'fantástico'
+  },
+  {
+    norwegian: 'en knipe',
+    english: 'a pinch',
+    spanish: 'un pellizco'
+  },
+  {
+    norwegian: 'forvandler seg til en superhelt',
+    english: 'transforms into a superhero',
+    spanish: 'se transforma en un superhéroe'
+  },
+  {
+    norwegian: 'evnen til å fly',
+    english: 'the ability to fly',
+    spanish: 'la capacidad de volar'
+  },
+  {
+    norwegian: 'ikke forurense det',
+    english: 'do not pollute it',
+    spanish: 'no lo contamines'
+  },
+  {
+    norwegian: 'med tærne dine',
+    english: 'with your toes',
+    spanish: 'con tus dedos de los pies'
+  },
+  {
+    norwegian: 'å flykte',
+    english: 'to escape',
+    spanish: 'escapar'
+  },
+  {
+    norwegian: 'en plageånd',
+    english: 'a nuisance',
+    spanish: 'una molestia'
+  },
+  {
+    norwegian: 'en legende',
+    english: 'a legend',
+    spanish: 'una leyenda'
+  },
+  {
+    norwegian: 'på langbåsen',
+    english: 'on the long bench',
+    spanish: 'en el banco largo'
+  },
+  {
+    norwegian: 'hva foregår',
+    english: 'what is going on',
+    spanish: 'qué está pasando'
+  },
+  {
+    norwegian: 'forresten',
+    english: 'by the way',
+    spanish: 'a propósito'
+  },
+  {
+    norwegian: 'fornuft inn i det',
+    english: 'sense into it',
+    spanish: 'sentido en ello'
+  },
+  {
+    norwegian: 'forvirret',
+    english: 'confused',
+    spanish: 'confundido'
+  },
+  {
+    norwegian: 'jeg tystet på deg',
+    english: 'I snitched on you',
+    spanish: 'te delaté'
+  }
+];
