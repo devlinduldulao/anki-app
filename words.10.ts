@@ -359,5 +359,35 @@ export const words: Question[] = [
     norwegian: 'jeg tystet på deg',
     english: 'I snitched on you',
     spanish: 'te delaté'
+  },
+  {
+    norwegian: 'aklager',
+    english: 'accuses',
+    spanish: 'acusa'
+  },
+  {
+    norwegian: 'på garderoben',
+    english: 'in the wardrobe',
+    spanish: 'en el armario'
+  },
+  {
+    norwegian: 'jeg skjemtes ikke',
+    english: 'I was not ashamed',
+    spanish: 'no me avergoncé'
+  },
+  {
+    norwegian: 'rattet',
+    english: 'the steering wheel',
+    spanish: 'el volante'
+  },
+  {
+    norwegian: 'bare fis',
+    english: 'just a fart',
+    spanish: 'solo un'
+  },
+  {
+    norwegian: 'dette er pinlig',
+    english: 'this is embarrassing',
+    spanish: 'esto es embarazoso'
   }
 ];
