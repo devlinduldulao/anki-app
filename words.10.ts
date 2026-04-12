@@ -389,5 +389,90 @@ export const words: Question[] = [
     norwegian: 'dette er pinlig',
     english: 'this is embarrassing',
     spanish: 'esto es embarazoso'
+  },
+  {
+    norwegian: 'uglevitser',
+    english: 'owl jokes',
+    spanish: 'chistes de búhos'
+  },
+  {
+    norwegian: 'skurks',
+    english: 'villains',
+    spanish: 'villanos'
+  },
+  {
+    norwegian: 'nattuglene',
+    english: 'the night owls',
+    spanish: 'los búhos nocturnos'
+  },
+  {
+    norwegian: 'fluktbilsjåføren',
+    english: 'the getaway driver',
+    spanish: 'el conductor de la fuga'
+  },
+  {
+    norwegian: 'smaragden',
+    english: 'the emerald',
+    spanish: 'la esmeralda'
+  },
+  {
+    norwegian: 'fanget',
+    english: 'caught',
+    spanish: 'atrapado'
+  },
+  {
+    norwegian: 'tuter',
+    english: 'toots',
+    spanish: 'trompetas'
+  },
+  {
+    norwegian: 'voldelig slemme forbrytergjeng',
+    english: 'violent evil criminal gang',
+    spanish: 'pandilla criminal violenta y malvada'
+  },
+  {
+    norwegian: 'enda verre',
+    english: 'even worse',
+    spanish: 'aún peor'
+  },
+  {
+    norwegian: 'skitne svikerne',
+    english: 'the dirty traitors',
+    spanish: 'los sucios traidores'
+  },
+  {
+    norwegian: 'omringe oss',
+    english: 'surround us',
+    spanish: 'rodearnos'
+  },
+  {
+    norwegian: 'i brekket',
+    english: 'in the break',
+    spanish: 'en el descanso' 
+  },
+  {
+    norwegian: 'skurker',
+    english: 'villains',
+    spanish: 'villanos'
+  },
+  {
+    norwegian: 'har trosset på oss',
+    english: 'has defied us',
+    spanish: 'nos ha desafiado'
+  },
+  {
+    norwegian: 'noe sprellende',
+    english: 'something sprightly',
+    spanish: 'algo vivaz'
+  },
+  {
+    norwegian: 'bevis det',
+    english: 'prove it',
+    spanish: 'pruébalo'
+  },
+  {
+    norwegian: 'utforske det',
+    english: 'explore it',
+    spanish: 'explóralo'
   }
 ];
