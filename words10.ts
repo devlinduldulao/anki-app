@@ -474,5 +474,255 @@ export const words: Question[] = [
     norwegian: 'utforske det',
     english: 'explore it',
     spanish: 'explóralo'
+  },
+  {
+    norwegian: 'hummeren',
+    english: 'the lobster',
+    spanish: 'la langosta'
+  },
+  {
+    norwegian: 'uventede',
+    english: 'unexpected',
+    spanish: 'inesperado'
+  },
+  {
+    norwegian: 'flukten',
+    english: 'the escape',
+    spanish: 'la fuga'
+  },
+  {
+    norwegian: 'purken',
+    english: 'the cop',
+    spanish: 'el policía'
+  },
+  {
+    norwegian: 'barske bøller',
+    english: 'tough bullies',
+    spanish: 'matones duros'
+  },
+  {
+    norwegian: 'unnslapp',
+    english: 'escaped',
+    spanish: 'escapó'
+  },
+  {
+    norwegian: 'noensinne har blitt stjålet',
+    english: 'has ever been stolen',
+    spanish: 'alguna vez ha sido robado'
+  },
+  {
+    norwegian: 'forverrer byens kriminalitet',
+    english: 'exacerbates the city\'s crime',
+    spanish: 'agrava el crimen de la ciudad'
+  },
+  {
+    norwegian: 'spillbrekket',
+    english: 'the game board',
+    spanish: 'el tablero de juego'
+  },
+  {
+    norwegian: 'å klare det',
+    english: 'to manage it',
+    spanish: 'lograrlo'
+  },
+  {
+    norwegian: 'så klart',
+    english: 'of course',
+    spanish: 'por supuesto'
+  },
+  {
+    norwegian: 'betoning',
+    english: 'emphasis',
+    spanish: 'énfasis'
+  },
+  {
+    norwegian: 'utstillingen',
+    english: 'the exhibition',
+    spanish: 'la exposición'
+  },
+  {
+    norwegian: 'å utvide',
+    english: 'to expand',
+    spanish: 'expandir'
+  },
+  {
+    norwegian: 'utført',
+    english: 'performed',
+    spanish: 'realizado'
+  },
+  {
+    norwegian: 'oppmuntre',
+    english: 'encourage',
+    spanish: 'animar'
+  },
+  {
+    norwegian: 'vente tålmodig',
+    english: 'wait patiently',
+    spanish: 'esperar pacientemente'
+  },
+  {
+    norwegian: 'uhemmet',
+    english: 'unrestrained',
+    spanish: 'desenfrenado'
+  },
+  {
+    norwegian: 'stempel',
+    english: 'stamp',
+    spanish: 'sello'
+  },
+  {
+    norwegian: 'forfatning',
+    english: 'constitution',
+    spanish: 'constitución'
+  },
+  {
+    norwegian: 'dette brekket',
+    english: 'this break',
+    spanish: 'este descanso'
+  },
+  {
+    norwegian: 'billedlig',
+    english: 'figuratively',
+    spanish: 'figurativamente'
+  },
+  {
+    norwegian: 'en søtsak',
+    english: 'a sweet treat',
+    spanish: 'un dulce'
+  },
+  {
+    norwegian: 'uhederlig',
+    english: 'dishonest',
+    spanish: 'deshonesto'
+  },
+  {
+    norwegian: 'å havne',
+    english: 'to end up',
+    spanish: 'terminar'
+  },
+  {
+    norwegian: 'motstå',
+    english: 'resist',
+    spanish: 'resistir'
+  },
+  {
+    norwegian: 'sannheten',
+    english: 'the truth',
+    spanish: 'la verdad'
+  },
+  {
+    norwegian: 'tannfeen',
+    english: 'the tooth fairy',
+    spanish: 'el hada de los dientes'
+  },
+  {
+    norwegian: 'ofre livet mitt',
+    english: 'sacrifice my life',
+    spanish: 'sacrificar mi vida'
+  },
+  {
+    norwegian: 'en grådig maskin',
+    english: 'a greedy machine',
+    spanish: 'una máquina codiciosa'
+  },
+  {
+    norwegian: 'ondskapsfullt',
+    english: 'maliciously',
+    spanish: 'maliciosamente'
+  },
+  {
+    norwegian: 'sjåføren',
+    english: 'the driver',
+    spanish: 'el conductor'
+  },
+  {
+    norwegian: 'jeg kan dirke',
+    english: 'I can pick',
+    spanish: 'puedo forzar'
+  },
+  {
+    norwegian: 'oppskriftsboka',
+    english: 'the recipe book',
+    spanish: 'el libro de recetas'
+  },
+  {
+    norwegian: 'en enveisbillett',
+    english: 'a one-way ticket',
+    spanish: 'un boleto de ida'
+  },
+  {
+    norwegian: 'offentligheten',
+    english: 'the public',
+    spanish: 'el público'
+  },
+  {
+    norwegian: 'innelåst',
+    english: 'locked up',
+    spanish: 'encerrado'
+  },
+  {
+    norwegian: 'er skurker',
+    english: 'are villains',
+    spanish: 'son villanos'
+  },
+  {
+    norwegian: 'sitronsyre',
+    english: 'citric acid',
+    spanish: 'ácido cítrico'
+  },
+  {
+    norwegian: 'utsatt',
+    english: 'exposed',
+    spanish: 'expuesto'
+  },
+  {
+    norwegian: 'slem',
+    english: 'mean',
+    spanish: 'malo'
+  },
+  {
+    norwegian: 'regelmessig',
+    english: 'regularly',
+    spanish: 'regularmente'
+  },
+  {
+    norwegian: 'forkledde',
+    english: 'disguised',
+    spanish: 'disfrazados'
+  },
+  {
+    norwegian: 'unnvikende',
+    english: 'evasive',
+    spanish: 'evasivo'
+  },
+  {
+    norwegian: 'flekkfritt',
+    english: 'spotless',
+    spanish: 'impecable'
+  },
+  {
+    norwegian: 'et veddemål',
+    english: 'a bet',
+    spanish: 'una apuesta'
+  },
+  {
+    norwegian: 'pysete',
+    english: 'cowardly',
+    spanish: 'cobarde'
+  },
+  {
+    norwegian: 'ydmekende',
+    english: 'humbling',
+    spanish: 'humillante'
+  },
+  {
+    norwegian: 'jeg spreller vel',
+    english: 'I am probably sprightly',
+    spanish: 'probablemente soy vivaz'
+  },
+  {
+    norwegian: 'et vanlig innbrudd i en butikk',
+    english: 'a typical break-in at a store',
+    spanish: 'un robo típico en una tienda'
   }
 ];
