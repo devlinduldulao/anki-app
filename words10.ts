@@ -724,5 +724,130 @@ export const words: Question[] = [
     norwegian: 'et vanlig innbrudd i en butikk',
     english: 'a typical break-in at a store',
     spanish: 'un robo típico en una tienda'
+  },
+  {
+    norwegian: 'allmennmedisin',
+    english: 'general medicine',
+    spanish: 'medicina general'
+  },
+  {
+    norwegian: 'han fyltes raskt av en',
+    english: 'he quickly filled with a',
+    spanish: 'se llenó rápidamente de un'
+  },
+  {
+    norwegian: 'vaktbelastningen',
+    english: 'the guard load',
+    spanish: 'la carga de guardia'
+  },
+  {
+    norwegian: 'underbemanningen',
+    english: 'the understaffing',
+    spanish: 'la falta de personal'
+  },
+  {
+    norwegian: 'utbrenthet',
+    english: 'burnout',
+    spanish: 'agotamiento'
+  },
+  {
+    norwegian: 'en slitasje',
+    english: 'a wear and tear',
+    spanish: 'un desgaste'
+  },
+  {
+    norwegian: 'som skildres her',
+    english: 'as depicted here',
+    spanish: 'como se muestra aquí'
+  },
+  {
+    norwegian: 'med vilje til å skade',
+    english: 'with the intent to harm',
+    spanish: 'con la intención de dañar'
+  },
+  {
+    norwegian: 'helsevesenet',
+    english: 'the healthcare system',
+    spanish: 'el sistema de salud'
+  },
+  {
+    norwegian: 'vi sklir fra hverandre',
+    english: 'we are drifting apart',
+    spanish: 'estamos distanciándonos'
+  },
+  {
+    norwegian: 'merkbare steg',
+    english: 'noticeable steps',
+    spanish: 'pasos notables'
+  },
+  {
+    norwegian: 'å lukke seg inne',
+    english: 'to lock oneself in',
+    spanish: 'encerrarse'
+  },
+  {
+    norwegian: 'kred',
+    english: 'credit',
+    spanish: 'crédito'
+  },
+  {
+    norwegian: 'avdøde',
+    english: 'deceased',
+    spanish: 'fallecido'
+  },
+  {
+    norwegian: 'største bragd',
+    english: 'greatest feat',
+    spanish: 'mayor hazaña'
+  }, 
+  {
+    norwegian: 'forbrytelser',
+    english: 'crimes',
+    spanish: 'crímenes'
+  },
+  {
+    norwegian: 'en tastelås',
+    english: 'a key lock',
+    spanish: 'un bloqueo de teclas'
+  },
+  {
+    norwegian: 'et blunk',
+    english: 'a blink',
+    spanish: 'un parpadeo'
+  },
+  {
+    norwegian: 'du derfre ikke',
+    english: 'you therefore do not',
+    spanish: 'por lo tanto no'
+  },
+  {
+    norwegian: 'ære være',
+    english: 'honor be',
+    spanish: 'honor sea'
+  },
+  {
+    norwegian: 'er stramt',
+    english: 'is tight',
+    spanish: 'está apretado'
+  },
+  {
+    norwegian: 'skurkene',
+    english: 'the villains',
+    spanish: 'los villanos'
+  },
+  {
+    norwegian: 'forgjeves',
+    english: 'in vain',
+    spanish: 'en vano'
+  },
+  {
+    norwegian: 'prikken',
+    english: 'the dot',
+    spanish: 'el punto'
+  },
+  {
+    norwegian: 'med gjenstandene dine',
+    english: 'with your belongings',
+    spanish: 'con tus pertenencias'
   }
 ];
