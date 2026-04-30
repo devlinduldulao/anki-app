@@ -849,5 +849,140 @@ export const words: Question[] = [
     norwegian: 'med gjenstandene dine',
     english: 'with your belongings',
     spanish: 'con tus pertenencias'
+  },
+  {
+    norwegian: 'truer med å drepe',
+    english: 'threatens to kill',
+    spanish: 'amenaza con matar'
+  },
+  {
+    norwegian: 'hvis du innser det',
+    english: 'if you realize it',
+    spanish: 'si te das cuenta'
+  },
+  {
+    norwegian: 'overfladisk sjarm',
+    english: 'superficial charm',
+    spanish: 'encanto superficial'
+  },
+  {
+    norwegian: 'selvsentrert',
+    english: 'self-centered',
+    spanish: 'egocéntrico'
+  },
+  {
+    norwegian: 'eventuelt storhets-ideer',
+    english: 'potentially grandiose ideas',
+    spanish: 'posiblemente ideas grandiosas'
+  },
+  {
+    norwegian: 'kjedsomhet',
+    english: 'boredom',
+    spanish: 'aburrimiento'
+  },
+  {
+    norwegian: 'stadig behove for nye impulser',
+    english: 'constant need for new stimuli',
+    spanish: 'necesidad constante de nuevos estímulos'
+  },
+  {
+    norwegian: 'uttalt løgnaktighet',
+    english: 'pronounced deceitfulness',
+    spanish: 'engaño pronunciado'
+  },
+  {
+    norwegian: 'eventuelt bedrageri',
+    english: 'potentially conning',
+    spanish: 'posiblemente estafando'
+  },
+  {
+    norwegian: 'bløffing og manipulasjon',
+    english: 'bluffing and manipulation',
+    spanish: 'engaño y manipulación'
+  },
+  {
+    norwegian: 'manglende skyldfølelse',
+    english: 'lack of remorse',
+    spanish: 'falta de remordimiento'
+  },
+  {
+    norwegian: 'ufølsomhet',
+    english: 'callousness',
+    spanish: 'insensibilidad'
+  },
+  {
+    norwegian: 'manglende innlevelsesevne i andres situasjon',
+    english: 'lack of empathy',
+    spanish: 'falta de empatía'
+  },
+  {
+    norwegian: 'snylting på andre',
+    english: 'parasitism on others',
+    spanish: 'parasitismo en otros'
+  },
+  {
+    norwegian: 'eventuelt utnyttelse av andre',
+    english: 'potentially exploiting others',
+    spanish: 'posiblemente explotando a otros'
+  },
+  {
+    norwegian: 'oppfarenhet',
+    english: 'impulsivity',
+    spanish: 'impulsividad'
+  },
+  {
+    norwegian: 'ukontrollert aggresjon',
+    english: 'uncontrolled aggression',
+    spanish: 'agresión incontrolada'
+  },
+  {
+    norwegian: 'promiskuøs seksuell atferd',
+    english: 'promiscuous sexual behavior',
+    spanish: 'comportamiento sexual promiscuo'
+  },
+  {
+    norwegian: 'atferdsproblemer',
+    english: 'behavioral problems',
+    spanish: 'problemas de comportamiento'
+  },
+  {
+    norwegian: 'uansvarlig foreldre-atferd',
+    english: 'irresponsible parental behavior',
+    spanish: 'comportamiento parental irresponsable'
+  },
+  {
+    norwegian: 'hyppige ekteskap eller samboerforhold',
+    english: 'frequent marriages or cohabitations',
+    spanish: 'matrimonios o cohabitaciones frecuentes'
+  },
+  {
+    norwegian: 'bryting av prøvetid',
+    english: 'breaking of probation',
+    spanish: 'ruptura de la libertad condicional'
+  },
+  {
+    norwegian: 'gjentakelse av ulovlige handlinger',
+    english: 'repetition of illegal acts',
+    spanish: 'repetición de actos ilegales'
+  },
+  {
+    norwegian: 'ansvarsløshet',
+    english: 'irresponsibility',
+    spanish: 'irresponsabilidad'
+  },
+  {
+    norwegian: 'ulike typer lovbrudd',
+    english: 'various types of crimes',
+    spanish: 'varios tipos de crímenes'
+  },
+  {
+    norwegian: 'av disse adferdene',
+    english: 'of these behaviors',
+    spanish: 'de estos comportamientos'
+  },
+  {
+    norwegian: 'psykologiske bindingene',
+    english: 'psychological bonds',
+    spanish: 'vínculos psicológicos'
   }
 ];
