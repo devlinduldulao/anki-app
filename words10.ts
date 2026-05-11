@@ -984,5 +984,260 @@ export const words: Question[] = [
     norwegian: 'psykologiske bindingene',
     english: 'psychological bonds',
     spanish: 'vínculos psicológicos'
+  },
+  {
+    norwegian: 'strålar av selvtillit',
+    english: 'radiates confidence',
+    spanish: 'irradia confianza'
+  },
+  {
+    norwegian: 'hissig',
+    english: 'irritable',
+    spanish: 'irritable'
+  },
+  {
+    norwegian: 'begeistret',
+    english: 'enthusiastic',
+    spanish: 'entusiasta'
+  },
+  {
+    norwegian: 'avhører',
+    english: 'interrogates',
+    spanish: 'interroga'
+  },
+  {
+    norwegian: 'hyklersk',
+    english: 'hypocritical',
+    spanish: 'hipócrita'
+  },
+  {
+    norwegian: 'sammen med',
+    english: 'together with',
+    spanish: 'junto con'
+  },
+  {
+    norwegian: 'sluker',
+    english: 'devours',
+    spanish: 'devora'
+  },
+  {
+    norwegian: 'enda mer',
+    english: 'even more',
+    spanish: 'aún más'
+  },
+  {
+    norwegian: 'et enstemmig råd',
+    english: 'a unanimous advice',
+    spanish: 'un consejo unánime'
+  },
+  {
+    norwegian: 'lengsel',
+    english: 'longing',
+    spanish: 'anhelo'
+  },
+  {
+    norwegian: 'eksperimentere fritt',
+    english: 'experiment freely',
+    spanish: 'experimentar libremente'
+  },
+  {
+    norwegian: 'vil ikke røpe pengesummen',
+    english: 'will not disclose the amount of money',
+    spanish: 'no revelará la cantidad de dinero'
+  },
+  {
+    norwegian: 'å strupe innovasjonen',
+    english: 'to stifle innovation',
+    spanish: 'sofocar la innovación'
+  },
+  {
+    norwegian: 'skal si opp 8000 ansatte',
+    english: 'will lay off 8000 employees',
+    spanish: 'despedirá a 8000 empleados'
+  },
+  {
+    norwegian: 'oppsigelser',
+    english: 'layoffs',
+    spanish: 'despidos'
+  },
+  {
+    norwegian: 'KI-effektivisering',
+    english: 'AI streamlining',
+    spanish: 'optimización de IA'
+  },
+  {
+    norwegian: 'erstatte dem med KI',
+    english: 'replace them with AI',
+    spanish: 'reemplazarlos con IA'
+  },
+  {
+    norwegian: 'tar over stafettpinnen',
+    english: 'takes over the baton',
+    spanish: 'toma el relevo'
+  },
+  {
+    norwegian: 'vant valgthrilleren',
+    english: 'won the election thriller',
+    spanish: 'ganó el thriller electoral'
+  },
+  {
+    norwegian: 'utviklere overdriver faren med KI',
+    english: 'developers exaggerate the danger of AI',
+    spanish: 'los desarrolladores exageran el peligro de la IA'
+  },
+  {
+    norwegian: 'Vi later som vi står friere enn vi gjør',
+    english: 'We pretend we are freer than we are',
+    spanish: 'Pretendemos ser más libres de lo que somos'
+  },
+  {
+    norwegian: 'litt spenning i rommet',
+    english: 'a little excitement in the room',
+    spanish: 'un poco de emoción en la habitación'
+  },
+  {
+    norwegian: 'tilsvarende kan lages',
+    english: 'a corresponding one can be made',
+    spanish: 'se puede hacer uno correspondiente'
+  },
+  {
+    norwegian: 'todelt forsvar',
+    english: 'two-pronged defense',
+    spanish: 'defensa de dos frentes'
+  },
+  {
+    norwegian: 'overlevelse',
+    english: 'survival',
+    spanish: 'supervivencia'
+  },
+  {
+    norwegian: 'en straffesak mot seg selv',
+    english: 'a criminal case against itself',
+    spanish: 'un caso criminal contra sí mismo'
+  },
+  {
+    norwegian: 'svekket angrepsevnen',
+    english: 'weakened offensive capability',
+    spanish: 'capacidad ofensiva debilitada'
+  },
+  {
+    norwegian: 'blir utfordret av',
+    english: 'is challenged by',
+    spanish: 'es desafiado por'
+  },
+  {
+    norwegian: 'om ledervervet',
+    english: 'about the leadership position',
+    spanish: 'sobre el puesto de liderazgo'
+  },
+  {
+    norwegian: 'skjerper KI-politikk',
+    english: 'tightens AI policy',
+    spanish: 'endurece la política de IA'
+  },
+  {
+    norwegian: 'Øke studiestøtten',
+    english: 'Increase student support',
+    spanish: 'Aumentar el apoyo estudiantil'
+  },
+  {
+    norwegian: 'nedbemanner utviklere',
+    english: 'lays off developers',
+    spanish: 'despide a desarrolladores'
+  },
+  {
+    norwegian: 'advarer mot å la KI tenke for deg',
+    english: 'warns against letting AI think for you',
+    spanish: 'advierte contra dejar que la IA piense por ti'
+  },
+  {
+    norwegian: 'konkurransetilsynet ser på oppkjøp av',
+    english: 'the competition authority looks at the acquisition of',
+    spanish: 'la autoridad de competencia analiza la adquisición de'
+  },
+  {
+    norwegian: 'må vurderes nærmere',
+    english: 'must be considered more closely',
+    spanish: 'debe ser considerado más de cerca'
+  },
+  {
+    norwegian: 'innebærer en risiko for',
+    english: 'entails a risk of',
+    spanish: 'implica un riesgo de'
+  },
+  {
+    norwegian: 'Kunne spore toppolitikere',
+    english: 'Could track top politicians',
+    spanish: 'Podría rastrear a los principales políticos'
+  },
+  {
+    norwegian: 'Åpner tilsyn med',
+    english: 'Opens supervision of',
+    spanish: 'Abre supervisión de'
+  },
+  {
+    norwegian: 'Du opererer fabrikken i stedet for',
+    english: 'You operate the factory instead of',
+    spanish: 'Operas la fábrica en lugar de'
+  },
+  {
+    norwegian: 'Snapchat skal kutte 1.000 årsverk globalt',
+    english: 'Snapchat to cut 1,000 jobs globally',
+    spanish: 'Snapchat recortará 1,000 empleos a nivel mundial'
+  },
+  {
+    norwegian: 'med avansert innhold',
+    english: 'with advanced content',
+    spanish: 'con contenido avanzado'
+  },
+  {
+    norwegian: 'Sjøfartsdirektoratet',
+    english: 'The Norwegian Maritime Authority',
+    spanish: 'La Autoridad Marítima Noruega'
+  },
+  {
+    norwegian: 'Outlook Lite pensjoneres',
+    english: 'Outlook Lite is retired',
+    spanish: 'Outlook Lite se retira'
+  },
+  {
+    norwegian: 'Ikke tilfeldig',
+    english: 'Not random',
+    spanish: 'No es aleatorio'
+  },
+  {
+    norwegian: 'eget nettbrett',
+    english: 'own tablet',
+    spanish: 'propia tableta'
+  },
+  {
+    norwegian: 'Forbud mot KI er dømt til å feile',
+    english: 'Ban on AI is doomed to fail',
+    spanish: 'La prohibición de la IA está condenada al fracaso'
+  },
+  {
+    norwegian: 'Frigjør tid',
+    english: 'Free up time',
+    spanish: 'Libera tiempo'
+  },
+  {
+    norwegian: 'Forsterker kløkt',
+    english: 'Amplifies cleverness',
+    spanish: 'Amplifica la astucia'
+  },
+  {
+    norwegian: 'gjør angrepsoverflaten svært liten',
+    english: 'makes the attack surface very small',
+    spanish: 'hace que la superficie de ataque sea muy pequeña'
+  },
+  {
+    norwegian: 'KI erstatter ikke dyp teknisk forståelse',
+    english: 'AI does not replace deep technical understanding',
+    spanish: 'La IA no reemplaza la comprensión técnica profunda'
+  },
+  {
+    norwegian: 'Skikkelig dybdelæring',
+    english: 'Proper deep learning',
+    spanish: 'Aprendizaje profundo adecuado'
   }
 ];
