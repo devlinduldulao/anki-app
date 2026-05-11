@@ -1644,5 +1644,190 @@ export const words: Question[] = [
     norwegian: 'før det blir bekymringsverdig',
     english: 'before it becomes worrisome',
     spanish: 'antes de que se vuelva preocupante'
+  },
+  {
+    norwegian: 'Laget for å være hjelpsomme',
+    english: 'Made to be helpful',
+    spanish: 'Hecho para ser útil'
+  },
+  {
+    norwegian: 'Tvert imot',
+    english: 'On the contrary',
+    spanish: 'Al contrario'
+  },
+  {
+    norwegian: 'Rettferdiggjør ikke',
+    english: 'Does not justify',
+    spanish: 'No justifica'
+  },
+  {
+    norwegian: 'Kina forbyr å la KI',
+    english: 'China bans letting AI',
+    spanish: 'China prohíbe dejar que la IA'
+  },
+  {
+    norwegian: 'Tar smiskende KI',
+    english: 'Takes flattering AI',
+    spanish: 'Toma IA halagadora'
+  },
+  {
+    norwegian: 'KI-skvip inn i ordliste',
+    english: 'AI-skvip into dictionary',
+    spanish: 'IA-skvip en el diccionario'
+  },
+  {
+    norwegian: 'engangsjobb',
+    english: 'one-time job',
+    spanish: 'trabajo único'
+  },
+  {
+    norwegian: 'Les alle nyordene',
+    english: 'Read all the new words',
+    spanish: 'Lee todas las nuevas palabras'
+  },
+  {
+    norwegian: 'Ikke enhver kan bekreftes',
+    english: 'Not everyone can be confirmed',
+    spanish: 'No todos pueden ser confirmados'
+  },
+  {
+    norwegian: 'en som leverer selvsikre løgner',
+    english: 'one that delivers confident lies',
+    spanish: 'uno que entrega mentiras confiadas'
+  },
+  {
+    norwegian: 'Fra svart boks til forklarbar KI',
+    english: 'From black box to explainable AI',
+    spanish: 'De caja negra a IA explicable'
+  },
+  {
+    norwegian: 'Åpenhet er et konkurransefortrinn',
+    english: 'Transparency is a competitive advantage',
+    spanish: 'La transparencia es una ventaja competitiva'
+  },
+  {
+    norwegian: 'men tilliten uteblir',
+    english: 'but the trust is missing',
+    spanish: 'pero falta la confianza'
+  },
+  {
+    norwegian: 'Vil utfordre Amazon',
+    english: 'Will challenge Amazon',
+    spanish: 'Desafiará a Amazon'
+  },
+  {
+    norwegian: 'Oscar-regelverket strammes inn',
+    english: 'The Oscar rules are tightened',
+    spanish: 'Las reglas de los Oscar se endurecen'
+  },
+  {
+    norwegian: 'manussammenheng vil ikke bli vurdert',
+    english: 'script context will not be considered',
+    spanish: 'el contexto del guion no será considerado'
+  },
+  {
+    norwegian: 'Friere tøyler',
+    english: 'Freer reins',
+    spanish: 'Riendas más libres'
+  },
+  {
+    norwegian: 'Det vekket nylig oppsikt da',
+    english: 'It recently caused a stir when',
+    spanish: 'Recientemente causó sensación cuando'
+  },
+  {
+    norwegian: 'for personvern',
+    english: 'for privacy',
+    spanish: 'por la privacidad'
+  },
+  {
+    norwegian: 'Sa opp abonnementet',
+    english: 'Cancelled the subscription',
+    spanish: 'Canceló la suscripción'
+  },
+  {
+    norwegian: 'å slippe personrettede annonser',
+    english: 'to stop personalized ads',
+    spanish: 'dejar de mostrar anuncios personalizados'
+  },
+  {
+    norwegian: 'Det vekker harme',
+    english: 'It causes outrage',
+    spanish: 'Provoca indignación'
+  },
+  {
+    norwegian: 'Vekker harme',
+    english: 'Causes outrage',
+    spanish: 'Provoca indignación'
+  },
+  {
+    norwegian: 'forferdelig kynisk og kundefiendtlig',
+    english: 'terribly cynical and customer-unfriendly',
+    spanish: 'terriblemente cínico y antipático para el cliente'
+  },
+  {
+    norwegian: 'Personvernutpressing',
+    english: 'Privacy extortion',
+    spanish: 'Extorsión de privacidad'
+  },
+  {
+    norwegian: 'Frykter for sårbare grupper',
+    english: 'Fears for vulnerable groups',
+    spanish: 'Temores por grupos vulnerables'
+  },
+  {
+    norwegian: 'Frivillig samtykke',
+    english: 'Voluntary consent',
+    spanish: 'Consentimiento voluntario'
+  },
+  {
+    norwegian: 'Tilsynet har vært i dialog med',
+    english: 'The authority has been in dialogue with',
+    spanish: 'La autoridad ha estado en diálogo con'
+  },
+  {
+    norwegian: 'Slik forsvarer de det',
+    english: 'This is how they defend it',
+    spanish: 'Así es como lo defienden'
+  },
+  {
+    norwegian: 'Å takke nei har betydning',
+    english: 'Saying no matters',
+    spanish: 'Decir no importa'
+  },
+  {
+    norwegian: 'det har betydning',
+    english: 'it matters',
+    spanish: 'importa'
+  },
+  {
+    norwegian: 'viktigste fagområdene',
+    english: 'most important subject areas',
+    spanish: 'áreas temáticas más importantes'
+  },
+  {
+    norwegian: 'varslede nedbemanninger',
+    english: 'announced layoffs',
+    spanish: 'despidos anunciados'
+  },
+  {
+    norwegian: 'Blir ikke utdatert',
+    english: 'Does not become obsolete',
+    spanish: 'No se vuelve obsoleto'
+  },
+  {
+    norwegian: 'Bekymringsfull nedgang',
+    english: 'Worrying decline',
+    spanish: 'Preocupante declive'
+  },
+  {
+    norwegian: 'i årene fremover',
+    english: 'in the years to come',
+    spanish: 'en los años venideros'
+  },
+  {
+    norwegian: 'Vil utvide',
+    english: 'Will expand',
+    spanish: 'Ampliará'
   }
 ];
