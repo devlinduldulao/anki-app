@@ -1424,5 +1424,225 @@ export const words: Question[] = [
     norwegian: 'Den nye utviklerrollen',
     english: 'The new developer role',
     spanish: 'El nuevo rol del desarrollador'
+  },
+  {
+    norwegian: 'som bransjens største utfordring',
+    english: 'as the industry\'s biggest challenge',
+    spanish: 'como el mayor desafío de la industria'
+  },
+  {
+    norwegian: 'søvnapper',
+    english: 'sleepyheads',
+    spanish: 'cabezones dormilones'
+  },
+  {
+    norwegian: 'Folk yter ikke sitt beste',
+    english: 'People are not performing at their best',
+    spanish: 'Las personas no están rindiendo al máximo'
+  },
+  {
+    norwegian: 'når de blir overvåket',
+    english: 'when they are monitored',
+    spanish: 'cuando son monitoreados'
+  },
+  {
+    norwegian: 'Når kontroll erstatter handlingsrom',
+    english: 'When control replaces freedom of action',
+    spanish: 'Cuando el control reemplaza la libertad de acción'
+  },
+  {
+    norwegian: 'Det ser hensynløst ut',
+    english: 'It looks ruthless',
+    spanish: 'Parece despiadado'
+  },
+  {
+    norwegian: 'nye paradigmet krever',
+    english: 'the new paradigm requires',
+    spanish: 'el nuevo paradigma requiere'
+  },
+  {
+    norwegian: 'Stjernelagene vi ikke tar med oss',
+    english: 'The star teams we do not take with us',
+    spanish: 'Los equipos estrella que no llevamos con nosotros'
+  },
+  {
+    norwegian: 'Mye fortere når',
+    english: 'Much faster when',
+    spanish: 'Mucho más rápido cuando'
+  },
+  {
+    norwegian: 'lynteam',
+    english: 'lightning team',
+    spanish: 'equipo relámpago'
+  },
+  {
+    norwegian: 'i sanntid',
+    english: 'in real time',
+    spanish: 'en tiempo real'
+  },
+  {
+    norwegian: 'Omfattende prosjekt',
+    english: 'Comprehensive project',
+    spanish: 'Proyecto integral'
+  },
+  {
+    norwegian: 'tilpasning',
+    english: 'customization',
+    spanish: 'personalización'
+  },
+  {
+    norwegian: 'sliter med sponsorer',
+    english: 'struggles with sponsors',
+    spanish: 'lucha con los patrocinadores'
+  },
+  {
+    norwegian: 'Avtaler om sikkerhet',
+    english: 'Security agreements',
+    spanish: 'Acuerdos de seguridad'
+  },
+  {
+    norwegian: 'om digital suverenitet pågår',
+    english: 'on digital sovereignty is ongoing',
+    spanish: 'sobre la soberanía digital está en curso'
+  },
+  {
+    norwegian: 'KI gjør ikke designeren overflødig',
+    english: 'AI does not make the designer redundant',
+    spanish: 'La IA no hace que el diseñador sea redundante'
+  },
+  {
+    norwegian: 'en farlig fristelse i KI-tidsalderen',
+    english: 'a dangerous temptation in the AI age',
+    spanish: 'una tentación peligrosa en la era de la IA'
+  },
+  {
+    norwegian: 'Et forsvar mot generert latskap',
+    english: 'A defense against generated laziness',
+    spanish: 'Una defensa contra la pereza generada'
+  },
+  {
+    norwegian: 'Fikk dans stjålet av KI',
+    english: 'Had dance stolen by AI',
+    spanish: 'Tuvo su baile robado por la IA'
+  },
+  {
+    norwegian: '313 akademikere har undertegnet opprop',
+    english: '313 academics have signed a petition',
+    spanish: '313 académicos han firmado una petición'
+  },
+  {
+    norwegian: 'Må ta høyde for flere faktorer',
+    english: 'Must take into account several factors',
+    spanish: 'Debe tener en cuenta varios factores'
+  },
+  {
+    norwegian: 'Tråkker på oss alle',
+    english: 'Steps on all of us',
+    spanish: 'Pisa a todos nosotros'
+  },
+  {
+    norwegian: 'en kostnadssmel',
+    english: 'a cost explosion',
+    spanish: 'una explosión de costos'
+  },
+  {
+    norwegian: 'å være en felle',
+    english: 'to be a trap',
+    spanish: 'ser una trampa'
+  },
+  {
+    norwegian: 'med sliping, graving og støyende nattarbeid',
+    english: 'with grinding, digging and noisy night work',
+    spanish: 'con molienda, excavación y trabajo nocturno ruidoso'
+  },
+  {
+    norwegian: 'Treningsøkta ble våt',
+    english: 'The training session got wet',
+    spanish: 'La sesión de entrenamiento se mojó'
+  },
+  {
+    norwegian: 'boksepute',
+    english: 'punching bag',
+    spanish: 'saco de boxeo'
+  },
+  {
+    norwegian: 'Påskenøtter og påskeeggjakt',
+    english: 'Easter nuts and Easter egg hunt',
+    spanish: 'Nueces de Pascua y búsqueda de huevos de Pascua'
+  },
+  {
+    norwegian: 'Utdeling hos Variant',
+    english: 'Distribution at Variant',
+    spanish: 'Distribución en Variant'
+  },
+  {
+    norwegian: 'En slags påskerebus',
+    english: 'A kind of Easter rebus',
+    spanish: 'Una especie de acertijo de Pascua'
+  },
+  {
+    norwegian: 'Nå skal han fordype seg i',
+    english: 'Now he will immerse himself in',
+    spanish: 'Ahora se sumergirá en'
+  },
+  {
+    norwegian: 'Skal ikke legges merke til',
+    english: 'Should not be noticed',
+    spanish: 'No debe ser notado'
+  },
+  {
+    norwegian: 'er teknologisk innlåst',
+    english: 'is technologically locked in',
+    spanish: 'está tecnológicamente bloqueado'
+  },
+  {
+    norwegian: 'har etterlatt deg et halvt liv',
+    english: 'has left you with half a life',
+    spanish: 'te ha dejado con media vida'
+  },
+  {
+    norwegian: 'Beroligende',
+    english: 'Reassuring',
+    spanish: 'Reafirmante'
+  },
+  {
+    norwegian: 'Nødvendig kompetanseheving',
+    english: 'Necessary competence enhancement',
+    spanish: 'Mejora de competencias necesaria'
+  },
+  {
+    norwegian: 'Fikk sparken som Nav-sjef',
+    english: 'Got fired as Nav boss',
+    spanish: 'Fue despedido como jefe de Nav'
+  },
+  {
+    norwegian: 'Må tilpasse oss',
+    english: 'Must adapt',
+    spanish: 'Debemos adaptarnos'
+  },
+  {
+    norwegian: 'forutsetninger for å lykkes',
+    english: 'conditions for success',
+    spanish: 'condiciones para el éxito'
+  },
+  {
+    norwegian: 'fremstår alvorlig',
+    english: 'appears serious',
+    spanish: 'parece serio'
+  },
+  {
+    norwegian: 'Ukjent hvem',
+    english: 'Unknown who',
+    spanish: 'Desconocido quién'
+  },
+  {
+    norwegian: 'Ikke stritt imot hjemmekontoret',
+    english: 'Don\'t fight against the home office',
+    spanish: 'No luches contra la oficina en casa'
+  },
+  {
+    norwegian: 'før det blir bekymringsverdig',
+    english: 'before it becomes worrisome',
+    spanish: 'antes de que se vuelva preocupante'
   }
 ];
