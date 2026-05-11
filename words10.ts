@@ -1239,5 +1239,190 @@ export const words: Question[] = [
     norwegian: 'Skikkelig dybdelæring',
     english: 'Proper deep learning',
     spanish: 'Aprendizaje profundo adecuado'
+  },
+  {
+    norwegian: 'ikke minst suverenitet',
+    english: 'not least sovereignty',
+    spanish: 'no menos la soberanía'
+  },
+  {
+    norwegian: 'Komponent i større KI-systemer',
+    english: 'Component in larger AI systems',
+    spanish: 'Componente en sistemas de IA más grandes'
+  },
+  {
+    norwegian: 'Personopplysninger som betaling',
+    english: 'Personal data as payment',
+    spanish: 'Datos personales como pago'
+  },
+  {
+    norwegian: 'Ansatte brøt personopplysningssikkerheten',
+    english: 'Employees breached personal data security',
+    spanish: 'Los empleados violaron la seguridad de los datos personales'
+  },
+  {
+    norwegian: 'Kvanteteknologi',
+    english: 'Quantum technology',
+    spanish: 'Tecnología cuántica'
+  },
+  {
+    norwegian: 'etterspørselen er fortsatt svært høy',
+    english: 'the demand is still very high',
+    spanish: 'la demanda sigue siendo muy alta'
+  },
+  {
+    norwegian: 'teknologibransjen har ikker råd til å',
+    english: 'the technology industry cannot afford to',
+    spanish: 'la industria tecnológica no puede permitirse'
+  },
+  {
+    norwegian: 'Styremedlemmer putter sensitiv informasjon i',
+    english: 'Board members put sensitive information in',
+    spanish: 'Los miembros del consejo ponen información sensible en'
+  },
+  {
+    norwegian: 'Om undersøkelsen',
+    english: 'About the survey',
+    spanish: 'Acerca de la encuesta'
+  },
+  {
+    norwegian: 'i premiepott på',
+    english: 'in the prize pool of',
+    spanish: 'en el bote de premios de'
+  },
+  {
+    norwegian: 'Spennende å utforske',
+    english: 'Exciting to explore',
+    spanish: 'Emocionante de explorar'
+  },
+  {
+    norwegian: 'Skiller seg fra NM i KI',
+    english: 'Differs from the Norwegian Championship in AI',
+    spanish: 'Difiere del Campeonato Noruego de IA'
+  },
+  {
+    norwegian: 'gjennomføre maraton',
+    english: 'complete a marathon',
+    spanish: 'completar un maratón'
+  },
+  {
+    norwegian: 'mange svaksynte',
+    english: 'many visually impaired',
+    spanish: 'muchos con discapacidad visual'
+  },
+  {
+    norwegian: 'rene blå og røde lag',
+    english: 'pure blue and red teams',
+    spanish: 'equipos completamente azules y rojos'
+  },
+  {
+    norwegian: 'lesebrett blir ubrukelige',
+    english: 'e-readers become unusable',
+    spanish: 'los lectores electrónicos se vuelven inutilizables'
+  },
+  {
+    norwegian: 'Nye arenaer for erfaringsdeling',
+    english: 'New arenas for experience sharing',
+    spanish: 'Nuevas arenas para compartir experiencias'
+  },
+  {
+    norwegian: 'Kameraene ble gjemt i såpedispensere',
+    english: 'The cameras were hidden in soap dispensers',
+    spanish: 'Las cámaras estaban ocultas en dispensadores de jabón'
+  },
+  {
+    norwegian: 'Oppdaget av rengjøringspersonalet',
+    english: 'Discovered by the cleaning staff',
+    spanish: 'Descubierto por el personal de limpieza'
+  },
+  {
+    norwegian: 'Flere domener knyttet til helsevesenet',
+    english: 'Several domains related to healthcare',
+    spanish: 'Varios dominios relacionados con la atención médica'
+  },
+  {
+    norwegian: 'Hva ble lekket',
+    english: 'What was leaked',
+    spanish: 'Qué se filtró'
+  },
+  {
+    norwegian: 'Hva ble avslørt',
+    english: 'What was revealed',
+    spanish: 'Qué se reveló'
+  },
+  {
+    norwegian: 'Tiltak for likere framtid',
+    english: 'Measures for a more equal future',
+    spanish: 'Medidas para un futuro más igualitario'
+  },
+  {
+    norwegian: 'etter teknisk vedlikehold hos Microsoft',
+    english: 'after technical maintenance at Microsoft',
+    spanish: 'después del mantenimiento técnico en Microsoft'
+  },
+  {
+    norwegian: 'En annen hendelse rammet politiet',
+    english: 'Another incident hit the police',
+    spanish: 'Otro incidente afectó a la policía'
+  },
+  {
+    norwegian: 'Svikten ligger hos Microsoft',
+    english: 'The failure lies with Microsoft',
+    spanish: 'La falla recae en Microsoft'
+  },
+  {
+    norwegian: 'Ti grep som forbedrer .NET-kodebasen din',
+    english: 'Ten steps that improve your .NET codebase',
+    spanish: 'Diez pasos que mejoran tu base de código .NET'
+  },
+  {
+    norwegian: 'å finne riktig studium',
+    english: 'finding the right study',
+    spanish: 'encontrar el estudio adecuado'
+  },
+  {
+    norwegian: 'Føner for dyrt',
+    english: 'Blows too expensive',
+    spanish: 'Sopla demasiado caro'
+  },
+  {
+    norwegian: 'Sats-innbrudd lekket personinformasjon',
+    english: 'Sats break-in leaked personal information',
+    spanish: 'Robo en Sats filtró información personal'
+  },
+  {
+    norwegian: "Gjerningspersonene fikk uautorisert tilgang til",
+    english: "The perpetrators gained unauthorized access to",
+    spanish: "Los perpetradores obtuvieron acceso no autorizado a"
+  },
+  {
+    norwegian: 'Fikk tilgang til filserveren',
+    english: 'Gained access to the file server',
+    spanish: 'Obtuvieron acceso al servidor de archivos'
+  },
+  {
+    norwegian: 'har avdekket uautorisert tilgang til',
+    english: 'has uncovered unauthorized access to',
+    spanish: 'ha descubierto acceso no autorizado a'
+  },
+  {
+    norwegian: 'vår var preget av manuelt',
+    english: 'ours was characterized by manually',
+    spanish: 'el nuestro se caracterizó por manualmente'
+  },
+  {
+    norwegian: 'var ikke rakettforskning',
+    english: 'was not rocket science',
+    spanish: 'no era ciencia de cohetes'
+  },
+  {
+    norwegian: 'Tre pillarer for å lykkes',
+    english: 'Three pillars for success',
+    spanish: 'Tres pilares para el éxito'
+  },
+  {
+    norwegian: 'Den nye utviklerrollen',
+    english: 'The new developer role',
+    spanish: 'El nuevo rol del desarrollador'
   }
 ];
