@@ -1829,5 +1829,235 @@ export const words: Question[] = [
     norwegian: 'Vil utvide',
     english: 'Will expand',
     spanish: 'Ampliará'
+  },
+  {
+    norwegian: 'Venter høyt snitt',
+    english: 'Expecting a high average',
+    spanish: 'Esperando un promedio alto'
+  },
+  {
+    norwegian: 'innen kvantevitenskap',
+    english: 'in quantum science',
+    spanish: 'en ciencia cuántica'
+  },
+  {
+    norwegian: 'Kan anvendes i mange bransjer',
+    english: 'Can be applied in many industries',
+    spanish: 'Puede aplicarse en muchas industrias'
+  },
+  {
+    norwegian: 'Statsråd åpner kvantesenter',
+    english: 'Minister opens quantum center',
+    spanish: 'Ministro inaugura centro cuántico'
+  },
+  {
+    norwegian: 'Regjeringens satsing på kvanteteknologi',
+    english: 'The government\'s focus on quantum technology',
+    spanish: 'El enfoque del gobierno en la tecnología cuántica'
+  },
+  {
+    norwegian: 'Vil studere romforskning eller datasystemer',
+    english: 'Wants to study space research or data systems',
+    spanish: 'Quiere estudiar investigación espacial o sistemas de datos'
+  },
+  {
+    norwegian: 'han avslutningsvis',
+    english: 'he finally',
+    spanish: 'él finalmente'
+  },
+  {
+    norwegian: 'en sikkerhetsanalytiker',
+    english: 'a security analyst',
+    spanish: 'un analista de seguridad'
+  },
+  {
+    norwegian: 'Forsvaret om ukrainsk bønn',
+    english: 'The defense about Ukrainian prayer',
+    spanish: 'La defensa sobre la oración ucraniana'
+  },
+  {
+    norwegian: 'å skape uro i',
+    english: 'to create unrest in',
+    spanish: 'para crear disturbios en'
+  },
+  {
+    norwegian: 'å bedrive for å hjelpe',
+    english: 'to engage in to help',
+    spanish: 'para participar en ayudar'
+  },
+  {
+    norwegian: 'en egen nettsak på',
+    english: 'a separate news story on',
+    spanish: 'una noticia separada sobre'
+  },
+  {
+    norwegian: 'Lærdom fra språklæring',
+    english: 'Lessons from language learning',
+    spanish: 'Lecciones del aprendizaje de idiomas'
+  },
+  {
+    norwegian: 'ikke erstatning',
+    english: 'is not a replacement',
+    spanish: 'no es un reemplazo'
+  },
+  {
+    norwegian: 'å pleie håndverket',
+    english: 'to nurture the craft',
+    spanish: 'para nutrir el oficio'
+  },
+  {
+    norwegian: 'å omstille seg',
+    english: 'to adapt',
+    spanish: 'para adaptarse'
+  },
+  {
+    norwegian: 'Skroter deteksjon',
+    english: 'Scraps detection',
+    spanish: 'Elimina la detección'
+  },
+  {
+    norwegian: 'Variert vurdering',
+    english: 'Varied assessment',
+    spanish: 'Evaluación variada'
+  },
+  {
+    norwegian: 'Reviderer KI-regler',
+    english: 'Revising AI rules',
+    spanish: 'Revisando las reglas de IA'
+  },
+  {
+    norwegian: 'Vil være god arbeidsgiver',
+    english: 'Wants to be a good employer',
+    spanish: 'Quiere ser un buen empleador'
+  },
+  {
+    norwegian: 'Utydelig ansvar',
+    english: 'Unclear responsibility',
+    spanish: 'Responsabilidad poco clara'
+  },
+  {
+    norwegian: 'Hensyn kolliderer',
+    english: 'Considerations collide',
+    spanish: 'Las consideraciones chocan'
+  },
+  {
+    norwegian: 'Risikerer store bøter',
+    english: 'Risks large fines',
+    spanish: 'Riesga grandes multas'
+  },
+  {
+    norwegian: 'for upassende innhold',
+    english: 'for inappropriate content',
+    spanish: 'por contenido inapropiado'
+  },
+  {
+    norwegian: 'tillater voldelige kulter',
+    english: 'allows violent cults',
+    spanish: 'permite cultos violentos'
+  },
+  {
+    norwegian: 'å straffe teknologiselskaper',
+    english: 'to punish technology companies',
+    spanish: 'para castigar a las empresas tecnológicas'
+  },
+  {
+    norwegian: 'sosiale medier er uutholdelig',
+    english: 'social media is unbearable',
+    spanish: 'las redes sociales son insoportables'
+  },
+  {
+    norwegian: 'inntok tirsdag vitneboksen',
+    english: 'took the witness box on Tuesday',
+    spanish: 'tomó el estrado el martes'
+  },
+  {
+    norwegian: 'i søksmålet mot OpenAI',
+    english: 'in the lawsuit against OpenAI',
+    spanish: 'en la demanda contra OpenAI'
+  },
+  {
+    norwegian: 'han ble forrådt da',
+    english: 'he was betrayed when',
+    spanish: 'fue traicionado cuando'
+  },
+  {
+    norwegian: 'Fikk tilsnakk',
+    english: 'Got a reprimand',
+    spanish: 'Recibió una reprimenda'
+  },
+  {
+    norwegian: 'Ifølge nyhetsbyrået',
+    english: 'According to the news agency',
+    spanish: 'Según la agencia de noticias'
+  },
+  {
+    norwegian: 'for komponentenes skyld',
+    english: 'for the sake of the components',
+    spanish: 'por el bien de los componentes'
+  },
+  {
+    norwegian: 'Rammeverkuavhengighet er målet',
+    english: 'Framework independence is the goal',
+    spanish: 'La independencia del marco es el objetivo'
+  },
+  {
+    norwegian: 'i ny kuttrunde',
+    english: 'in new round of cuts',
+    spanish: 'en nueva ronda de recortes'
+  },
+  {
+    norwegian: 'vil ikke opplyse',
+    english: 'will not disclose',
+    spanish: 'no revelará'
+  },
+  {
+    norwegian: 'Tøffere makrobilde',
+    english: 'Tougher macro picture',
+    spanish: 'Panorama macro más difícil'
+  },
+  {
+    norwegian: 'svikt i etterspørsel',
+    english: 'failure in demand',
+    spanish: 'fallo en la demanda'
+  },
+  {
+    norwegian: 'en sprekk',
+    english: 'a crack',
+    spanish: 'una grieta'
+  },
+  {
+    norwegian: 'Nå har påtalemyndigheten i delstaten',
+    english: 'Now the prosecutors in the state have',
+    spanish: 'Ahora los fiscales del estado han'
+  },
+  {
+    norwegian: 'på børsen',
+    english: 'on the stock exchange',
+    spanish: 'en la bolsa de valores'
+  },
+  {
+    norwegian: 'Mange ledere frykter ansattes',
+    english: 'Many leaders fear employees\'',
+    spanish: 'Muchos líderes temen a los empleados\''
+  },
+  {
+    norwegian: 'Flere funn om disse atferdene',
+    english: 'Several findings about these behaviors',
+    spanish: 'Varios hallazgos sobre estos comportamientos'
+  },
+  {
+    norwegian: 'skal avgi vitnemål',
+    english: 'will give testimony',
+    spanish: 'dará testimonio'
+  },
+  {
+    norwegian: 'Vertikale kodebaser',
+    english: 'Vertical codebases',
+    spanish: 'Bases de código verticales'
+  },
+  {
+    norwegian: 'Trekker søkertallene opp',
+    english: 'Pulls the search numbers up',
+    spanish: 'Eleva los números de búsqueda'
   }
 ];
