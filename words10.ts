@@ -2059,5 +2059,275 @@ export const words: Question[] = [
     norwegian: 'Trekker søkertallene opp',
     english: 'Pulls the search numbers up',
     spanish: 'Eleva los números de búsqueda'
+  },
+  {
+    norwegian: 'Økning i andel',
+    english: 'Increase in share',
+    spanish: 'Aumento en la participación'
+  },
+  {
+    norwegian: 'Det er altså tydelig at',
+    english: 'It is therefore clear that',
+    spanish: 'Por lo tanto, está claro que'
+  },
+  {
+    norwegian: 'Dårleg som fagterm',
+    english: 'Bad as a technical term',
+    spanish: 'Malo como término técnico'
+  },
+  {
+    norwegian: 'ofte handlar nettopp om',
+    english: 'often is precisely about',
+    spanish: 'a menudo se trata precisamente de'
+  },
+  {
+    norwegian: 'Så kva heiter det',
+    english: 'So what is it called',
+    spanish: 'Entonces, ¿cómo se llama?'
+  },
+  {
+    norwegian: 'Universell utforming',
+    english: 'Universal design',
+    spanish: 'Diseño universal'
+  },
+  {
+    norwegian: 'regelverk',
+    english: 'regulations',
+    spanish: 'regulaciones'
+  },
+  {
+    norwegian: 'Vil innføre aldersgrense',
+    english: 'Will introduce age limit',
+    spanish: 'Introducirá límite de edad'
+  },
+  {
+    norwegian: 'Regjeringen vil forby sosiale medier',
+    english: 'The government will ban social media',
+    spanish: 'El gobierno prohibirá las redes sociales'
+  },
+  {
+    norwegian: 'Innen året er omme',
+    english: 'By the end of the year',
+    spanish: 'Para fin de año'
+  },
+  {
+    norwegian: 'Vår tids røykelov',
+    english: 'Our time\'s smoking ban',
+    spanish: 'La ley antitabaco de nuestro tiempo'
+  },
+  {
+    norwegian: 'i samme årskull blir forskjellsbehandlet',
+    english: 'in the same cohort are treated differently',
+    spanish: 'en la misma cohorte son tratados de manera diferente'
+  },
+  {
+    norwegian: 'Mye gjenstår',
+    english: 'Much remains',
+    spanish: 'Mucho queda por hacer'
+  },
+  {
+    norwegian: 'blir tilbyderne av',
+    english: 'becomes the providers of',
+    spanish: 'se convierte en los proveedores de'
+  },
+  {
+    norwegian: 'tredjepartsløsninger bekymrer Datatilsynet',
+    english: 'third-party solutions worry the Data Protection Authority',
+    spanish: 'las soluciones de terceros preocupan a la Autoridad de Protección de Datos'
+  },
+  {
+    norwegian: 'Barneombudet fornøyd',
+    english: 'The Children\'s Ombudsman is satisfied',
+    spanish: 'El Defensor del Niño está satisfecho'
+  },
+  {
+    norwegian: 'de kan boltre seg',
+    english: 'they can frolic',
+    spanish: 'pueden retozar'
+  },
+  {
+    norwegian: 'Liten nedgang',
+    english: 'Small decline',
+    spanish: 'Pequeña disminución'
+  },
+  {
+    norwegian: 'Kastes over gjerdet',
+    english: 'Thrown over the fence',
+    spanish: 'Lanzado por encima de la cerca'
+  },
+  {
+    norwegian: 'å lykkes',
+    english: 'to succeed',
+    spanish: 'tener éxito'
+  },
+  {
+    norwegian: 'å synliggjøre nettopp denne',
+    english: 'to make visible precisely this',
+    spanish: 'para hacer visible precisamente esto'
+  },
+  {
+    norwegian: 'Datainnbrudd hos Rituals',
+    english: 'Data breach at Rituals',
+    spanish: 'Violación de datos en Rituals'
+  },
+  {
+    norwegian: 'Umiddelbart etter oppdagelsen iverksatte',
+    english: 'Immediately after the discovery, implemented',
+    spanish: 'Inmediatamente después del descubrimiento, implementó'
+  },
+  {
+    norwegian: 'Bursdagssvindel',
+    english: 'Birthday scam',
+    spanish: 'Estafa de cumpleaños'
+  },
+  {
+    norwegian: 'problemer knyttet til statistikkbanken',
+    english: 'problems related to the statistics database',
+    spanish: 'problemas relacionados con la base de datos de estadísticas'
+  },
+  {
+    norwegian: 'sentralbyrå',
+    english: 'central bureau',
+    spanish: 'oficina central'
+  },
+  {
+    norwegian: 'Vi anser anklagene mot',
+    english: 'We consider the allegations against',
+    spanish: 'Consideramos las acusaciones contra'
+  },
+  {
+    norwegian: 'Forhindrer konsekvenser',
+    english: 'Prevents consequences',
+    spanish: 'Previene consecuencias'
+  },
+  {
+    norwegian: 'Mobiliserte IT-hær',
+    english: 'Mobilized IT army',
+    spanish: 'Movilizó un ejército de TI'
+  },
+  {
+    norwegian: 'til sjøs og i lufta',
+    english: 'at sea and in the air',
+    spanish: 'en el mar y en el aire'
+  },
+  {
+    norwegian: 'oppå tjeneste',
+    english: 'on top of service',
+    spanish: 'encima del servicio'
+  },
+  {
+    norwegian: 'slo den menneskelige rekorden',
+    english: 'broke the human record',
+    spanish: 'rompió el récord humano'
+  },
+  {
+    norwegian: 'De strukturelle problemene',
+    english: 'The structural problems',
+    spanish: 'Los problemas estructurales'
+  },
+  {
+    norwegian: 'Arbeidsledighet',
+    english: 'Unemployment',
+    spanish: 'Desempleo'
+  },
+  {
+    norwegian: 'Tar av på',
+    english: 'Takes off on',
+    spanish: 'Despega en'
+  },
+  {
+    norwegian: 'leve opp til tittelen utvikler',
+    english: 'live up to the title developer',
+    spanish: 'estar a la altura del título de desarrollador'
+  },
+  {
+    norwegian: 'Stortinget sabler ned digital',
+    english: 'The Parliament slashes digital',
+    spanish: 'El Parlamento recorta digital'
+  },
+  {
+    norwegian: 'suverenitet-forslag',
+    english: 'sovereignty proposal',
+    spanish: 'propuesta de soberanía'
+  },
+  {
+    norwegian: 'Svaret er mangfold',
+    english: 'The answer is diversity',
+    spanish: 'La respuesta es la diversidad'
+  },
+  {
+    norwegian: 'Vil ha statlig kontroll',
+    english: 'Wants state control',
+    spanish: 'Quiere control estatal'
+  },
+  {
+    norwegian: 'Stor vekst',
+    english: 'Big growth',
+    spanish: 'Gran crecimiento'
+  },
+  {
+    norwegian: 'å sende personopplysninger til',
+    english: 'to send personal data to',
+    spanish: 'enviar datos personales a'
+  },
+  {
+    norwegian: 'Vil anke',
+    english: 'Will appeal',
+    spanish: 'Apelará'
+  },
+  {
+    norwegian: 'å slippe personrettet reklame',
+    english: 'to stop personalized advertising',
+    spanish: 'dejar de mostrar publicidad personalizada'
+  },
+  {
+    norwegian: 'Lovstridig',
+    english: 'Illegal',
+    spanish: 'Ilegal'
+  },
+  {
+    norwegian: 'Lavere verdi',
+    english: 'Lower value',
+    spanish: 'Valor más bajo'
+  },
+  {
+    norwegian: 'Slik hindrer jeg at mitt eget agentsystem',
+    english: 'This is how I prevent my own agent system',
+    spanish: 'Así es como evito que mi propio sistema de agentes'
+  },
+  {
+    norwegian: 'blir et ekkokammer',
+    english: 'becomes an echo chamber',
+    spanish: 'se convierte en una cámara de eco'
+  },
+  {
+    norwegian: 'å rekke noen frist',
+    english: 'to meet some deadline',
+    spanish: 'para cumplir con alguna fecha límite'
+  },
+  {
+    norwegian: 'Avvik i flere år',
+    english: 'Deviation for several years',
+    spanish: 'Desviación durante varios años'
+  },
+  {
+    norwegian: 'En vanesak',
+    english: 'A matter of habit',
+    spanish: 'Una cuestión de hábito'
+  },
+  {
+    norwegian: 'Har statlige kunder',
+    english: 'Has government customers',
+    spanish: 'Tiene clientes gubernamentales'
+  },
+  {
+    norwegian: 'vi har lisens',
+    english: 'we have a license',
+    spanish: 'tenemos una licencia'
+  },
+  {
+    norwegian: 'Techfolk stilte til start',
+    english: 'Tech people lined up at the start',
+    spanish: 'Gente de tecnología se alineó en la salida'
   }
 ];
