@@ -11,7 +11,7 @@ export const words: Question[] = [
     spanish: 'flota'
   },
   {
-    norwegian: 'dust',
+    norwegian: 'støv',
     english: 'dust',
     spanish: 'polvo'
   },
