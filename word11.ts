@@ -6,203 +6,163 @@ type Question = {
 
 export const words: Question[] = [
   {
-    norwegian: 'samvittighet',
-    english: 'conscience',
-    spanish: 'conciencia'
+    norwegian: 'svever',
+    english: 'floats',
+    spanish: 'flota'
   },
   {
-    norwegian: 'et forbilde',
-    english: 'a role model',
-    spanish: 'un modelo a seguir'
+    norwegian: 'dust',
+    english: 'dust',
+    spanish: 'polvo'
   },
   {
-    norwegian: 'inkasso',
-    english: 'debt collection',
-    spanish: 'cobranza'
+    norwegian: 'gjennomførte',
+    english: 'carried out',
+    spanish: 'llevado a cabo'
   },
   {
-    norwegian:'bøller',
-    english: 'bullies',
-    spanish: 'matones'
+    norwegian: 'titt',
+    english: 'peek',
+    spanish: 'mirar'
   },
   {
-    norwegian: 'innbinding',
-    english: 'binding',
-    spanish: 'encuadernación'
+    norwegian: 'Nålen',
+    english: 'The Needle',
+    spanish: 'La Aguja'
   },
   {
-    norwegian: 'å skryte',
-    english: 'to brag',
-    spanish: 'presumir'
+    norwegian: 'en tåke',
+    english: 'a fog',
+    spanish: 'una niebla'
   },
   {
-    norwegian: 'rusten',
-    english: 'rusty',
-    spanish: 'oxidado'
+    norwegian: 'Så pinlig',
+    english: 'So embarrassing',
+    spanish: 'Tan vergonzoso'
   },
   {
-    norwegian: 'å steke meg',
-    english: 'to fry myself',
-    spanish: 'freírme'
+    norwegian: 'Oppdiktet',
+    english: 'Fictional',
+    spanish: 'Ficticio'
   },
   {
-    norwegian: 'støtt',
-    english: 'support',
-    spanish: 'apoyo'
+    norwegian: 'Å stanse',
+    english: 'To stop',
+    spanish: 'Detener'
   },
   {
-    norwegian: 'er forgjengeren',
-    english: 'is the predecessor',
-    spanish: 'es el predecesor'
+    norwegian: 'Har klikket',
+    english: 'Has clicked',
+    spanish: 'Ha hecho clic'
   },
   {
-    norwegian: 'avgjørende',
-    english: 'decisive',
-    spanish: 'decisivo'
+    norwegian: 'Er knapp',
+    english: 'Is button',
+    spanish: 'Es botón'
   },
   {
-    norwegian: 'en slank',
-    english: 'a slender',
-    spanish: 'un delgado'
+    norwegian: 'Gullsmed',
+    english: 'Goldsmith',
+    spanish: 'Orfebre'
   },
   {
-    norwegian: 'utgift',
-    english: 'expense',
-    spanish: 'gasto'
+    norwegian: 'Utnytt',
+    english: 'Exploit',
+    spanish: 'Explotar'
   },
   {
-    norwegian: 'tross',
-    english: 'despite',
-    spanish: 'a pesar de'
+    norwegian: 'Begikk',
+    english: 'Committed',
+    spanish: 'Cometió'
   },
   {
-    norwegian: 'fordømt',
-    english: 'damned',
-    spanish: 'maldito'
+    norwegian: 'Dørslag',
+    english: 'Colander',
+    spanish: 'Colador'
   },
   {
-    norwegian: 'er ivrig',
-    english: 'is eager',
-    spanish: 'está ansioso'
+    norwegian: 'Snodig',
+    english: 'Weird',
+    spanish: 'Raro'
   },
   {
-    norwegian: 'myslykket',
-    english: 'unsuccessful',
-    spanish: 'sin éxito'
+    norwegian: 'Lystig',
+    english: 'Merry',
+    spanish: 'Alegre'
   },
   {
-    norwegian: 'besverg',
-    english: 'swear',
-    spanish: 'jurar'
+    norwegian: 'Pinlig',
+    english: 'Embarrassing',
+    spanish: 'Vergonzoso'
   },
   {
-    norwegian: 'en byrde',
-    english: 'a burden',
-    spanish: 'una carga'
+    norwegian: 'Forbrytelser',
+    english: 'Crimes',
+    spanish: 'Crímenes'
   },
   {
-    norwegian: 'snåle',
-    english: 'weird',
-    spanish: 'raro'
+    norwegian: 'Han varte lenger',
+    english: 'He lasted longer',
+    spanish: 'Él duró más'
   },
   {
-    norwegian: 'å tørne',
-    english: 'to crash',
-    spanish: 'chocar'
+    norwegian: 'Ustoppelig',
+    english: 'Unstoppable',
+    spanish: 'Imparable'
   },
   {
-    norwegian: 'å beskytte deg',
-    english: 'to protect yourself',
-    spanish: 'protegerte'
+    norwegian: 'Avledning',
+    english: 'Diversion',
+    spanish: 'Desvío'
   },
   {
-    norwegian: 'en vidstrakt',
-    english: 'a vast',
-    spanish: 'un vasto'
+    norwegian: 'Skyggen',
+    english: 'The Shadow',
+    spanish: 'La Sombra'
   },
   {
-    norwegian: 'narrestrek',
-    english: 'prank',
-    spanish: 'broma'
+    norwegian: 'Rampestreker',
+    english: 'Pranks',
+    spanish: 'Travesuras'
   },
   {
-    norwegian: 'er pysa',
-    english: 'is a coward',
-    spanish: 'es un cobarde'
+    norwegian: 'Å begå',
+    english: 'To commit',
+    spanish: 'Cometer'
   },
   {
-    norwegian: 'overnaturlig',
-    english: 'supernatural',
-    spanish: 'sobrenatural'
+    norwegian: 'Aksentee',
+    english: 'Accent',
+    spanish: 'Acento'
   },
   {
-    norwegian: 'harefot',
-    english: 'harefoot',
-    spanish: 'pata de liebre'
+    norwegian: 'Utslitt',
+    english: 'Exhausted',
+    spanish: 'Agotado'
   },
   {
-    norwegian: 'jeg adverte deg',
-    english: 'I warn you',
-    spanish: 'te advierto'
+    norwegian: 'Dere lot meg',
+    english: 'You let me',
+    spanish: 'Me dejaron'
   },
   {
-    norwegian: 'forferdelig',
-    english: 'terrible',
-    spanish: 'terrible'
+    norwegian: 'i benk',
+    english: 'in the bench',
+    spanish: 'en el banco'
   },
   {
-    norwegian: 'pyser',
-    english: 'cowards',
-    spanish: 'cobardes'
+    norwegian: 'Så sint',
+    english: 'So angry',
+    spanish: 'Tan enojado'
   },
   {
-    norwegian: 'i tåken',
-    english: 'in the fog',
-    spanish: 'en la niebla'
+    norwegian: 'Omringet',
+    english: 'Surrounded',
+    spanish: 'Rodeado'
   },
   {
-    norwegian: 'hva pokker',
-    english: 'what the heck',
-    spanish: 'qué demonios'
-  },
-  {
-    norwegian: 'like skjult',
-    english: 'just hidden',
-    spanish: 'simplemente oculto'
-  },
-  {
-    norwegian: 'hjemsøkt',
-    english: 'haunted',
-    spanish: 'embrujado'
-  },
-  {
-    norwegian: 'erter det nifne',
-    english: 'tease the spooky',
-    spanish: 'burlarse de lo espeluznante'
-  },
-  {
-    norwegian: 'stifter',
-    english: 'founder',
-    spanish: 'fundador'
-  },
-  {
-    norwegian: 'utkledd',
-    english: 'dressed up',
-    spanish: 'disfrazado'
-  },
-  {
-    norwegian: 'hun klamrer seg',
-    english: 'she clings',
-    spanish: 'ella se aferra'
-  },
-  {
-    norwegian: 'vi terningen sammen',
-    english: 'we roll the dice together',
-    spanish: 'lanzamos los dados juntos'
-  },
-  {
-    norwegian: 'nykommeren',
-    english: 'the newcomer',
-    spanish: 'el recién llegado'
+    norwegian: 'Overmanne deg',
+    english: 'Overcome you',
+    spanish: 'Superarte'
   }
 ]
