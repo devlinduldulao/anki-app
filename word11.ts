@@ -364,5 +364,250 @@ export const words: Question[] = [
     norwegian: 'nykommeren',
     english: 'the newcomer',
     spanish: 'el recién llegado'
+  },
+  {
+    norwegian: 'opprivende',
+    english: 'upsetting',
+    spanish: 'perturbador'
+  },
+  {
+    norwegian: 'noensinne',
+    english: 'ever',
+    spanish: 'alguna vez'
+  },
+  {
+    norwegian: 'avgjort',
+    english: 'decided',
+    spanish: 'decidido'
+  },
+  {
+    norwegian: 'opptaket',
+    english: 'the recording',
+    spanish: 'la grabación'
+  },
+  {
+    norwegian: 'å avslå',
+    english: 'to reject',
+    spanish: 'rechazar'
+  },
+  {
+    norwegian: 'stokk og stein',
+    english: 'stick and stone',
+    spanish: 'palo y piedra'
+  },
+  {
+    norwegian: 'etegilde',
+    english: 'banquet',
+    spanish: 'banquete'
+  },
+  {
+    norwegian: 'ransrekken',
+    english: 'the robbery',
+    spanish: 'el robo'
+  },
+  {
+    norwegian: 'hesere',
+    english: 'hoarser',
+    spanish: 'más ronco'
+  },
+  {
+    norwegian: 'vettet',
+    english: 'the mind',
+    spanish: 'la mente'
+  },
+  {
+    norwegian: 'var sprøtt',
+    english: 'was crazy',
+    spanish: 'estaba loco'
+  },
+  {
+    norwegian: 'byrde',
+    english: 'burden',
+    spanish: 'carga'
+  },
+  {
+    norwegian: 'svakhet',
+    english: 'weakness',
+    spanish: 'debilidad'
+  },
+  {
+    norwegian: 'bearbeide',
+    english: 'process',
+    spanish: 'procesar'
+  },
+  {
+    norwegian: 'bønnene',
+    english: 'the prayers',
+    spanish: 'las oraciones'
+  },
+  {
+    norwegian: 'utmerket',
+    english: 'excellent',
+    spanish: 'excelente'
+  },
+  {
+    norwegian: 'en fluktbil',
+    english: 'a getaway car',
+    spanish: 'un coche de escape'
+  },
+  {
+    norwegian: 'beherske',
+    english: 'master',
+    spanish: 'maestro'
+  },
+  {
+    norwegian: 'vågale',
+    english: 'daring',
+    spanish: 'atrevido'
+  },
+  {
+    norwegian: 'overtaket',
+    english: 'the upper hand',
+    spanish: 'la ventaja'
+  },
+  {
+    norwegian: 'rådslå',
+    english: 'ponder',
+    spanish: 'ponderar'
+  },
+  {
+    norwegian: 'i buret',
+    english: 'in the cage',
+    spanish: 'en la jaula'
+  },
+  {
+    norwegian: 'gisselet',
+    english: 'the hostage',
+    spanish: 'el rehén'
+  },
+  {
+    norwegian: 'å utvide',
+    english: 'to expand',
+    spanish: 'expandir'
+  },
+  {
+    norwegian: 'glipp av',
+    english: 'slip of',
+    spanish: 'desliz de'
+  },
+  {
+    norwegian: 'å tilby',
+    english: 'to offer',
+    spanish: 'ofrecer'
+  },
+  {
+    norwegian: 'skranke',
+    english: 'counter',
+    spanish: 'mostrador'
+  },
+  {
+    norwegian: 'uberedskap',
+    english: 'unpreparedness',
+    spanish: 'impreparación'
+  },
+  {
+    norwegian: 'pingvinenes',
+    english: 'the penguins',
+    spanish: 'los pingüinos'
+  },
+  {
+    norwegian: 'steller deg',
+    english: 'takes care of you',
+    spanish: 'te cuida'
+  },
+  {
+    norwegian: 'mange bøyes',
+    english: 'many bend',
+    spanish: 'muchos se doblan'
+  },
+  {
+    norwegian: 'skikkelig seig',
+    english: 'really tough',
+    spanish: 'realmente duro'
+  },
+  {
+    norwegian: 'har tygget før',
+    english: 'has chewed before',
+    spanish: 'ha masticado antes'
+  },
+  {
+    norwegian: 'omtrent',
+    english: 'approximately',
+    spanish: 'aproximadamente'
+  },
+  {
+    norwegian: 'å plyndre',
+    english: 'to plunder',
+    spanish: 'saquear'
+  },
+  {
+    norwegian: 'betryggende',
+    english: 'reassuring',
+    spanish: 'tranquilizador'
+  },
+  {
+    norwegian: 'apropos',
+    english: 'by the way',
+    spanish: 'por cierto'
+  },
+  {
+    norwegian: 'særlig',
+    english: 'particularly',
+    spanish: 'particularmente'
+  },
+  {
+    norwegian: 'å forfalske',
+    english: 'to forge',
+    spanish: 'forjar'
+  },
+  {
+    norwegian: 'inntil',
+    english: 'until',
+    spanish: 'hasta'
+  },
+  {
+    norwegian: 'avbryt',
+    english: 'cancel',
+    spanish: 'cancelar'
+  },
+  {
+    norwegian: 'å hedre',
+    english: 'to honor',
+    spanish: 'honrar'
+  },
+  {
+    norwegian: 'tilhører',
+    english: 'belongs to',
+    spanish: 'pertenece a'
+  },
+  {
+    norwegian: 'forbindelse',
+    english: 'connection',
+    spanish: 'conexión'
+  },
+  {
+    norwegian: 'lytte',
+    english: 'listen',
+    spanish: 'escuchar'
+  },
+  {
+    norwegian: 'å begå',
+    english: 'to commit',
+    spanish: 'cometer'
+  },
+  {
+    norwegian: 'flukt',
+    english: 'escape',
+    spanish: 'escape'
+  },
+  {
+    norwegian: 'innblikk',
+    english: 'insight',
+    spanish: 'perspectiva'
+  },
+  {
+    norwegian: 'omsetning',
+    english: 'turnover',
+    spanish: 'facturación'
   }
 ]
