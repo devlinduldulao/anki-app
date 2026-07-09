@@ -609,5 +609,140 @@ export const words: Question[] = [
     norwegian: 'omsetning',
     english: 'turnover',
     spanish: 'facturación'
+  },
+  {
+    norwegian: 'en sverm',
+    english: 'a swarm',
+    spanish: 'un enjambre'
+  },
+  {
+    norwegian: 'skremme',
+    english: 'scare',
+    spanish: 'asustar'
+  },
+  {
+    norwegian: 'som raner her',
+    english: 'who robs here',
+    spanish: 'que roba aquí'
+  },
+  {
+    norwegian: 'en pyse',
+    english: 'a coward',
+    spanish: 'un cobarde'
+  },
+  {
+    norwegian: 'en bedøver',
+    english: 'an anesthetic',
+    spanish: 'un anestésico'
+  },
+  {
+    norwegian: 'utstillingen',
+    english: 'the exhibition',
+    spanish: 'la exposición'
+  },
+  {
+    norwegian: 'måping',
+    english: 'gaping',
+    spanish: 'boquiabierto'
+  },
+  {
+    norwegian: 'allikevel',
+    english: 'nevertheless',
+    spanish: 'sin embargo'
+  },
+  {
+    norwegian: 'tidenes',
+    english: 'of all time',
+    spanish: 'de todos los tiempos'
+  },
+  {
+    norwegian: 'jeg innså',
+    english: 'I realized',
+    spanish: 'me di cuenta'
+  },
+  {
+    norwegian: 'er forskudd',
+    english: 'is advance',
+    spanish: 'es un adelanto'
+  },
+  {
+    norwegian: 'plettfri',
+    english: 'spotless',
+    spanish: 'impecable'
+  },
+  {
+    norwegian: 'anlegger bart',
+    english: 'grows a mustache',
+    spanish: 'crece un bigote'
+  },
+  {
+    norwegian: 'å rømme nå',
+    english: 'to escape now',
+    spanish: 'escapar ahora'
+  },
+  {
+    norwegian: 'følsomhet',
+    english: 'sensitivity',
+    spanish: 'sensibilidad'
+  },
+  {
+    norwegian: 'har fakket',
+    english: 'has caught',
+    spanish: 'ha atrapado'
+  },
+  {
+    norwegian: 'ut herfra',
+    english: 'out of here',
+    spanish: 'fuera de aquí'
+  },
+  {
+    norwegian: 'å vokte',
+    english: 'to guard',
+    spanish: 'vigilar'
+  },
+  {
+    norwegian: 'klebrig',
+    english: 'sticky',
+    spanish: 'pegajoso'
+  },
+  {
+    norwegian: 'utført',
+    english: 'performed',
+    spanish: 'realizado'
+  },
+  {
+    norwegian: 'bedøver',
+    english: 'anesthetic',
+    spanish: 'anestésico'
+  },
+  {
+    norwegian: 'sedvane',
+    english: 'custom',
+    spanish: 'costumbre'
+  },
+  {
+    norwegian: 'radikalt',
+    english: 'radically',
+    spanish: 'radicalmente'
+  },
+  {
+    norwegian: 'oppmerksomhet',
+    english: 'attention',
+    spanish: 'atención'
+  },
+  {
+    norwegian: 'er fortært',
+    english: 'is consumed',
+    spanish: 'está consumido'
+  },
+  {
+    norwegian: 'gjensidig',
+    english: 'mutual',
+    spanish: 'mutuo'
+  },
+  {
+    norwegian: 'bli fakket',
+    english: 'to get caught',
+    spanish: 'ser atrapado'
   }
 ]
