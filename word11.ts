@@ -744,5 +744,195 @@ export const words: Question[] = [
     norwegian: 'bli fakket',
     english: 'to get caught',
     spanish: 'ser atrapado'
+  },
+  {
+    norwegian: 'å overføre',
+    english: 'to transfer',
+    spanish: 'transferir'
+  },
+  {
+    norwegian: 'straffe',
+    english: 'punish',
+    spanish: 'castigar'
+  },
+  {
+    norwegian: 'omkring',
+    english: 'around',
+    spanish: 'alrededor'
+  },
+  {
+    norwegian: 'opplæring',
+    english: 'training',
+    spanish: 'entrenamiento'
+  },
+  {
+    norwegian: 'regelmessig',
+    english: 'regular',
+    spanish: 'regular'
+  },
+  {
+    norwegian: 'ammet',
+    english: 'breastfed',
+    spanish: 'amamantado'
+  },
+  {
+    norwegian: 'aksjeavsløring',
+    english: 'stock disclosure',
+    spanish: 'divulgación de acciones'
+  },
+  {
+    norwegian: 'skal hedre',
+    english: 'will honor',
+    spanish: 'honrará'
+  },
+  {
+    norwegian: 'overforsikret',
+    english: 'overinsured',
+    spanish: 'sobreasegurado'
+  },
+  {
+    norwegian: 'trillet inn',
+    english: 'rolled in',
+    spanish: 'rodado' 
+  },
+  {
+    norwegian: 'tiltalt for',
+    english: 'charged with',
+    spanish: 'acusado de'
+  },
+  {
+    norwegian: 'lovløse tilstander',
+    english: 'lawless conditions',
+    spanish: 'condiciones sin ley'
+  },
+  {
+    norwegian: 'inventar',
+    english: 'inventory',
+    spanish: 'inventario'
+  },
+  {
+    norwegian: 'ypperlig',
+    english: 'excellent',
+    spanish: 'excelente'
+  },
+  {
+    norwegian: 'rekordmange søkere',
+    english: 'record number of applicants',
+    spanish: 'número récord de solicitantes'
+  },
+  {
+    norwegian: 'slutt å telle kontordager',
+    english: 'stop counting office days',
+    spanish: 'deja de contar los días de oficina'
+  },
+  {
+    norwegian: 'en glipp',
+    english: 'a slip',
+    spanish: 'un desliz'
+  },
+  {
+    norwegian: 'etterlyser',
+    english: 'is wanted',
+    spanish: 'se busca'
+  },
+  {
+    norwegian: 'etterlyser mer strategisk tenkning',
+    english: 'calls for more strategic thinking',
+    spanish: 'exige un pensamiento más estratégico'
+  },
+  {
+    norwegian: 'kan sveise og male',
+    english: 'can weld and paint',
+    spanish: 'puede soldar y pintar'
+  },
+  {
+    norwegian: 'tema og frykt',
+    english: 'theme and fear',
+    spanish: 'tema y miedo'
+  },
+  {
+    norwegian: 'i strid med',
+    english: 'in conflict with',
+    spanish: 'en conflicto con'
+  },
+  {
+    norwegian: 'uløst problem',
+    english: 'unsolved problem',
+    spanish: 'problema no resuelto'
+  },
+  {
+    norwegian: 'økokrim frykter datasentre',
+    english: 'Økokrim fears data centers',
+    spanish: 'Økokrim teme los centros de datos'
+  },
+  {
+    norwegian: 'tæppingen eksploderte',
+    english: 'the tapping exploded',
+    spanish: 'la perforación explotó'
+  },
+  {
+    norwegian: 'avslører strømforbruket',
+    english: 'reveals the power consumption',
+    spanish: 'revela el consumo de energía'
+  },
+  {
+    norwegian: 'problemet oppstår',
+    english: 'the problem arises',
+    spanish: 'el problema surge'
+  },
+  {
+    norwegian: 'tillitsvalgt bekymret',
+    english: 'union representative concerned',
+    spanish: 'representante sindical preocupado'
+  },
+  {
+    norwegian: 'lurt å være forberedt',
+    english: 'wise to be prepared',
+    spanish: 'sabio estar preparado'
+  },
+  {
+    norwegian: 'fra hustak til kjeller',
+    english: 'from roof to basement',
+    spanish: 'de techo a sótano'
+  },
+  {
+    norwegian: 'opphavs­rett',
+    english: 'copyright',
+    spanish: 'derechos de autor'
+  },
+  {
+    norwegian: 'innersvingen på',
+    english: 'the inside lane on',
+    spanish: 'el carril interior en'
+  },
+  {
+    norwegian: 'en tendens til å',
+    english: 'a tendency to',
+    spanish: 'una tendencia a'
+  },
+  {
+    norwegian: 'bemanningen',
+    english: 'the staffing',
+    spanish: 'el personal'
+  },
+  {
+    norwegian: 'utviklere fortviler',
+    english: 'developers despair',
+    spanish: 'los desarrolladores se desesperan'
+  },
+  {
+    norwegian: 'det utskjelte nabolaget',
+    english: 'the notorious neighborhood',
+    spanish: 'el infame vecindario'
+  },
+  {
+    norwegian: 'utskjelte',
+    english: 'scolded',
+    spanish: 'regañado'
+  },
+  {
+    norwegian: 'kullgrill',
+    english: 'charcoal grill',
+    spanish: 'parrilla de carbón'
   }
 ]
