@@ -934,5 +934,85 @@ export const words: Question[] = [
     norwegian: 'kullgrill',
     english: 'charcoal grill',
     spanish: 'parrilla de carbón'
+  },
+  {
+    norwegian: 'vennligst fiks det',
+    english: 'please fix it',
+    spanish: 'por favor arréglalo'
+  },
+  {
+    norwegian: 'mer synlig politi',
+    english: 'more visible police',
+    spanish: 'policía más visible'
+  },
+  {
+    norwegian: 'en matbod',
+    english: 'a food stall',
+    spanish: 'un puesto de comida'
+  },
+  {
+    norwegian: 'hadde gyldig billett',
+    english: 'had a valid ticket',
+    spanish: 'tenía un boleto válido'
+  },
+  {
+    norwegian: 'en akutt syk hund',
+    english: 'an acutely ill dog',
+    spanish: 'un perro gravemente enfermo'
+  },
+  {
+    norwegian: 'hva er kjappest',
+    english: 'what is fastest',
+    spanish: 'qué es más rápido'
+  },
+  {
+    norwegian: 'slippe ut',
+    english: 'release',
+    spanish: 'liberar'
+  },
+  {
+    norwegian: 'umiddelbar planlegging',
+    english: 'immediate planning',
+    spanish: 'planificación inmediata'
+  },
+  {
+    norwegian: 'sannheten om Oslo',
+    english: 'the truth about Oslo',
+    spanish: 'la verdad sobre Oslo'
+  },
+  {
+    norwegian: 'ulovlig bygging',
+    english: 'illegal construction',
+    spanish: 'construcción ilegal'
+  },
+  {
+   norwegian: 'fersk gjerning',
+   english: 'fresh act',
+   spanish: 'acto reciente' 
+  },
+  {
+    norwegian: 'uflaks for idiotene',
+    english: 'bad luck for the idiots',
+    spanish: 'mala suerte para los idiotas'
+  },
+  {
+    norwegian: 'et voldsomt overskudd',
+    english: 'a huge surplus',
+    spanish: 'un gran excedente'
+  },
+  {
+    norwegian: 'forsinkelser for bilistene',
+    english: 'delays for motorists',
+    spanish: 'retrasos para los automovilistas'
+  },
+  {
+    norwegian: 'bystyreplass',
+    english: 'city council seat',
+    spanish: 'asiento en el consejo de la ciudad'
+  },
+  {
+    norwegian: 'satser på å bli',
+    english: 'aims to become',
+    spanish: 'apunta a convertirse'
   }
 ]
