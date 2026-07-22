@@ -1039,5 +1039,10 @@ export const words: Question[] = [
     norwegian: 'for ofrene',
     english: 'for the victims',
     spanish: 'para las víctimas'
+  },
+  {
+    norwegian: 'omkom',
+    english: 'perished',
+    spanish: 'pereció'
   }
 ]
