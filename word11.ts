@@ -1014,5 +1014,30 @@ export const words: Question[] = [
     norwegian: 'satser på å bli',
     english: 'aims to become',
     spanish: 'apunta a convertirse'
+  },
+  {
+    norwegian: 'en dyr affære',
+    english: 'an expensive affair',
+    spanish: 'un asunto caro'
+  },
+  {
+    norwegian: 'på prisoppturen',
+    english: 'on the price surge',
+    spanish: 'en el aumento de precios'
+  },
+  {
+    norwegian: 'myndigheter',
+    english: 'authorities',
+    spanish: 'autoridades'
+  },
+  {
+    norwegian: 'betydelig prisøkning',
+    english: 'significant price increase',
+    spanish: 'aumento de precio significativo'
+  },
+  {
+    norwegian: 'for ofrene',
+    english: 'for the victims',
+    spanish: 'para las víctimas'
   }
 ]
