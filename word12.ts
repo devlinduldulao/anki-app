@@ -94,5 +94,50 @@ export const words: Question[] = [
     norwegian: 'behandles som forræderi',
     english: 'treated as treason',
     spanish: 'tratado como traición'
+  },
+  {
+    norwegian: 'etterforskes for lekkasjer',
+    english: 'investigated for leaks',
+    spanish: 'investigado por fugas'
+  },
+  {
+    norwegian: 'har preget i lang tid',
+    english: 'has influenced for a long time',
+    spanish: 'ha influido durante mucho tiempo'
+  },
+  {
+    norwegian: 'ruster seg for vinteren',
+    english: 'prepares for winter',
+    spanish: 'se prepara para el invierno'
+  },
+  {
+    norwegian: 'vi struper den',
+    english: 'we strangle it',
+    spanish: 'la estrangulamos'
+  },
+  {
+    norwegian: 'kutter i opplevelser og nytelse',
+    english: 'cuts in experiences and enjoyment',
+    spanish: 'corta en experiencias y disfrute'
+  },
+  {
+    norwegian: 'kutter i opplevelser og nytelse',
+    english: 'cuts in experiences and enjoyment',
+    spanish: 'corta en experiencias y disfrute'
+  },
+  {
+    norwegian: 'forskere har laget',
+    english: 'researchers have made',
+    spanish: 'los investigadores han hecho'
+  },
+  {
+    norwegian: 'stemt inn',
+    english: 'voted in',
+    spanish: 'votado en'
+  },
+  {
+    norwegian: 'aldri hatt bedre grobunn',
+    english: 'never had better breeding ground',
+    spanish: 'nunca ha tenido mejor terreno fértil'
   }
 ];
