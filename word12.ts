@@ -269,5 +269,80 @@ export const words: Question[] = [
     norwegian: 'enorm jordvoll',
     english: 'enormous earth mound',
     spanish: 'enorme montículo de tierra'
+  },
+  {
+    norwegian: 'tviholder på',
+    english: 'clings to',
+    spanish: 'se aferra a'
+  },
+  {
+    norwegian: 'erstatter gamle',
+    english: 'replaces old',
+    spanish: 'reemplaza viejo'
+  },
+  {
+    norwegian: 'nådeløs',
+    english: 'ruthless',
+    spanish: 'despiadado'
+  },
+  {
+    norwegian: 'plikter seg til å',
+    english: 'commits to',
+    spanish: 'se compromete a'
+  },
+  {
+    norwegian: 'uventet regnvær',
+    english: 'unexpected rain',
+    spanish: 'lluvia inesperada'
+  },
+  {
+    norwegian: 'tilfelle av hjerteinfarkt',
+    english: 'case of heart attack',
+    spanish: 'caso de ataque al corazón'
+  },
+  {
+    norwegian: 'feiging og feighet',
+    english: 'cowardice and cowardice',
+    spanish: 'cobardía y cobardía'
+  },
+  {
+    norwegian: 'beseire fienden',
+    english: 'defeat the enemy',
+    spanish: 'derrotar al enemigo'
+  },
+  {
+    norwegian: 'forsvant i 2019',
+    english: 'disappeared in 2019',
+    spanish: 'desapareció en 2019'
+  },
+  {
+    norwegian: 'på årevis',
+    english: 'for years',
+    spanish: 'durante años'
+  },
+  {
+    norwegian: 'sjenerøs med penger',
+    english: 'generous with money',
+    spanish: 'generoso con el dinero'
+  },
+  {
+    norwegian: 'byrden av å være',
+    english: 'the burden of being',
+    spanish: 'la carga de ser'
+  },
+  {
+    norwegian: 'det handler ikke om å være',
+    english: 'it is not about being',
+    spanish: 'no se trata de ser'
+  },
+  {
+    norwegian: 'utsikten til å bli',
+    english: 'the prospect of becoming',
+    spanish: 'la perspectiva de convertirse en'
+  },
+  {
+    norwegian: 'å ferdes i naturen',
+    english: 'to travel in nature',
+    spanish: 'viajar en la naturaleza'
   }
 ];
