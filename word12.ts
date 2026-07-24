@@ -249,5 +249,25 @@ export const words: Question[] = [
     norwegian: 'borgermester',
     english: 'mayor',
     spanish: 'alcalde'
+  },
+  {
+    norwegian: 'framfor pensumbøker',
+    english: 'instead of textbooks',
+    spanish: 'en lugar de libros de texto'
+  },
+  {
+    norwegian: 'jagerfly',
+    english: 'fighter jet',
+    spanish: 'avión de combate'
+  },
+  {
+    norwegian: 'eide om mulig økt',
+    english: 'owned about possible increase',
+    spanish: 'poseía sobre posible aumento'
+  },
+  {
+    norwegian: 'enorm jordvoll',
+    english: 'enormous earth mound',
+    spanish: 'enorme montículo de tierra'
   }
 ];
