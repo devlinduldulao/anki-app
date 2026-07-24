@@ -139,5 +139,115 @@ export const words: Question[] = [
     norwegian: 'aldri hatt bedre grobunn',
     english: 'never had better breeding ground',
     spanish: 'nunca ha tenido mejor terreno fértil'
+  },
+  {
+    norwegian: 'nå freser folk',
+    english: 'now people are fuming',
+    spanish: 'ahora la gente está furiosa'
+  },
+  {
+    norwegian: 'fallulykke',
+    english: 'fall accident',
+    spanish: 'accidente de caída'
+  },
+  {
+    norwegian: 'flere hundre berørte',
+    english: 'several hundred affected',
+    spanish: 'varios cientos afectados'
+  },
+  {
+    norwegian: 'strømbrudd',
+    english: 'power outage',
+    spanish: 'corte de energía'
+  },
+  {
+    norwegian: 'forårsaket',
+    english: 'caused',
+    spanish: 'causado'
+  },
+  {
+    norwegian: 'turist freser etter',
+    english: 'tourist fumes after',
+    spanish: 'el turista se enfurece después'
+  },
+  {
+    norwegian: 'klagde på straffen',
+    english: 'complained about the punishment',
+    spanish: 'se quejó del castigo'
+  },
+  {
+    norwegian: 'en avgrenset oppgave',
+    english: 'a limited task',
+    spanish: 'una tarea limitada'
+  },
+  {
+    norwegian: 'belastede gata',
+    english: 'loaded street',
+    spanish: 'calle cargada'
+  },
+  {
+    norwegian: 'ypper til kamp',
+    english: 'provokes to fight',
+    spanish: 'provoca a luchar'
+  },
+  {
+    norwegian: 'voldsom fart',
+    english: 'violent speed',
+    spanish: 'velocidad violenta'
+  },
+  {
+    norwegian: 'rimelig spesielt',
+    english: 'reasonably special',
+    spanish: 'razonablemente especial'
+  },
+  {
+    norwegian: 'i bitter arvestrid',
+    english: 'in bitter inheritance dispute',
+    spanish: 'en amarga disputa por la herencia'
+  },
+  {
+    norwegian: 'hjertestans',
+    english: 'cardiac arrest',
+    spanish: 'paro cardíaco'
+  },
+  {
+    norwegian: 'enda en grunn til',
+    english: 'yet another reason to',
+    spanish: 'otra razón más para'
+  },
+  {
+    norwegian: 'tre nordmenn i brudd',
+    english: 'three Norwegians in breach',
+    spanish: 'tres noruegos en incumplimiento'
+  },
+  {
+    norwegian: 'ei form for sjølvbedrag',
+    english: 'a form of self-deception',
+    spanish: 'una forma de autoengaño'
+  },
+  {
+    norwegian: 'innrømmer',
+    english: 'admits',
+    spanish: 'admite'
+  },
+  {
+    norwegian: 'periode med mye regn',
+    english: 'period with a lot of rain',
+    spanish: 'período con mucha lluvia'
+  },
+  {
+    norwegian: 'førstevalget',
+    english: 'the first choice',
+    spanish: 'la primera opción'
+  },
+  {
+    norwegian: 'drikkevannskilde',
+    english: 'drinking water source',
+    spanish: 'fuente de agua potable'
+  },
+  {
+    norwegian: 'borgermester',
+    english: 'mayor',
+    spanish: 'alcalde'
   }
 ];
