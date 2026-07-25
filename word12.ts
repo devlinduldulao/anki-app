@@ -374,5 +374,15 @@ export const words: Question[] = [
     norwegian: 'stilen er upåklagelig',
     english: 'the style is impeccable',
     spanish: 'el estilo es impecable'
+  },
+  {
+    norwegian: 'braste inn i bolighus i Råde',
+    english: 'broke into residential house in Råde',
+    spanish: 'irrumpió en casa residencial en Råde'
+  },
+  {
+    norwegian: 'sjåføren siktet',
+    english: 'the driver charged',
+    spanish: 'el conductor acusado'
   }
 ];
