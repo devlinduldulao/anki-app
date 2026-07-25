@@ -896,7 +896,7 @@ export const words: Question[] = [
     spanish: 'de techo a sótano'
   },
   {
-    norwegian: 'opphavs­rett',
+    norwegian: 'opphavsrett',
     english: 'copyright',
     spanish: 'derechos de autor'
   },
