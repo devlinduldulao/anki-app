@@ -344,5 +344,35 @@ export const words: Question[] = [
     norwegian: 'å ferdes i naturen',
     english: 'to travel in nature',
     spanish: 'viajar en la naturaleza'
+  },
+  {
+    norwegian: 'utestengt fra',
+    english: 'excluded from',
+    spanish: 'excluido de'
+  },
+  {
+    norwegian: 'Nato-praktikant pågrepet for spionasje',
+    english: 'Nato intern arrested for espionage',
+    spanish: 'Practicante de la OTAN arrestado por espionaje'
+  },
+  {
+    norwegian: 'slår turistalarm',
+    english: 'raises tourist alarm',
+    spanish: 'lanza alarma turística'
+  },
+  {
+    norwegian: 'advarer Oslo',
+    english: 'warns Oslo',
+    spanish: 'advierte a Oslo'
+  },
+  {
+    norwegian: 'brann i fjøs',
+    english: 'fire in barn',
+    spanish: 'incendio en el establo'
+  },
+  {
+    norwegian: 'stilen er upåklagelig',
+    english: 'the style is impeccable',
+    spanish: 'el estilo es impecable'
   }
 ];
