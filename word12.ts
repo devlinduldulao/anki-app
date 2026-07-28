@@ -384,5 +384,460 @@ export const words: Question[] = [
     norwegian: 'sjåføren siktet',
     english: 'the driver charged',
     spanish: 'el conductor acusado'
+  },
+  {
+    norwegian: 'sorg og sinne',
+    english: 'grief and anger',
+    spanish: 'dolor y enojo'
+  },
+  {
+    norwegian: 'frigjort fra fengsel',
+    english: 'released from prison',
+    spanish: 'liberado de prisión'
+  },
+  {
+    norwegian: 'sladret om kollega',
+    english: 'gossiped about colleague',
+    spanish: 'chismeó sobre colega'
+  },
+  {
+    norwegian: 'blødningen',
+    english: 'the bleeding',
+    spanish: 'el sangrado'
+  },
+  {
+    norwegian: 'en forræderisk handling',
+    english: 'a treacherous act',
+    spanish: 'un acto traicionero'
+  },
+  {
+    norwegian: 'forvist til fengsel',
+    english: 'exiled to prison',
+    spanish: 'exiliado a prisión'
+  },
+  {
+    norwegian: 'brikker i et spill',
+    english: 'pieces in a game',
+    spanish: 'piezas en un juego'
+  },
+  {
+    norwegian: 'påtok',
+    english: 'undertook',
+    spanish: 'emprendió'
+  },
+  {
+    norwegian: 'å utryddet',
+    english: 'to exterminate',
+    spanish: 'exterminar'
+  },
+  {
+    norwegian: 'skylder ham penger',
+    english: 'owes him money',
+    spanish: 'le debe dinero'
+  },
+  {
+    norwegian: 'forrådt av sin egen',
+    english: 'betrayed by his own',
+    spanish: 'traicionado por su propio'
+  },
+  {
+    norwegian: 'våger du å',
+    english: 'do you dare to',
+    spanish: 'te atreves a'
+  },
+  {
+    norwegian: 'slakteren',
+    english: 'the butcher',
+    spanish: 'el carnicero'
+  },
+  {
+    norwegian: 'har nådd et punkt',
+    english: 'has reached a point',
+    spanish: 'ha llegado a un punto'
+  },
+  {
+    norwegian: 'kan forsikres',
+    english: 'can be insured',
+    spanish: 'puede ser asegurado'
+  },
+  {
+    norwegian: 'skynd deg å få med deg',
+    english: 'hurry to catch',
+    spanish: 'date prisa para atrapar'
+  },
+  {
+    norwegian: 'bortsett fra de som har',
+    english: 'except for those who have',
+    spanish: 'excepto por aquellos que tienen'
+  },
+  {
+    norwegian: 'fjeset er dekket av blod',
+    english: 'the face is covered in blood',
+    spanish: 'la cara está cubierta de sangre'
+  },
+  {
+    norwegian: 'hva skyldes dette',
+    english: 'what is the cause of this',
+    spanish: 'cuál es la causa de esto'
+  },
+  {
+    norwegian: 'ikke leketøy',
+    english: 'not a toy',
+    spanish: 'no es un juguete'
+  },
+  {
+    norwegian: 'det er trangt om plassen',
+    english: 'it is tight on space',
+    spanish: 'está apretado en el espacio'
+  },
+  {
+    norwegian: 'en bytting av roller',
+    english: 'a swapping of roles',
+    spanish: 'un intercambio de roles'
+  },
+  {
+    norwegian: 'i tilfelle av ulykke',
+    english: 'in case of accident',
+    spanish: 'en caso de accidente'
+  },
+  {
+    norwegian: 'overbegeistret over å ha',
+    english: 'thrilled to have',
+    spanish: 'emocionado de tener'
+  },
+  {
+    norwegian: 'innlede forhandlinger',
+    english: 'initiate negotiations',
+    spanish: 'iniciar negociaciones'
+  },
+  {
+    norwegian: 'utvei',
+    english: 'way out',
+    spanish: 'salida'
+  },
+  {
+    norwegian: 'uten tvil',
+    english: 'without a doubt',
+    spanish: 'sin duda'
+  },
+  {
+    norwegian: 'byttingløsning',
+    english: 'exchange solution',
+    spanish: 'solución de intercambio'
+  },
+  {
+    norwegian: 'flysteik',
+    english: 'fly steak',
+    spanish: 'bistec de vuelo'
+  },
+  {
+    norwegian: 'flaskepust',
+    english: 'bottle breath',
+    spanish: 'aliento de botella'
+  },
+  {
+    norwegian: 'det ekle beistet',
+    english: 'the nasty beast',
+    spanish: 'la bestia desagradable'
+  },
+  {
+    norwegian: 'bedømt',
+    english: 'judged',
+    spanish: 'juzgado'
+  },
+  {
+    norwegian: 'i tilfelle av',
+    english: 'in case of',
+    spanish: 'en caso de'
+  },
+  {
+    norwegian: 'vesen',
+    english: 'creature',
+    spanish: 'criatura'
+  },
+  {
+    norwegian: 'frekt',
+    english: 'cheeky',
+    spanish: 'descarado'
+  },
+  {
+    norwegian: 'ære',
+    english: 'honor',
+    spanish: 'honor'
+  },
+  {
+    norwegian: 'for innsatsen',
+    english: 'for the effort',
+    spanish: 'por el esfuerzo'
+  },
+  {
+    norwegian: 'gjenoppta',
+    english: 'resume',
+    spanish: 'reanudar'
+  },
+  {
+    norwegian: 'mislykket',
+    english: 'failed',
+    spanish: 'falló'
+  },
+  {
+    norwegian: 'gyte olje',
+    english: 'spawning oil',
+    spanish: 'desove de aceite'
+  },
+  {
+    norwegian: 'valse inn i',
+    english: 'waltz into',
+    spanish: 'bailar en'
+  },
+  {
+    norwegian: 'lubne blir',
+    english: 'chubby becomes',
+    spanish: 'gordito se convierte'
+  },
+  {
+    norwegian: 'besvarer',
+    english: 'answers',
+    spanish: 'responde'
+  },
+  {
+    norwegian: 'nødt til å',
+    english: 'forced to',
+    spanish: 'obligado a'
+  },
+  {
+    norwegian: 'sjelen',
+    english: 'the soul',
+    spanish: 'el alma'
+  },
+  {
+    norwegian: 'håner oss',
+    english: 'mocks us',
+    spanish: 'se burla de nosotros'
+  },
+  {
+    norwegian: 'hinsidige',
+    english: 'outrageous',
+    spanish: 'escandaloso'
+  },
+  {
+    norwegian: 'jeg vekket deg',
+    english: 'I woke you up',
+    spanish: 'te desperté'
+  },
+  {
+    norwegian: 'erstatning for tap',
+    english: 'compensation for loss',
+    spanish: 'compensación por pérdida'
+  },
+  {
+    norwegian: 'kan kverke deg',
+    english: 'can strangle you',
+    spanish: 'puede estrangularte'
+  },
+  {
+    norwegian: 'bli plyndret',
+    english: 'be plundered',
+    spanish: 'ser saqueado'
+  },
+  {
+    norwegian: 'snodig',
+    english: 'quirky',
+    spanish: 'peculiar'
+  },
+  {
+    norwegian: 'klønete',
+    english: 'clumsy',
+    spanish: 'torpe'
+  },
+  {
+    norwegian: 'utagerende',
+    english: 'acting out',
+    spanish: 'actuando'
+  },
+  {
+    norwegian: 'sårbar',
+    english: 'vulnerable',
+    spanish: 'vulnerable'
+  },
+  {
+    norwegian: 'underlig',
+    english: 'strange',
+    spanish: 'extraño'
+  },
+  {
+    norwegian: 'er praktfullt',
+    english: 'is magnificent',
+    spanish: 'es magnífico'
+  },
+  {
+    norwegian: 'besynderlig',
+    english: 'peculiar',
+    spanish: 'peculiar'
+  },
+  {
+    norwegian: 'stødig',
+    english: 'steady',
+    spanish: 'estable'
+  },
+  {
+    norwegian: 'kan forutsettes',
+    english: 'can be assumed',
+    spanish: 'se puede asumir'
+  },
+  {
+    norwegian: 'å frata ham',
+    english: 'to take away from him',
+    spanish: 'quitarle a él'
+  },
+  {
+    norwegian: 'er nifst',
+    english: 'is creepy',
+    spanish: 'es espeluznante'
+  },
+  {
+    norwegian: 'inntil',
+    english: 'until',
+    spanish: 'hasta'
+  },
+  {
+    norwegian: 'skjerpe oss',
+    english: 'sharpen us',
+    spanish: 'afilarse'
+  },
+  {
+    norwegian: 'skrinet',
+    english: 'the casket',
+    spanish: 'el ataúd'
+  },
+  {
+    norwegian: 'fant kuren',
+    english: 'found the cure',
+    spanish: 'encontró la cura'
+  },
+  {
+    norwegian: 'svikter i å',
+    english: 'fails to',
+    spanish: 'falla en'
+  },
+  {
+    norwegian: 'grådig',
+    english: 'greedy',
+    spanish: 'codicioso'
+  },
+  {
+    norwegian: 'møkka',
+    english: 'the muck',
+    spanish: 'el lodo'
+  },
+  {
+    norwegian: 'blitt tidlig',
+    english: 'become early',
+    spanish: 'convertirse en temprano'
+  },
+  {
+    norwegian: 'en byttehandel',
+    english: 'a barter trade',
+    spanish: 'un trueque'
+  },
+  {
+    norwegian: 'et knep',
+    english: 'a trick',
+    spanish: 'un truco'
+  },
+  {
+    norwegian: 'opprørerne',
+    english: 'the rebels',
+    spanish: 'los rebeldes'
+  },
+  {
+    norwegian: 'gjennomført',
+    english: 'carried out',
+    spanish: 'llevado a cabo'
+  },
+  {
+    norwegian: 'åndsfraværende',
+    english: 'absent-minded',
+    spanish: 'distraído'
+  },
+  {
+    norwegian: 'tviler på at',
+    english: 'doubts that',
+    spanish: 'duda que'
+  },
+  {
+    norwegian: 'hertug',
+    english: 'duke',
+    spanish: 'duque'
+  },
+  {
+    norwegian: 'utenat',
+    english: 'by heart',
+    spanish: 'de memoria'
+  },
+  {
+    norwegian: 'besittelse',
+    english: 'possession',
+    spanish: 'posesión'
+  },
+  {
+    norwegian: 'ligg unna',
+    english: 'stay away',
+    spanish: 'mantente alejado'
+  },
+  {
+    norwegian: 'sludder og vås',
+    english: 'nonsense and rubbish',
+    spanish: 'tonterías y basura'
+  },
+  {
+    norwegian: 'smidig',
+    english: 'flexible',
+    spanish: 'flexible'
+  },
+  {
+    norwegian: 'grottene',
+    english: 'the caves',
+    spanish: 'las cuevas'
+  },
+  {
+    norwegian: 'vi forsegler oss',
+    english: 'we seal ourselves',
+    spanish: 'nos sellamos'
+  },
+  {
+    norwegian: 'unnslapper seg',
+    english: 'escapes',
+    spanish: 'escapa'
+  },
+  {
+    norwegian: 'oppforderer til å',
+    english: 'encourages to',
+    spanish: 'anima a'
+  },
+  {
+    norwegian: 'inntil kjeden er brutt',
+    english: 'until the chain is broken',
+    spanish: 'hasta que se rompa la cadena'
+  },
+  {
+    norwegian: 'lever svært tett',
+    english: 'live very close',
+    spanish: 'viven muy cerca'
+  },
+  {
+    norwegian: 'en årrekke jobbet',
+    english: 'worked for years',
+    spanish: 'trabajó durante años'
+  },
+  {
+    norwegian: 'innførte et forbud',
+    english: 'introduced a ban',
+    spanish: 'introdujo una prohibición'
+  },
+  {
+    norwegian: 'oppfordring til å',
+    english: 'call to',
+    spanish: 'llamado a'
   }
 ];
