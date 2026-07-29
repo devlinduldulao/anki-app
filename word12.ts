@@ -839,5 +839,110 @@ export const words: Question[] = [
     norwegian: 'oppfordring til å',
     english: 'call to',
     spanish: 'llamado a'
+  },
+  {
+    norwegian: 'jeg forgudet deg',
+    english: 'I adored you',
+    spanish: 'te adoré'
+  },
+  {
+    norwegian: 'kjenn deg selv',
+    english: 'know yourself',
+    spanish: 'conócete a ti mismo'
+  },
+  {
+    norwegian: 'er hellig',
+    english: 'is sacred',
+    spanish: 'es sagrado'
+  },
+  {
+    norwegian: 'hva er haken',
+    english: 'what is the catch',
+    spanish: 'cuál es la trampa'
+  },
+  {
+    norwegian: 'å pine seg selv',
+    english: 'to torment oneself',
+    spanish: 'atormentarse a sí mismo'
+  },
+  {
+    norwegian: 'en byttehandel',
+    english: 'a barter trade',
+    spanish: 'un trueque'
+  },
+  {
+    norwegian: 'har tilkalt seg',
+    english: 'has summoned',
+    spanish: 'ha convocado'
+  },
+  {
+    norwegian: 'å forhindre',
+    english: 'to prevent',
+    spanish: 'para prevenir'
+  },
+  {
+    norwegian: 'utallige',
+    english: 'countless',
+    spanish: 'incontables'
+  },
+  {
+    norwegian: 'lamslått av sorg',
+    english: 'stunned by grief',
+    spanish: 'aturdido por el dolor'
+  },
+  {
+    norwegian: 'rådet for å',
+    english: 'the council to',
+    spanish: 'el consejo para'
+  },
+  {
+    norwegian: 'bøye deg for',
+    english: 'bow down to',
+    spanish: 'inclinarse ante'
+  },
+  {
+    norwegian: 'tåpen',
+    english: 'the fool',
+    spanish: 'el tonto'
+  },
+  {
+    norwegian: 'tilsyn',
+    english: 'supervision',
+    spanish: 'supervisión'
+  },
+  {
+    norwegian: 'ble delvis lammet',
+    english: 'was partially paralyzed',
+    spanish: 'fue parcialmente paralizado'
+  },
+  {
+    norwegian: 'gåsehud',
+    english: 'goosebumps',
+    spanish: 'piel de gallina'
+  },
+  {
+    norwegian: 'urørt',
+    english: 'untouched',
+    spanish: 'intacto'
+  },
+  {
+    norwegian: 'såpe',
+    english: 'soap',
+    spanish: 'jabón'
+  },
+  {
+    norwegian: 'snop',
+    english: 'candy',
+    spanish: 'dulces'
+  },
+  {
+    norwegian: 'plystrer på deg',
+    english: 'whistles at you',
+    spanish: 'te silba'
+  },
+  {
+    norwegian: 'prikker',
+    english: 'dots',
+    spanish: 'puntos'
   }
 ];
