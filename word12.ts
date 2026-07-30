@@ -944,5 +944,165 @@ export const words: Question[] = [
     norwegian: 'prikker',
     english: 'dots',
     spanish: 'puntos'
+  },
+  {
+    norwegian: 'sverdet mitt',
+    english: 'my sword',
+    spanish: 'mi espada'
+  },
+  {
+    norwegian: 'forvandler jeg',
+    english: 'I transform',
+    spanish: 'me transformo'
+  },
+  {
+    norwegian: 'hæren',
+    english: 'the army',
+    spanish: 'el ejército'
+  },
+  {
+    norwegian: 'innrømme',
+    english: 'to admit',
+    spanish: 'admitir'
+  },
+  {
+    norwegian: 'udelte',
+    english: 'undivided',
+    spanish: 'indiviso'
+  },
+  {
+    norwegian: 'urflukt',
+    english: 'excursion',
+    spanish: 'excursión'
+  },
+  {
+    norwegian: 'overilte valg',
+    english: 'unnslapp',
+    spanish: 'elecciones precipitadas'
+  },
+  {
+    norwegian: 'et kall',
+    english: 'å gjenvinne ',
+    spanish: 'un llamado'
+  },
+  {
+    norwegian: 'kvitt dem',
+    english: 'get rid of them',
+    spanish: 'deshazte de ellos'
+  },
+  {
+    norwegian: 'sørpen',
+    english: 'the sludge',
+    spanish: 'el lodo'
+  },
+  {
+    norwegian: 'å påkalle ',
+    english: 'to invoke',
+    spanish: 'invocar'
+  },
+  {
+    norwegian: 'frifot',
+    english: 'free foot',
+    spanish: 'pie libre'
+  },
+  {
+    norwegian: 'oppført',
+    english: 'listed',
+    spanish: 'listado'
+  },
+  {
+    norwegian: 'ubevoktet',
+    english: 'unattended',
+    spanish: 'desatendido'
+  },
+  {
+    norwegian: 'å erobre',
+    english: 'to conquer',
+    spanish: 'conquistar'
+  },
+  {
+    norwegian: 'bli anholdt',
+    english: 'to be arrested',
+    spanish: 'ser arrestado'
+  },
+  {
+    norwegian: 'du pønsker på',
+    english: 'you are scheming',
+    spanish: 'estás tramando'
+  },
+  {
+    norwegian: 'å uttrykke meg',
+    english: 'to express myself',
+    spanish: 'expresarme'
+  },
+  {
+    norwegian: 'omvender',
+    english: 'converts',
+    spanish: 'convierte'
+  },
+  {
+    norwegian: 'gjenkomst',
+    english: 'return',
+    spanish: 'regreso'
+  },
+  {
+    norwegian: 'et brudd på loven',
+    english: 'a violation of the law',
+    spanish: 'una violación de la ley'
+  },
+  {
+    norwegian: 'vitnet ditt',
+    english: 'your witness',
+    spanish: 'tu testigo'
+  },
+  {
+    norwegian: 'vi fremsetter',
+    english: 'we submit',
+    spanish: 'presentamos'
+  },
+  {
+    norwegian: 'ukevis med regn',
+    english: 'weeks of rain',
+    spanish: 'semanas de lluvia'
+  },
+  {
+    norwegian: 'å knele',
+    english: 'to kneel',
+    spanish: 'arrodillarse'
+  },
+  {
+    norwegian: 'utholdelig',
+    english: 'unbearable',
+    spanish: 'insoportable'
+  },
+  {
+    norwegian: 'bli stilt for retten',
+    english: 'be brought to trial',
+    spanish: 'ser llevado a juicio'
+  },
+  {
+    norwegian: 'for langt',
+    english: 'too far',
+    spanish: 'demasiado lejos'
+  },
+  {
+    norwegian: 'erobre',
+    english: 'conquer',
+    spanish: 'conquistar'
+  },
+  {
+    norwegian: 'i embets medfør',
+    english: 'in official capacity',
+    spanish: 'en calidad oficial'
+  },
+  {
+    norwegian: 'er sprøtt',
+    english: 'is crazy',
+    spanish: 'está loco'
+  },
+  {
+    norwegian: 'du våger',
+    english: 'you dare',
+    spanish: 'te atreves'
   }
 ];
