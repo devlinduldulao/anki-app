@@ -1104,5 +1104,60 @@ export const words: Question[] = [
     norwegian: 'du våger',
     english: 'you dare',
     spanish: 'te atreves'
+  },
+  {
+    norwegian: 'forsøk på å',
+    english: 'attempt to',
+    spanish: 'intento de'
+  },
+  {
+    norwegian: 'å omgå',
+    english: 'to circumvent',
+    spanish: 'para eludir'
+  },
+  {
+    norwegian: 'beseiret',
+    english: 'defeated',
+    spanish: 'derrotado'
+  },
+  {
+    norwegian: 'forvandler',
+    english: 'transforms',
+    spanish: 'transforma'
+  },
+  {
+    norwegian: 'snedig',
+    english: 'cunning',
+    spanish: 'astuto'
+  },
+  {
+    norwegian: 'selveste',
+    english: 'the very',
+    spanish: 'el mismísimo'
+  },
+  {
+    norwegian: 'innså',
+    english: 'realized',
+    spanish: 'se dio cuenta'
+  },
+  {
+    norwegian: 'utvilsomt',
+    english: 'undoubtedly',
+    spanish: 'sin duda'
+  },
+  {
+    norwegian: 'etterlatte ham',
+    english: 'left him',
+    spanish: 'lo dejó'
+  },
+  {
+    norwegian: 'oppnådd enighet',
+    english: 'achieved agreement',
+    spanish: 'logró un acuerdo'
+  },
+  {
+    norwegian: 'bulker',
+    english: 'dents',
+    spanish: 'abolladuras'
   }
 ];
