@@ -13679,5 +13679,1060 @@ export const words: Question[] = [
     norwegian: 'jeg må ha drikke',
     english: 'I need a drink',
     spanish: 'necesito beber algo'
+  },
+  {
+    norwegian: 'lager musikkquizen',
+    english: 'is making the music quiz',
+    spanish: 'está preparando el quiz musical'
+  },
+  {
+    norwegian: 'til julebordet',
+    english: 'for the Christmas party',
+    spanish: 'para la cena de Navidad de la empresa'
+  },
+  {
+    norwegian: 'konkurrerte for',
+    english: 'competed for',
+    spanish: 'compitió por'
+  },
+  {
+    norwegian: 'kom på andreplass',
+    english: 'came in second',
+    spanish: 'quedó en segundo lugar'
+  },
+  {
+    norwegian: 'med syv seiere',
+    english: 'with seven wins',
+    spanish: 'con siete victorias'
+  },
+  {
+    norwegian: 'en favoritt',
+    english: 'a favourite',
+    spanish: 'un favorito'
+  },
+  {
+    norwegian: 'serr?',
+    english: 'seriously?',
+    spanish: '¿en serio?'
+  },
+  {
+    norwegian: 'så mye finere enn',
+    english: 'so much nicer than',
+    spanish: 'mucho más bonito que'
+  },
+  {
+    norwegian: 'jeg har booket',
+    english: 'I have booked',
+    spanish: 'he reservado'
+  },
+  {
+    norwegian: 'er det faen meg kødd?',
+    english: 'is this a fucking joke?',
+    spanish: '¿esto es una puta broma?'
+  },
+  {
+    norwegian: 'to dører til badet',
+    english: 'two doors to the bathroom',
+    spanish: 'dos puertas al baño'
+  },
+  {
+    norwegian: 'for en seng!',
+    english: 'what a bed!',
+    spanish: '¡menuda cama!'
+  },
+  {
+    norwegian: 'jeg er bare så jævla spent',
+    english: 'I am just so damn excited',
+    spanish: 'estoy tan jodidamente emocionada'
+  },
+  {
+    norwegian: 'nyrik',
+    english: 'nouveau riche',
+    spanish: 'nuevo rico'
+  },
+  {
+    norwegian: 'det er jeg som er døll',
+    english: 'I am the boring one',
+    spanish: 'la aburrida soy yo'
+  },
+  {
+    norwegian: 'det er for dumt å ikke bruke det',
+    english: 'it is too silly not to use it',
+    spanish: 'sería una tontería no usarlo'
+  },
+  {
+    norwegian: 'det er dritsvært',
+    english: 'it is fucking huge',
+    spanish: 'es enorme de cojones'
+  },
+  {
+    norwegian: 'det føles sykt',
+    english: 'it feels crazy',
+    spanish: 'se siente una locura'
+  },
+  {
+    norwegian: 'å ikke dele dette med noen',
+    english: 'not to share this with anyone',
+    spanish: 'no compartir esto con nadie'
+  },
+  {
+    norwegian: 'forlovere',
+    english: 'best men and bridesmaids',
+    spanish: 'padrinos y damas de honor'
+  },
+  {
+    norwegian: 'jeg tenker litt større',
+    english: 'I am thinking a bit bigger',
+    spanish: 'estoy pensando en algo más grande'
+  },
+  {
+    norwegian: 'synd at jeg ikke kan gjøre noe',
+    english: 'too bad I cannot do anything',
+    spanish: 'qué pena que no pueda hacer nada'
+  },
+  {
+    norwegian: 'før hun skrev under',
+    english: 'before she signed',
+    spanish: 'antes de que firmara'
+  },
+  {
+    norwegian: 'det falt meg ikke inn',
+    english: 'it did not occur to me',
+    spanish: 'no se me ocurrió'
+  },
+  {
+    norwegian: 'finne på å selge selskapet',
+    english: 'get the idea to sell the company',
+    spanish: 'ocurrírsele vender la empresa'
+  },
+  {
+    norwegian: 'slipper å oppleve det',
+    english: 'does not have to experience it',
+    spanish: 'se libra de vivirlo'
+  },
+  {
+    norwegian: 'hyggelig at du kom',
+    english: 'nice that you came',
+    spanish: 'qué bien que hayas venido'
+  },
+  {
+    norwegian: 'litt imponerende, hva?',
+    english: 'a bit impressive, eh?',
+    spanish: 'un poco impresionante, ¿eh?'
+  },
+  {
+    norwegian: 'de greiene her',
+    english: 'these things here',
+    spanish: 'estas cosas'
+  },
+  {
+    norwegian: 'jeg måtte forlove meg',
+    english: 'I had to get engaged',
+    spanish: 'tuve que comprometerme'
+  },
+  {
+    norwegian: 'forlove seg',
+    english: 'get engaged',
+    spanish: 'comprometerse'
+  },
+  {
+    norwegian: 'bestemte oss for',
+    english: 'decided to',
+    spanish: 'decidimos'
+  },
+  {
+    norwegian: 'dere er gravide',
+    english: 'you are pregnant',
+    spanish: 'están embarazados'
+  },
+  {
+    norwegian: 'det har seg sånn at',
+    english: 'the thing is that',
+    spanish: 'resulta que'
+  },
+  {
+    norwegian: 'har blitt anbefalt av',
+    english: 'has been recommended by',
+    spanish: 'ha sido recomendado por'
+  },
+  {
+    norwegian: 'jeg har vært på intervju',
+    english: 'I have been to an interview',
+    spanish: 'he ido a una entrevista'
+  },
+  {
+    norwegian: 'usjarmerende',
+    english: 'uncharming',
+    spanish: 'poco encantador'
+  },
+  {
+    norwegian: 'en litt rotete måte',
+    english: 'a bit of a messy way',
+    spanish: 'una forma un poco desordenada'
+  },
+  {
+    norwegian: 'oppsigelsen',
+    english: 'the resignation',
+    spanish: 'la renuncia'
+  },
+  {
+    norwegian: 'vi må jo løse det',
+    english: 'we have to sort it out',
+    spanish: 'tenemos que solucionarlo'
+  },
+  {
+    norwegian: 'du hadde ghosta meg',
+    english: 'you had ghosted me',
+    spanish: 'me habías hecho ghosting'
+  },
+  {
+    norwegian: 'hva feirer dere?',
+    english: 'what are you celebrating?',
+    spanish: '¿qué celebran?'
+  },
+  {
+    norwegian: 'vi feirer livet',
+    english: 'we celebrate life',
+    spanish: 'celebramos la vida'
+  },
+  {
+    norwegian: 'du undersolgte ham',
+    english: 'you undersold him',
+    spanish: 'lo infravaloraste'
+  },
+  {
+    norwegian: 'du hadde ikke troen',
+    english: 'you did not believe in it',
+    spanish: 'no tenías fe'
+  },
+  {
+    norwegian: 'undervurdert ham',
+    english: 'underestimated him',
+    spanish: 'lo subestimé'
+  },
+  {
+    norwegian: 'det er ikke noe bedre enn å ta feil',
+    english: 'there is nothing better than being wrong',
+    spanish: 'no hay nada mejor que equivocarse'
+  },
+  {
+    norwegian: 'det er fri bar',
+    english: 'there is an open bar',
+    spanish: 'hay barra libre'
+  },
+  {
+    norwegian: 'jeg skjønte aldri hva det betød',
+    english: 'I never understood what it meant',
+    spanish: 'nunca entendí lo que significaba'
+  },
+  {
+    norwegian: 'de har pynta seg',
+    english: 'they have dressed up',
+    spanish: 'se han arreglado'
+  },
+  {
+    norwegian: 'den andre forloveren min',
+    english: 'my other maid of honour',
+    spanish: 'mi otra dama de honor'
+  },
+  {
+    norwegian: 'de er ganske fine',
+    english: 'they are quite nice',
+    spanish: 'son bastante bonitos'
+  },
+  {
+    norwegian: 'kan jeg få en suss?',
+    english: 'can I get a kiss?',
+    spanish: '¿me das un besito?'
+  },
+  {
+    norwegian: 'en overraskelse',
+    english: 'a surprise',
+    spanish: 'una sorpresa'
+  },
+  {
+    norwegian: 'jeg lærer den bort',
+    english: 'I will teach it',
+    spanish: 'lo enseño'
+  },
+  {
+    norwegian: 'er ikke det genialt?',
+    english: 'is that not brilliant?',
+    spanish: '¿no es genial?'
+  },
+  {
+    norwegian: 'vi tar det på nytt',
+    english: 'we will do it again',
+    spanish: 'lo repetimos'
+  },
+  {
+    norwegian: 'jeg var jo bekymra',
+    english: 'I was worried',
+    spanish: 'estaba preocupado'
+  },
+  {
+    norwegian: 'blir slukt opp i',
+    english: 'gets swallowed up in',
+    spanish: 'se deja absorber por'
+  },
+  {
+    norwegian: 'henge med kongefamilien',
+    english: 'hang out with the royal family',
+    spanish: 'codearse con la familia real'
+  },
+  {
+    norwegian: 'en gjeng med kyniske jævler',
+    english: 'a bunch of cynical bastards',
+    spanish: 'una panda de cabrones cínicos'
+  },
+  {
+    norwegian: 'en familie som flykter sammen',
+    english: 'a family that flees together',
+    spanish: 'una familia que huye junta'
+  },
+  {
+    norwegian: 'jeg gidder ikke båt',
+    english: 'I cannot be bothered with boats',
+    spanish: 'paso de barcos'
+  },
+  {
+    norwegian: 'gå med på',
+    english: 'agree to',
+    spanish: 'aceptar'
+  },
+  {
+    norwegian: 'du må ikke gi opp',
+    english: 'you must not give up',
+    spanish: 'no te rindas'
+  },
+  {
+    norwegian: 'nå orker jeg ikke flere',
+    english: 'I cannot take any more now',
+    spanish: 'ya no aguanto más'
+  },
+  {
+    norwegian: 'de skal bare rydde',
+    english: 'they are just going to clean up',
+    spanish: 'solo van a recoger'
+  },
+  {
+    norwegian: 'vi ommøblerte litt',
+    english: 'we rearranged a bit',
+    spanish: 'movimos un poco los muebles'
+  },
+  {
+    norwegian: 'litt dansegulv og sånt',
+    english: 'a bit of dance floor and stuff',
+    spanish: 'algo de pista de baile y tal'
+  },
+  {
+    norwegian: 'isbiter',
+    english: 'ice cubes',
+    spanish: 'cubitos de hielo'
+  },
+  {
+    norwegian: 'vi har trashet stedet',
+    english: 'we have trashed the place',
+    spanish: 'hemos destrozado el sitio'
+  },
+  {
+    norwegian: 'det er respektløst',
+    english: 'it is disrespectful',
+    spanish: 'es una falta de respeto'
+  },
+  {
+    norwegian: 'jeg begynner å bli litt dårlig',
+    english: 'I am starting to feel a bit sick',
+    spanish: 'empiezo a encontrarme un poco mal'
+  },
+  {
+    norwegian: 'det vet jeg ikke om stemmer',
+    english: 'I do not know if that is true',
+    spanish: 'no sé si eso es cierto'
+  },
+  {
+    norwegian: 'ikke vær lei deg for',
+    english: 'do not be sad about',
+    spanish: 'no estés triste por'
+  },
+  {
+    norwegian: 'man kan ikke være god i alt',
+    english: 'you cannot be good at everything',
+    spanish: 'no se puede ser bueno en todo'
+  },
+  {
+    norwegian: 'dritgod på massasje',
+    english: 'damn good at massage',
+    spanish: 'buenísimo dando masajes'
+  },
+  {
+    norwegian: 'det var ikke sånn ment',
+    english: 'it was not meant like that',
+    spanish: 'no lo dije en ese sentido'
+  },
+  {
+    norwegian: 'du har jo bomma en del',
+    english: 'you have missed quite a bit',
+    spanish: 'has fallado bastante'
+  },
+  {
+    norwegian: 'bomme på',
+    english: 'miss, get wrong',
+    spanish: 'fallar en'
+  },
+  {
+    norwegian: 'ta så lett på',
+    english: 'take so lightly',
+    spanish: 'tomarse tan a la ligera'
+  },
+  {
+    norwegian: 'et halvt år lenger enn nødvendig',
+    english: 'half a year longer than necessary',
+    spanish: 'medio año más de lo necesario'
+  },
+  {
+    norwegian: 'uten at det er illojalt',
+    english: 'without it being disloyal',
+    spanish: 'sin que sea desleal'
+  },
+  {
+    norwegian: 'et lag',
+    english: 'a team',
+    spanish: 'un equipo'
+  },
+  {
+    norwegian: 'du har troa på meg',
+    english: 'you believe in me',
+    spanish: 'crees en mí'
+  },
+  {
+    norwegian: 'hvis du kan være litt rask',
+    english: 'if you could be a bit quick',
+    spanish: 'si puede ser un poco rápida'
+  },
+  {
+    norwegian: 'kunne du kommet tilbake senere?',
+    english: 'could you come back later?',
+    spanish: '¿podría volver más tarde?'
+  },
+  {
+    norwegian: 'du stikker av',
+    english: 'you run off',
+    spanish: 'te largas'
+  },
+  {
+    norwegian: 'sykemelding',
+    english: 'sick leave',
+    spanish: 'baja médica'
+  },
+  {
+    norwegian: 'jeg er lei for at',
+    english: 'I am sorry that',
+    spanish: 'siento que'
+  },
+  {
+    norwegian: 'sint og sur på meg',
+    english: 'angry and grumpy with me',
+    spanish: 'enfadada y molesta conmigo'
+  },
+  {
+    norwegian: 'et trygghetsbehov',
+    english: 'a need for security',
+    spanish: 'una necesidad de seguridad'
+  },
+  {
+    norwegian: 'uansett hvor mye jeg pøser på',
+    english: 'no matter how much I pour on',
+    spanish: 'por mucho que insista'
+  },
+  {
+    norwegian: 'lånt sykkelen min',
+    english: 'borrowed my bike',
+    spanish: 'tomado prestada mi bici'
+  },
+  {
+    norwegian: 'så jævla skummelt',
+    english: 'so damn scary',
+    spanish: 'tan jodidamente aterrador'
+  },
+  {
+    norwegian: 'snu skaden din',
+    english: 'turn your injury around',
+    spanish: 'darle la vuelta a tu lesión'
+  },
+  {
+    norwegian: 'den drømmen',
+    english: 'that dream',
+    spanish: 'ese sueño'
+  },
+  {
+    norwegian: 'veldig forelska i',
+    english: 'very much in love with',
+    spanish: 'muy enamorada de'
+  },
+  {
+    norwegian: 'rettferdiggjøre alle valg',
+    english: 'justify every choice',
+    spanish: 'justificar cada decisión'
+  },
+  {
+    norwegian: 'det er litt sårt',
+    english: 'it hurts a bit',
+    spanish: 'duele un poco'
+  },
+  {
+    norwegian: 'like støttende som du pleier',
+    english: 'as supportive as you usually are',
+    spanish: 'tan solidario como siempre'
+  },
+  {
+    norwegian: 'behandler deg som dritt',
+    english: 'treat you like shit',
+    spanish: 'te tratan como una mierda'
+  },
+  {
+    norwegian: 'så svart-hvitt',
+    english: 'so black and white',
+    spanish: 'tan blanco o negro'
+  },
+  {
+    norwegian: 'du virker sjalu',
+    english: 'you seem jealous',
+    spanish: 'pareces celoso'
+  },
+  {
+    norwegian: 'de folka',
+    english: 'those people',
+    spanish: 'esa gente'
+  },
+  {
+    norwegian: 'du blir annerledes',
+    english: 'you change',
+    spanish: 'te vuelves diferente'
+  },
+  {
+    norwegian: 'litt urettferdig',
+    english: 'a bit unfair',
+    spanish: 'un poco injusto'
+  },
+  {
+    norwegian: 'tåler du ikke det?',
+    english: 'can you not handle that?',
+    spanish: '¿no lo soportas?'
+  },
+  {
+    norwegian: 'hun stakkars hotelldama',
+    english: 'that poor hotel lady',
+    spanish: 'la pobre señora del hotel'
+  },
+  {
+    norwegian: 'det er sånn jeg ruller',
+    english: 'that is how I roll',
+    spanish: 'así soy yo'
+  },
+  {
+    norwegian: 'gikk til helvete',
+    english: 'went to hell',
+    spanish: 'se fue al carajo'
+  },
+  {
+    norwegian: 'den arven',
+    english: 'that inheritance',
+    spanish: 'esa herencia'
+  },
+  {
+    norwegian: 'på bryllupsdagen vår',
+    english: 'on our wedding day',
+    spanish: 'el día de nuestra boda'
+  },
+  {
+    norwegian: 'fri fra alt annet enn hverandre',
+    english: 'free from everything but each other',
+    spanish: 'libres de todo menos el uno del otro'
+  },
+  {
+    norwegian: 'vil du avlyse?',
+    english: 'do you want to cancel?',
+    spanish: '¿quieres cancelar?'
+  },
+  {
+    norwegian: 'rydda opp i',
+    english: 'sorted out',
+    spanish: 'ordenado'
+  },
+  {
+    norwegian: 'folk har kjøpt kjoler',
+    english: 'people have bought dresses',
+    spanish: 'la gente ha comprado vestidos'
+  },
+  {
+    norwegian: 'gråter du?',
+    english: 'are you crying?',
+    spanish: '¿estás llorando?'
+  },
+  {
+    norwegian: 'jeg øvde så mye på',
+    english: 'I practised so much',
+    spanish: 'practiqué tanto'
+  },
+  {
+    norwegian: 'den dansen',
+    english: 'that dance',
+    spanish: 'ese baile'
+  },
+  {
+    norwegian: 'litt enig med',
+    english: 'partly agree with',
+    spanish: 'algo de acuerdo con'
+  },
+  {
+    norwegian: 'den låta',
+    english: 'that song',
+    spanish: 'esa canción'
+  },
+  {
+    norwegian: 'bryllupsvals',
+    english: 'wedding waltz',
+    spanish: 'vals nupcial'
+  },
+  {
+    norwegian: 'tekstmessig',
+    english: 'lyrically',
+    spanish: 'en cuanto a la letra'
+  },
+  {
+    norwegian: 'er ikke han søt?',
+    english: 'is he not cute?',
+    spanish: '¿no es mono?'
+  },
+  {
+    norwegian: 'han klør litt i tennene',
+    english: 'he is teething a bit',
+    spanish: 'le pican un poco los dientes'
+  },
+  {
+    norwegian: 'hva skal du hete?',
+    english: 'what will your name be?',
+    spanish: '¿cómo te vas a llamar?'
+  },
+  {
+    norwegian: 'er du trøtt?',
+    english: 'are you tired?',
+    spanish: '¿estás cansado?'
+  },
+  {
+    norwegian: 'legger dem på disken',
+    english: 'put them on the counter',
+    spanish: 'los dejo en el mostrador'
+  },
+  {
+    norwegian: 'pose?',
+    english: 'a bag?',
+    spanish: '¿bolsa?'
+  },
+  {
+    norwegian: 'på vei inn i et møte',
+    english: 'on my way into a meeting',
+    spanish: 'entrando en una reunión'
+  },
+  {
+    norwegian: 'sett ham i buret',
+    english: 'put him in the cage',
+    spanish: 'mételo en la jaula'
+  },
+  {
+    norwegian: 'noen godbiter',
+    english: 'some treats',
+    spanish: 'unas golosinas'
+  },
+  {
+    norwegian: 'så han ikke spiser sko',
+    english: 'so he does not eat shoes',
+    spanish: 'para que no se coma los zapatos'
+  },
+  {
+    norwegian: 'er ikke det rådet?',
+    english: 'is that not the advice?',
+    spanish: '¿no es ese el consejo?'
+  },
+  {
+    norwegian: 'bare stikk, du',
+    english: 'just go',
+    spanish: 'vete, vete'
+  },
+  {
+    norwegian: 'stå på vikarlista',
+    english: 'be on the substitute list',
+    spanish: 'estar en la lista de suplentes'
+  },
+  {
+    norwegian: 'hun har bedt meg komme',
+    english: 'she has asked me to come',
+    spanish: 'me ha pedido que vaya'
+  },
+  {
+    norwegian: 'salget',
+    english: 'the sale',
+    spanish: 'la venta'
+  },
+  {
+    norwegian: 'forsvare deg',
+    english: 'defend yourself',
+    spanish: 'defenderte'
+  },
+  {
+    norwegian: 'overfor meg',
+    english: 'to me',
+    spanish: 'ante mí'
+  },
+  {
+    norwegian: 'overta',
+    english: 'take over',
+    spanish: 'tomar el control'
+  },
+  {
+    norwegian: 'jeg hadde solgt',
+    english: 'I would have sold',
+    spanish: 'yo habría vendido'
+  },
+  {
+    norwegian: 'selskapene',
+    english: 'the companies',
+    spanish: 'las empresas'
+  },
+  {
+    norwegian: 'i det stille',
+    english: 'quietly',
+    spanish: 'en silencio'
+  },
+  {
+    norwegian: 'markedet',
+    english: 'the market',
+    spanish: 'el mercado'
+  },
+  {
+    norwegian: 'stiller meg til disposisjon',
+    english: 'make myself available',
+    spanish: 'me pongo a disposición'
+  },
+  {
+    norwegian: 'vi må dra med en gang',
+    english: 'we have to go right away',
+    spanish: 'tenemos que irnos ya'
+  },
+  {
+    norwegian: 'prøv på nytt',
+    english: 'try again',
+    spanish: 'inténtalo de nuevo'
+  },
+  {
+    norwegian: 'du er klissvåt',
+    english: 'you are soaking wet',
+    spanish: 'estás empapado'
+  },
+  {
+    norwegian: 'de våte klærne',
+    english: 'the wet clothes',
+    spanish: 'la ropa mojada'
+  },
+  {
+    norwegian: 'det er ikke det som er avtalen',
+    english: 'that is not the deal',
+    spanish: 'ese no es el trato'
+  },
+  {
+    norwegian: 'du lovet at',
+    english: 'you promised that',
+    spanish: 'prometiste que'
+  },
+  {
+    norwegian: 'dummet det til',
+    english: 'messed it up',
+    spanish: 'la cagué'
+  },
+  {
+    norwegian: 'bry deg',
+    english: 'bother you',
+    spanish: 'molestarte'
+  },
+  {
+    norwegian: 'min idiotbror',
+    english: 'my idiot brother',
+    spanish: 'mi hermano idiota'
+  },
+  {
+    norwegian: 'hun går fra meg',
+    english: 'she will leave me',
+    spanish: 'me dejará'
+  },
+  {
+    norwegian: 'du skrur jo aldri av mobilen',
+    english: 'you never turn off your phone',
+    spanish: 'nunca apagas el móvil'
+  },
+  {
+    norwegian: 'elskling',
+    english: 'darling',
+    spanish: 'cariño'
+  },
+  {
+    norwegian: 'hun tåler alt',
+    english: 'she can handle anything',
+    spanish: 'lo aguanta todo'
+  },
+  {
+    norwegian: 'en teflonpanne',
+    english: 'a Teflon pan',
+    spanish: 'una sartén de teflón'
+  },
+  {
+    norwegian: 'alt preller av',
+    english: 'everything slides off',
+    spanish: 'todo le resbala'
+  },
+  {
+    norwegian: 'et kjempekompliment',
+    english: 'a huge compliment',
+    spanish: 'un cumplido enorme'
+  },
+  {
+    norwegian: 'en sykdom',
+    english: 'an illness',
+    spanish: 'una enfermedad'
+  },
+  {
+    norwegian: 'det bygger seg opp',
+    english: 'it builds up',
+    spanish: 'se va acumulando'
+  },
+  {
+    norwegian: 'jeg har det kjipt',
+    english: 'I am having a rough time',
+    spanish: 'lo estoy pasando mal'
+  },
+  {
+    norwegian: 'et bitte lite helvete',
+    english: 'a tiny little hell',
+    spanish: 'un pequeño infierno'
+  },
+  {
+    norwegian: 'det krasjet med',
+    english: 'it clashed with',
+    spanish: 'coincidió con'
+  },
+  {
+    norwegian: 'et ensidig kjærlighetsforhold',
+    english: 'a one-sided love affair',
+    spanish: 'una relación de amor unilateral'
+  },
+  {
+    norwegian: 'jeg heier på juni',
+    english: 'I am rooting for June',
+    spanish: 'voto por junio'
+  },
+  {
+    norwegian: 'jeg har ikke sovet ordentlig',
+    english: 'I have not slept properly',
+    spanish: 'no he dormido bien'
+  },
+  {
+    norwegian: 'det kan ta litt tid',
+    english: 'it can take some time',
+    spanish: 'puede llevar tiempo'
+  },
+  {
+    norwegian: 'elendig',
+    english: 'miserable',
+    spanish: 'pésimo'
+  },
+  {
+    norwegian: 'dytta ham utfor kanten',
+    english: 'pushed him over the edge',
+    spanish: 'lo empujó al abismo'
+  },
+  {
+    norwegian: 'nå må du holde opp',
+    english: 'now you have to stop',
+    spanish: 'ya basta'
+  },
+  {
+    norwegian: 'et tilbud',
+    english: 'an offer',
+    spanish: 'una oferta'
+  },
+  {
+    norwegian: 'feilvurderinger i fylla',
+    english: 'misjudgements when drunk',
+    spanish: 'errores de juicio borracha'
+  },
+  {
+    norwegian: 'er det så ille?',
+    english: 'is it that bad?',
+    spanish: '¿tan grave es?'
+  },
+  {
+    norwegian: 'takke ja til',
+    english: 'accept',
+    spanish: 'aceptar'
+  },
+  {
+    norwegian: 'det ble litt rot',
+    english: 'it got a bit messy',
+    spanish: 'se lió un poco'
+  },
+  {
+    norwegian: 'en italiensk fase',
+    english: 'an Italian phase',
+    spanish: 'una fase italiana'
+  },
+  {
+    norwegian: 'jeg blir så rolig av det',
+    english: 'it makes me so calm',
+    spanish: 'me tranquiliza mucho'
+  },
+  {
+    norwegian: 'du sitter på med meg',
+    english: 'you ride with me',
+    spanish: 'vienes conmigo en el coche'
+  },
+  {
+    norwegian: 'det enkleste for alle',
+    english: 'the easiest for everyone',
+    spanish: 'lo más fácil para todos'
+  },
+  {
+    norwegian: 'få ryddet plass i hodet',
+    english: 'clear space in your head',
+    spanish: 'despejar la mente'
+  },
+  {
+    norwegian: 'sortere',
+    english: 'sort',
+    spanish: 'ordenar'
+  },
+  {
+    norwegian: 'kontakter i fotballverden',
+    english: 'contacts in the football world',
+    spanish: 'contactos en el mundo del fútbol'
+  },
+  {
+    norwegian: 'finalen',
+    english: 'the final',
+    spanish: 'la final'
+  },
+  {
+    norwegian: 'fikser jeg med en gang',
+    english: 'I will fix right away',
+    spanish: 'lo arreglo enseguida'
+  },
+  {
+    norwegian: 'grøten er klar',
+    english: 'the porridge is ready',
+    spanish: 'las gachas están listas'
+  },
+  {
+    norwegian: 'gaver',
+    english: 'gifts',
+    spanish: 'regalos'
+  },
+  {
+    norwegian: 'krasjer med',
+    english: 'clashes with',
+    spanish: 'coincide con'
+  },
+  {
+    norwegian: 'en avskjedsgave',
+    english: 'a farewell gift',
+    spanish: 'un regalo de despedida'
+  },
+  {
+    norwegian: 'jeg stikker innom',
+    english: 'I will pop by',
+    spanish: 'me paso por'
+  },
+  {
+    norwegian: 'loff og Cola',
+    english: 'white bread and Coke',
+    spanish: 'pan blanco y Coca-Cola'
+  },
+  {
+    norwegian: 'jeg er rett ved',
+    english: 'I am close by',
+    spanish: 'estoy muy cerca'
+  },
+  {
+    norwegian: 'en billig vin',
+    english: 'a cheap wine',
+    spanish: 'un vino barato'
+  },
+  {
+    norwegian: 'han tilbød meg jobb',
+    english: 'he offered me a job',
+    spanish: 'me ofreció trabajo'
+  },
+  {
+    norwegian: 'et kjempestort nettverk',
+    english: 'a huge network',
+    spanish: 'una red de contactos enorme'
+  },
+  {
+    norwegian: 'skiskyting',
+    english: 'biathlon',
+    spanish: 'biatlón'
+  },
+  {
+    norwegian: 'bruke nettverket sitt',
+    english: 'use one\'s network',
+    spanish: 'usar sus contactos'
+  },
+  {
+    norwegian: 'kjenner du meg virkelig så dårlig?',
+    english: 'do you really know me so badly?',
+    spanish: '¿de verdad me conoces tan poco?'
+  },
+  {
+    norwegian: 'en random drittjobb',
+    english: 'a random shit job',
+    spanish: 'un trabajo de mierda cualquiera'
+  },
+  {
+    norwegian: 'korrupt',
+    english: 'corrupt',
+    spanish: 'corrupto'
+  },
+  {
+    norwegian: 'en fantastisk mulighet',
+    english: 'a fantastic opportunity',
+    spanish: 'una oportunidad fantástica'
+  },
+  {
+    norwegian: 'når den byr seg',
+    english: 'when it presents itself',
+    spanish: 'cuando se presenta'
+  },
+  {
+    norwegian: 'stolthet',
+    english: 'pride',
+    spanish: 'orgullo'
+  },
+  {
+    norwegian: 'har ingenting å si',
+    english: 'means nothing',
+    spanish: 'no importa nada'
+  },
+  {
+    norwegian: 'har en del å si',
+    english: 'means quite a lot',
+    spanish: 'importa bastante'
+  },
+  {
+    norwegian: 'jeg kan ikke leve sånn',
+    english: 'I cannot live like this',
+    spanish: 'no puedo vivir así'
+  },
+  {
+    norwegian: 'jeg har med gave',
+    english: 'I have brought a gift',
+    spanish: 'he traído un regalo'
   }
 ];
