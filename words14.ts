@@ -14734,5 +14734,1590 @@ export const words: Question[] = [
     norwegian: 'jeg har med gave',
     english: 'I have brought a gift',
     spanish: 'he traído un regalo'
+  },
+  {
+    norwegian: 'du har gått bak ryggen min',
+    english: 'you have gone behind my back',
+    spanish: 'has actuado a mis espaldas'
+  },
+  {
+    norwegian: 'hva er det du går rundt og sier',
+    english: 'what is it you are going around saying',
+    spanish: 'qué es lo que andas diciendo'
+  },
+  {
+    norwegian: 'han knivstakk han',
+    english: 'he stabbed him',
+    spanish: 'lo apuñaló'
+  },
+  {
+    norwegian: 'akkurat det du fortjener',
+    english: 'exactly what you deserve',
+    spanish: 'justo lo que te mereces'
+  },
+  {
+    norwegian: 'bare press på det',
+    english: 'just put pressure on it',
+    spanish: 'solo presiona ahí'
+  },
+  {
+    norwegian: 'haster det',
+    english: 'is it urgent',
+    spanish: '¿es urgente?'
+  },
+  {
+    norwegian: 'han har kuttet pulsåra',
+    english: 'he has cut the artery',
+    spanish: 'se ha cortado la arteria'
+  },
+  {
+    norwegian: 'han blør dritmye',
+    english: 'he is bleeding a hell of a lot',
+    spanish: 'está sangrando muchísimo'
+  },
+  {
+    norwegian: 'jeg vil vite det sikkert',
+    english: 'I want to know it for sure',
+    spanish: 'quiero saberlo con certeza'
+  },
+  {
+    norwegian: 'vi drev og kødda',
+    english: 'we were messing around',
+    spanish: 'estábamos haciendo el tonto'
+  },
+  {
+    norwegian: 'en glassdør',
+    english: 'a glass door',
+    spanish: 'una puerta de cristal'
+  },
+  {
+    norwegian: 'slipp',
+    english: 'let go',
+    spanish: 'suelta'
+  },
+  {
+    norwegian: 'kompresser',
+    english: 'compresses (gauze pads)',
+    spanish: 'compresas'
+  },
+  {
+    norwegian: 'han blør i hjel',
+    english: 'he is bleeding to death',
+    spanish: 'se está desangrando'
+  },
+  {
+    norwegian: 'underarmen',
+    english: 'the forearm',
+    spanish: 'el antebrazo'
+  },
+  {
+    norwegian: 'traumealarmen',
+    english: 'the trauma alarm',
+    spanish: 'la alarma de trauma'
+  },
+  {
+    norwegian: 'arteriell skade',
+    english: 'arterial injury',
+    spanish: 'lesión arterial'
+  },
+  {
+    norwegian: 'det må du finne ut',
+    english: 'you have to find that out',
+    spanish: 'eso tienes que averiguarlo'
+  },
+  {
+    norwegian: 'pakke han sammen',
+    english: 'patch him up (wrap him up)',
+    spanish: 'vendarlo'
+  },
+  {
+    norwegian: 'jeg står i operasjon',
+    english: 'I am in the middle of surgery',
+    spanish: 'estoy en plena operación'
+  },
+  {
+    norwegian: 'sy igjen',
+    english: 'stitch up',
+    spanish: 'coser'
+  },
+  {
+    norwegian: 'det skal vi fikse',
+    english: 'we will fix that',
+    spanish: 'eso lo arreglamos'
+  },
+  {
+    norwegian: 'kjapp deg',
+    english: 'hurry up',
+    spanish: 'date prisa'
+  },
+  {
+    norwegian: 'vi syr han sammen',
+    english: 'we are stitching him up',
+    spanish: 'lo cosemos'
+  },
+  {
+    norwegian: 'vi stikker',
+    english: 'we are taking off',
+    spanish: 'nos largamos'
+  },
+  {
+    norwegian: 'kontrollmålinger',
+    english: 'control measurements',
+    spanish: 'mediciones de control'
+  },
+  {
+    norwegian: 'du bør bli igjen',
+    english: 'you should stay behind',
+    spanish: 'deberías quedarte'
+  },
+  {
+    norwegian: 'nummen og kald',
+    english: 'numb and cold',
+    spanish: 'entumecido y frío'
+  },
+  {
+    norwegian: 'varm og hoven',
+    english: 'warm and swollen',
+    spanish: 'caliente e hinchado'
+  },
+  {
+    norwegian: 'ta stingene',
+    english: 'remove the stitches',
+    spanish: 'quitar los puntos'
+  },
+  {
+    norwegian: 'veldig gjerne',
+    english: 'yes please, gladly',
+    spanish: 'con mucho gusto'
+  },
+  {
+    norwegian: 'sykt mange',
+    english: 'insanely many',
+    spanish: 'muchísima gente'
+  },
+  {
+    norwegian: 'spleisen',
+    english: 'the fundraiser (crowdfunding)',
+    spanish: 'la colecta'
+  },
+  {
+    norwegian: 'det har kommet inn nesten en halv million',
+    english: 'almost half a million has come in',
+    spanish: 'ha entrado casi medio millón'
+  },
+  {
+    norwegian: 'ankelfraktur',
+    english: 'ankle fracture',
+    spanish: 'fractura de tobillo'
+  },
+  {
+    norwegian: 'sendt opp på post',
+    english: 'sent up to the ward',
+    spanish: 'enviada a planta'
+  },
+  {
+    norwegian: 'det samme gjelder',
+    english: 'the same applies to',
+    spanish: 'lo mismo vale para'
+  },
+  {
+    norwegian: 'nattevaktene',
+    english: 'the night shifts',
+    spanish: 'las guardias de noche'
+  },
+  {
+    norwegian: 'forsvarlig',
+    english: 'responsible, safe enough',
+    spanish: 'adecuado, seguro'
+  },
+  {
+    norwegian: 'sårbart',
+    english: 'vulnerable',
+    spanish: 'vulnerable'
+  },
+  {
+    norwegian: 'passe på at det du gjør er riktig',
+    english: 'make sure that what you do is right',
+    spanish: 'asegurarse de que lo que haces es correcto'
+  },
+  {
+    norwegian: 'bemanningskabalen',
+    english: 'the staffing puzzle',
+    spanish: 'el rompecabezas del personal'
+  },
+  {
+    norwegian: 'bakvakt',
+    english: 'senior doctor on call (backup)',
+    spanish: 'médico de guardia de respaldo'
+  },
+  {
+    norwegian: 'knivstukket',
+    english: 'stabbed',
+    spanish: 'apuñalado'
+  },
+  {
+    norwegian: 'vi får håpe det',
+    english: 'let us hope so',
+    spanish: 'esperemos que sí'
+  },
+  {
+    norwegian: 'det hadde du merka',
+    english: 'you would have noticed that',
+    spanish: 'lo habrías notado'
+  },
+  {
+    norwegian: 'omrokere på turnuser',
+    english: 'reshuffle the rotas',
+    spanish: 'reorganizar los turnos'
+  },
+  {
+    norwegian: 'innstilt på',
+    english: 'prepared for (willing to accept)',
+    spanish: 'dispuesto a'
+  },
+  {
+    norwegian: 'du var i dårlig form',
+    english: 'you were in bad shape',
+    spanish: 'estabas en mala forma'
+  },
+  {
+    norwegian: 'du duppa av',
+    english: 'you dozed off',
+    spanish: 'te quedaste dormido'
+  },
+  {
+    norwegian: 'tøff natt',
+    english: 'rough night',
+    spanish: 'noche dura'
+  },
+  {
+    norwegian: 'snike deg unna',
+    english: 'sneak away',
+    spanish: 'escaparte'
+  },
+  {
+    norwegian: 'besvimt under en forelesning',
+    english: 'fainted during a lecture',
+    spanish: 'se desmayó durante una clase'
+  },
+  {
+    norwegian: 'blodtrykk',
+    english: 'blood pressure',
+    spanish: 'presión arterial'
+  },
+  {
+    norwegian: 'veneflon',
+    english: 'IV cannula',
+    spanish: 'cánula intravenosa'
+  },
+  {
+    norwegian: 'sykehussenga',
+    english: 'the hospital bed',
+    spanish: 'la cama del hospital'
+  },
+  {
+    norwegian: 'bare ligg helt i ro',
+    english: 'just lie completely still',
+    spanish: 'quédate completamente quieta'
+  },
+  {
+    norwegian: 'så løfter vi deg over',
+    english: 'then we will lift you over',
+    spanish: 'y te pasamos nosotros'
+  },
+  {
+    norwegian: 'takk skal du ha',
+    english: 'thank you very much',
+    spanish: 'muchas gracias'
+  },
+  {
+    norwegian: 'jeg har ikke sovet på en stund',
+    english: 'I have not slept for a while',
+    spanish: 'llevo un tiempo sin dormir'
+  },
+  {
+    norwegian: 'på joggetur',
+    english: 'out on a run',
+    spanish: 'corriendo'
+  },
+  {
+    norwegian: 'i dag tidlig',
+    english: 'early this morning',
+    spanish: 'esta mañana temprano'
+  },
+  {
+    norwegian: 'innunder genseren',
+    english: 'underneath the sweater',
+    spanish: 'por debajo del jersey'
+  },
+  {
+    norwegian: 'nå forsvant du litt for oss',
+    english: 'you slipped away from us for a moment there',
+    spanish: 'te nos fuiste un momento'
+  },
+  {
+    norwegian: 'ingen historikk',
+    english: 'no medical history',
+    spanish: 'sin antecedentes'
+  },
+  {
+    norwegian: 'akutt fare',
+    english: 'acute danger',
+    spanish: 'peligro inminente'
+  },
+  {
+    norwegian: 'ta det med noen',
+    english: 'take it up with someone',
+    spanish: 'hablarlo con alguien'
+  },
+  {
+    norwegian: 'jeg stikker en tur opp på post',
+    english: 'I am popping up to the ward',
+    spanish: 'subo un momento a planta'
+  },
+  {
+    norwegian: 'jeg følger opp',
+    english: 'I am following up',
+    spanish: 'yo hago el seguimiento'
+  },
+  {
+    norwegian: 'litt spent',
+    english: 'a bit anxious and excited',
+    spanish: 'un poco expectante'
+  },
+  {
+    norwegian: 'lungebetennelsen',
+    english: 'the pneumonia',
+    spanish: 'la neumonía'
+  },
+  {
+    norwegian: 'frisk nok',
+    english: 'healthy enough',
+    spanish: 'lo bastante sana'
+  },
+  {
+    norwegian: 'det er mye som spiller inn',
+    english: 'there are many factors at play',
+    spanish: 'influyen muchas cosas'
+  },
+  {
+    norwegian: 'jeg gir opp',
+    english: 'I give up',
+    spanish: 'me rindo'
+  },
+  {
+    norwegian: 'gærninger',
+    english: 'lunatics',
+    spanish: 'chiflados'
+  },
+  {
+    norwegian: 'å bli bundet',
+    english: 'to be tied up',
+    spanish: 'que te aten'
+  },
+  {
+    norwegian: 'en snill, vanlig, morsom fyr',
+    english: 'a kind, ordinary, funny guy',
+    spanish: 'un tipo amable, normal y divertido'
+  },
+  {
+    norwegian: 'se an',
+    english: 'size up, assess',
+    spanish: 'evaluar a ojo'
+  },
+  {
+    norwegian: 'litt stor i ørene',
+    english: 'a bit big in the ears',
+    spanish: 'con las orejas un poco grandes'
+  },
+  {
+    norwegian: 'kjetting',
+    english: 'chain',
+    spanish: 'cadena'
+  },
+  {
+    norwegian: 'jeg har levd litt',
+    english: 'I have lived a little',
+    spanish: 'he vivido lo mío'
+  },
+  {
+    norwegian: 'for guds skyld',
+    english: 'for the love of God',
+    spanish: 'por el amor de Dios'
+  },
+  {
+    norwegian: 'en elektrolyttforstyrrelse',
+    english: 'an electrolyte imbalance',
+    spanish: 'un desequilibrio electrolítico'
+  },
+  {
+    norwegian: 'saltene i blodet er ute av balanse',
+    english: 'the salts in the blood are out of balance',
+    spanish: 'las sales en la sangre están desequilibradas'
+  },
+  {
+    norwegian: 'jeg er bekymret for hjertet ditt',
+    english: 'I am worried about your heart',
+    spanish: 'me preocupa tu corazón'
+  },
+  {
+    norwegian: 'svimmel av og til',
+    english: 'dizzy now and then',
+    spanish: 'mareada de vez en cuando'
+  },
+  {
+    norwegian: 'når spiste du sist',
+    english: 'when did you last eat',
+    spanish: '¿cuándo comiste por última vez?'
+  },
+  {
+    norwegian: 'jeg får i meg mat',
+    english: 'I am getting food down',
+    spanish: 'sí que como'
+  },
+  {
+    norwegian: 'ganske tydelige',
+    english: 'quite clear',
+    spanish: 'bastante claros'
+  },
+  {
+    norwegian: 'først skyller jeg',
+    english: 'first I flush',
+    spanish: 'primero enjuago'
+  },
+  {
+    norwegian: 'saltvann',
+    english: 'saline',
+    spanish: 'suero salino'
+  },
+  {
+    norwegian: 'det kommer ikke noe stikk',
+    english: 'there will be no needle prick',
+    spanish: 'no habrá pinchazo'
+  },
+  {
+    norwegian: 'jeg har ikke lyst på',
+    english: 'I do not want any',
+    spanish: 'no me apetece'
+  },
+  {
+    norwegian: 'et eget rom',
+    english: 'a room of your own',
+    spanish: 'una habitación propia'
+  },
+  {
+    norwegian: 'det var du som starta dette ballet',
+    english: 'you were the one who started all this',
+    spanish: 'fuiste tú quien empezó todo esto'
+  },
+  {
+    norwegian: 'ta deg imot',
+    english: 'receive you',
+    spanish: 'recibirte'
+  },
+  {
+    norwegian: 'på grunn av infeksjonene',
+    english: 'because of the infections',
+    spanish: 'debido a las infecciones'
+  },
+  {
+    norwegian: 'de kraftigste dosene',
+    english: 'the strongest doses',
+    spanish: 'las dosis más fuertes'
+  },
+  {
+    norwegian: 'innledende cellegift',
+    english: 'initial chemotherapy',
+    spanish: 'quimioterapia inicial'
+  },
+  {
+    norwegian: 'tilby mindre doser',
+    english: 'offer smaller doses',
+    spanish: 'ofrecer dosis más pequeñas'
+  },
+  {
+    norwegian: 'en krevende behandling',
+    english: 'a demanding treatment',
+    spanish: 'un tratamiento exigente'
+  },
+  {
+    norwegian: 'du tåler ikke cellegifta så godt',
+    english: 'you do not tolerate the chemo very well',
+    spanish: 'no toleras muy bien la quimio'
+  },
+  {
+    norwegian: 'avslutte forløpet tidlig',
+    english: 'end the course of treatment early',
+    spanish: 'terminar el tratamiento antes de tiempo'
+  },
+  {
+    norwegian: 'helt utelukka',
+    english: 'completely ruled out',
+    spanish: 'totalmente descartado'
+  },
+  {
+    norwegian: 'en kur',
+    english: 'a cure',
+    spanish: 'una cura'
+  },
+  {
+    norwegian: 'bestemme meg',
+    english: 'make up my mind',
+    spanish: 'decidirme'
+  },
+  {
+    norwegian: 'dere skal få være i fred',
+    english: 'you will be left in peace',
+    spanish: 'os dejamos tranquilos'
+  },
+  {
+    norwegian: 'du kommer til å kjenne et stikk',
+    english: 'you are going to feel a prick',
+    spanish: 'vas a notar un pinchazo'
+  },
+  {
+    norwegian: 'stolt av deg',
+    english: 'proud of you',
+    spanish: 'orgullosa de ti'
+  },
+  {
+    norwegian: 'ikke ta på meg',
+    english: 'do not touch me',
+    spanish: 'no me toques'
+  },
+  {
+    norwegian: 'beslutningskompetent',
+    english: 'competent to make decisions',
+    spanish: 'capaz de tomar decisiones'
+  },
+  {
+    norwegian: 'nekter å ta til seg næring',
+    english: 'refuses to take in nourishment',
+    spanish: 'se niega a alimentarse'
+  },
+  {
+    norwegian: 'behandling på tvang',
+    english: 'compulsory treatment',
+    spanish: 'tratamiento forzoso'
+  },
+  {
+    norwegian: 'fatte et vedtak',
+    english: 'make a formal decision',
+    spanish: 'adoptar una resolución'
+  },
+  {
+    norwegian: 'ta den vurderingen',
+    english: 'make that assessment',
+    spanish: 'hacer esa valoración'
+  },
+  {
+    norwegian: 'null stress',
+    english: 'no worries',
+    spanish: 'sin problema'
+  },
+  {
+    norwegian: 'et akutteam',
+    english: 'an emergency team',
+    spanish: 'un equipo de urgencias'
+  },
+  {
+    norwegian: 'tvangsbehandling',
+    english: 'forced treatment',
+    spanish: 'tratamiento involuntario'
+  },
+  {
+    norwegian: 'kontrasignere',
+    english: 'countersign',
+    spanish: 'refrendar'
+  },
+  {
+    norwegian: 'vi går tom for muligheter',
+    english: 'we are running out of options',
+    spanish: 'se nos acaban las opciones'
+  },
+  {
+    norwegian: 'vi vil helst unngå det',
+    english: 'we would rather avoid it',
+    spanish: 'preferiríamos evitarlo'
+  },
+  {
+    norwegian: 'et tvangsvedtak',
+    english: 'a compulsory treatment order',
+    spanish: 'una orden de tratamiento forzoso'
+  },
+  {
+    norwegian: 'holde deg nede',
+    english: 'hold you down',
+    spanish: 'sujetarte'
+  },
+  {
+    norwegian: 'dere får ikke lov til',
+    english: 'you are not allowed to',
+    spanish: 'no tenéis permiso para'
+  },
+  {
+    norwegian: 'vi har ikke noe valg',
+    english: 'we have no choice',
+    spanish: 'no tenemos elección'
+  },
+  {
+    norwegian: 'hold ut',
+    english: 'hang in there',
+    spanish: 'aguanta'
+  },
+  {
+    norwegian: 'dra opp genseren',
+    english: 'pull up the sweater',
+    spanish: 'subir el jersey'
+  },
+  {
+    norwegian: 'kjempevondt',
+    english: 'extremely painful',
+    spanish: 'dolorosísimo'
+  },
+  {
+    norwegian: 'vi er helt nødt',
+    english: 'we absolutely have to',
+    spanish: 'no nos queda más remedio'
+  },
+  {
+    norwegian: 'overgrep',
+    english: 'assault, abuse',
+    spanish: 'abuso'
+  },
+  {
+    norwegian: 'da er den i gang',
+    english: 'then it is running',
+    spanish: 'ya está en marcha'
+  },
+  {
+    norwegian: 'ikke helt fremmed for den tanken',
+    english: 'not entirely averse to that idea',
+    spanish: 'no del todo ajena a esa idea'
+  },
+  {
+    norwegian: 'takk for tilbudet',
+    english: 'thanks for the offer',
+    spanish: 'gracias por la oferta'
+  },
+  {
+    norwegian: 'kos dere videre',
+    english: 'keep enjoying yourselves',
+    spanish: 'seguid pasándolo bien'
+  },
+  {
+    norwegian: 'hvile deg litt',
+    english: 'rest a little',
+    spanish: 'descansar un poco'
+  },
+  {
+    norwegian: 'nesten i mål',
+    english: 'almost at the finish line',
+    spanish: 'casi en la meta'
+  },
+  {
+    norwegian: 'gjort stort inntrykk på',
+    english: 'made a big impression on',
+    spanish: 'causado una gran impresión en'
+  },
+  {
+    norwegian: 'jeg skulle akkurat til å si',
+    english: 'I was just about to say',
+    spanish: 'justo iba a decir'
+  },
+  {
+    norwegian: 'uvel',
+    english: 'queasy, unwell',
+    spanish: 'indispuesta'
+  },
+  {
+    norwegian: 'kommer ikke til å funke',
+    english: 'is not going to work',
+    spanish: 'no va a funcionar'
+  },
+  {
+    norwegian: 'det gir folk mening',
+    english: 'it gives people meaning',
+    spanish: 'da sentido a la gente'
+  },
+  {
+    norwegian: 'et fremmed sykehus',
+    english: 'an unfamiliar hospital',
+    spanish: 'un hospital extraño'
+  },
+  {
+    norwegian: 'så travelt som de skal ha det til',
+    english: 'as busy as they make it out to be',
+    spanish: 'tan ajetreado como lo pintan'
+  },
+  {
+    norwegian: 'all tid i verden',
+    english: 'all the time in the world',
+    spanish: 'todo el tiempo del mundo'
+  },
+  {
+    norwegian: 'jeg har bare latt det ligge',
+    english: 'I have just let it be',
+    spanish: 'simplemente lo he dejado estar'
+  },
+  {
+    norwegian: 'helt brutal',
+    english: 'absolutely brutal',
+    spanish: 'totalmente brutal'
+  },
+  {
+    norwegian: 'useriøst',
+    english: 'not serious',
+    spanish: 'poco serio'
+  },
+  {
+    norwegian: 'risikabelt',
+    english: 'risky',
+    spanish: 'arriesgado'
+  },
+  {
+    norwegian: 'tid for oss selv',
+    english: 'time to ourselves',
+    spanish: 'tiempo para nosotros'
+  },
+  {
+    norwegian: 'når passer det for deg',
+    english: 'when suits you',
+    spanish: '¿cuándo te viene bien?'
+  },
+  {
+    norwegian: 'ha god vakt',
+    english: 'have a good shift',
+    spanish: 'que tengas buena guardia'
+  },
+  {
+    norwegian: 'en caserapport',
+    english: 'a case report',
+    spanish: 'un informe de caso'
+  },
+  {
+    norwegian: 'blodverdier',
+    english: 'blood values',
+    spanish: 'valores sanguíneos'
+  },
+  {
+    norwegian: 'i bedring',
+    english: 'improving',
+    spanish: 'mejorando'
+  },
+  {
+    norwegian: 'forlate henne',
+    english: 'leave her',
+    spanish: 'abandonarla'
+  },
+  {
+    norwegian: 'nå må du gi deg',
+    english: 'now you have to stop',
+    spanish: 'ya basta'
+  },
+  {
+    norwegian: 'sur på meg',
+    english: 'mad at me',
+    spanish: 'enfadado conmigo'
+  },
+  {
+    norwegian: 'irritert på meg',
+    english: 'annoyed with me',
+    spanish: 'molesto conmigo'
+  },
+  {
+    norwegian: 'jeg orker ikke det her lenger',
+    english: 'I cannot take this anymore',
+    spanish: 'ya no puedo con esto'
+  },
+  {
+    norwegian: 'avstand fra deg',
+    english: 'distance from you',
+    spanish: 'distancia de ti'
+  },
+  {
+    norwegian: 'angra rett etterpå',
+    english: 'regretted it right afterwards',
+    spanish: 'te arrepentiste justo después'
+  },
+  {
+    norwegian: 'ustabil',
+    english: 'unstable',
+    spanish: 'inestable'
+  },
+  {
+    norwegian: 'ikke meningen å forstyrre deg',
+    english: 'did not mean to disturb you',
+    spanish: 'no quería molestarte'
+  },
+  {
+    norwegian: 'jeg lette etter deg',
+    english: 'I was looking for you',
+    spanish: 'te estaba buscando'
+  },
+  {
+    norwegian: 'en god rytme',
+    english: 'a good rhythm',
+    spanish: 'un buen ritmo'
+  },
+  {
+    norwegian: 'fastlegekontor',
+    english: 'GP practice',
+    spanish: 'consulta de médico de cabecera'
+  },
+  {
+    norwegian: 'i distrikt',
+    english: 'on rural placement (district service)',
+    spanish: 'en prácticas rurales'
+  },
+  {
+    norwegian: 'legesenter',
+    english: 'medical centre',
+    spanish: 'centro médico'
+  },
+  {
+    norwegian: 'førstevalget ditt',
+    english: 'your first choice',
+    spanish: 'tu primera opción'
+  },
+  {
+    norwegian: 'dra fra meg',
+    english: 'leave me',
+    spanish: 'dejarme'
+  },
+  {
+    norwegian: 'finne på noe',
+    english: 'do something together',
+    spanish: 'hacer algo juntos'
+  },
+  {
+    norwegian: 'dritkult',
+    english: 'really cool',
+    spanish: 'una pasada'
+  },
+  {
+    norwegian: 'redd for å tape',
+    english: 'afraid of losing',
+    spanish: 'con miedo a perder'
+  },
+  {
+    norwegian: 'russetreff',
+    english: 'gathering of graduating students (russ)',
+    spanish: 'encuentro de graduados (russ)'
+  },
+  {
+    norwegian: 'falt sammen',
+    english: 'collapsed',
+    spanish: 'se desplomó'
+  },
+  {
+    norwegian: 'slapp og kvalm',
+    english: 'limp and nauseous',
+    spanish: 'flojo y con náuseas'
+  },
+  {
+    norwegian: 'han falt om',
+    english: 'he keeled over',
+    spanish: 'se desplomó'
+  },
+  {
+    norwegian: 'jeg tok innkomst for deg',
+    english: 'I did the admission for you',
+    spanish: 'hice el ingreso por ti'
+  },
+  {
+    norwegian: 'flytte på meg',
+    english: 'move somewhere else',
+    spanish: 'cambiar de aires'
+  },
+  {
+    norwegian: 'prøvde meg litt overalt',
+    english: 'applied a bit everywhere',
+    spanish: 'probé un poco en todas partes'
+  },
+  {
+    norwegian: 'akutte magesmerter',
+    english: 'acute abdominal pain',
+    spanish: 'dolor abdominal agudo'
+  },
+  {
+    norwegian: 'operasjonssalen',
+    english: 'the operating theatre',
+    spanish: 'el quirófano'
+  },
+  {
+    norwegian: 'utslag på',
+    english: 'a positive reading for',
+    spanish: 'positivo en'
+  },
+  {
+    norwegian: 'trøtt og vondt i hodet',
+    english: 'tired and with a headache',
+    spanish: 'cansado y con dolor de cabeza'
+  },
+  {
+    norwegian: 'da han ble dårlig',
+    english: 'when he became ill',
+    spanish: 'cuando se puso malo'
+  },
+  {
+    norwegian: 'slo hodet',
+    english: 'hit his head',
+    spanish: 'se golpeó la cabeza'
+  },
+  {
+    norwegian: 'vi beholder deg her',
+    english: 'we are keeping you here',
+    spanish: 'te dejamos aquí ingresado'
+  },
+  {
+    norwegian: 'palliativt team',
+    english: 'palliative care team',
+    spanish: 'equipo de cuidados paliativos'
+  },
+  {
+    norwegian: 'gifte oss',
+    english: 'get married',
+    spanish: 'casarnos'
+  },
+  {
+    norwegian: 'utsette det',
+    english: 'postpone it',
+    spanish: 'aplazarlo'
+  },
+  {
+    norwegian: 'drenet',
+    english: 'the drain',
+    spanish: 'el drenaje'
+  },
+  {
+    norwegian: 'en fare for det',
+    english: 'a risk of that',
+    spanish: 'un riesgo de eso'
+  },
+  {
+    norwegian: 'labsvarene',
+    english: 'the lab results',
+    spanish: 'los resultados del laboratorio'
+  },
+  {
+    norwegian: 'huden',
+    english: 'the skin',
+    spanish: 'la piel'
+  },
+  {
+    norwegian: 'få av deg klærne',
+    english: 'get your clothes off',
+    spanish: 'quitarte la ropa'
+  },
+  {
+    norwegian: 'dressen',
+    english: 'the suit',
+    spanish: 'el traje'
+  },
+  {
+    norwegian: 'lyse i øynene dine',
+    english: 'shine a light in your eyes',
+    spanish: 'alumbrarte los ojos'
+  },
+  {
+    norwegian: 'bøye haka ned mot brystet',
+    english: 'bend your chin down towards your chest',
+    spanish: 'bajar la barbilla hacia el pecho'
+  },
+  {
+    norwegian: 'kjempestiv',
+    english: 'extremely stiff',
+    spanish: 'rigidísimo'
+  },
+  {
+    norwegian: 'enerom',
+    english: 'single room',
+    spanish: 'habitación individual'
+  },
+  {
+    norwegian: 'jeg legger en tilgang til',
+    english: 'I am placing another IV line',
+    spanish: 'pongo otra vía'
+  },
+  {
+    norwegian: 'et lite trykk bakpå ryggen',
+    english: 'a little pressure on your back',
+    spanish: 'una pequeña presión en la espalda'
+  },
+  {
+    norwegian: 'væsken er blakket',
+    english: 'the fluid is cloudy',
+    spanish: 'el líquido está turbio'
+  },
+  {
+    norwegian: 'smittevernkontoret',
+    english: 'the infection control office',
+    spanish: 'la oficina de control de infecciones'
+  },
+  {
+    norwegian: 'vi mistenker',
+    english: 'we suspect',
+    spanish: 'sospechamos'
+  },
+  {
+    norwegian: 'hjernehinnebetennelse',
+    english: 'meningitis',
+    spanish: 'meningitis'
+  },
+  {
+    norwegian: 'svake respirasjonslyder',
+    english: 'weak breath sounds',
+    spanish: 'ruidos respiratorios débiles'
+  },
+  {
+    norwegian: 'trekke pusten dypt',
+    english: 'take a deep breath',
+    spanish: 'respirar hondo'
+  },
+  {
+    norwegian: 'han sliter med å',
+    english: 'he is struggling to',
+    spanish: 'le cuesta'
+  },
+  {
+    norwegian: 'frie luftveier',
+    english: 'a clear airway',
+    spanish: 'vías respiratorias despejadas'
+  },
+  {
+    norwegian: 'intubere',
+    english: 'intubate',
+    spanish: 'intubar'
+  },
+  {
+    norwegian: 'innsyn',
+    english: 'a clear view',
+    spanish: 'visión'
+  },
+  {
+    norwegian: 'vi stilte feil diagnose',
+    english: 'we made the wrong diagnosis',
+    spanish: 'hicimos un diagnóstico equivocado'
+  },
+  {
+    norwegian: 'for en dag',
+    english: 'what a day',
+    spanish: 'vaya día'
+  },
+  {
+    norwegian: 'fire stykk på korridor',
+    english: 'four patients in the corridor',
+    spanish: 'cuatro en el pasillo'
+  },
+  {
+    norwegian: 'gallestase',
+    english: 'bile stasis (cholestasis)',
+    spanish: 'colestasis'
+  },
+  {
+    norwegian: 'leververdiene',
+    english: 'the liver values',
+    spanish: 'los valores hepáticos'
+  },
+  {
+    norwegian: 'stiger og stiger',
+    english: 'keep rising',
+    spanish: 'no paran de subir'
+  },
+  {
+    norwegian: 'eksmannen',
+    english: 'the ex-husband',
+    spanish: 'el exmarido'
+  },
+  {
+    norwegian: 'nærkontakt',
+    english: 'close contact',
+    spanish: 'contacto estrecho'
+  },
+  {
+    norwegian: 'vær obs på',
+    english: 'be alert to',
+    spanish: 'estad atentos a'
+  },
+  {
+    norwegian: 'det holder med én',
+    english: 'one is enough',
+    spanish: 'basta con una'
+  },
+  {
+    norwegian: 'trille en tur',
+    english: 'take the stroller for a walk',
+    spanish: 'dar un paseo con el carrito'
+  },
+  {
+    norwegian: 'sette han fra meg',
+    english: 'put him down',
+    spanish: 'dejarlo'
+  },
+  {
+    norwegian: 'han griner og griner',
+    english: 'he cries and cries',
+    spanish: 'llora y llora'
+  },
+  {
+    norwegian: 'du må nesten',
+    english: 'you pretty much have to',
+    spanish: 'no te queda otra'
+  },
+  {
+    norwegian: 'det er krise',
+    english: 'it is a crisis',
+    spanish: 'es una emergencia'
+  },
+  {
+    norwegian: 'litt trøkk',
+    english: 'a bit of a rush',
+    spanish: 'un poco de jaleo'
+  },
+  {
+    norwegian: 'ukritisk',
+    english: 'indiscriminately',
+    spanish: 'sin criterio'
+  },
+  {
+    norwegian: 'videreformidle',
+    english: 'pass on',
+    spanish: 'transmitir'
+  },
+  {
+    norwegian: 'skjemaene',
+    english: 'the forms',
+    spanish: 'los formularios'
+  },
+  {
+    norwegian: 'fylt ut',
+    english: 'filled out',
+    spanish: 'rellenado'
+  },
+  {
+    norwegian: 'ledelsen',
+    english: 'the management',
+    spanish: 'la dirección'
+  },
+  {
+    norwegian: 'håpefull',
+    english: 'hopeful',
+    spanish: 'esperanzada'
+  },
+  {
+    norwegian: 'hva skal til',
+    english: 'what does it take',
+    spanish: '¿qué hace falta?'
+  },
+  {
+    norwegian: 'oppe i styret',
+    english: 'brought before the board',
+    spanish: 'tratado en la junta'
+  },
+  {
+    norwegian: 'sykepleierstillinger',
+    english: 'nursing positions',
+    spanish: 'plazas de enfermería'
+  },
+  {
+    norwegian: 'spre det glade budskap',
+    english: 'spread the good news',
+    spanish: 'difundir la buena noticia'
+  },
+  {
+    norwegian: 'nå ble jeg letta',
+    english: 'now I am relieved',
+    spanish: 'qué alivio'
+  },
+  {
+    norwegian: 'jeg er mett',
+    english: 'I am full',
+    spanish: 'estoy llena'
+  },
+  {
+    norwegian: 'en kreftpasient',
+    english: 'a cancer patient',
+    spanish: 'una paciente de cáncer'
+  },
+  {
+    norwegian: 'huff da',
+    english: 'oh dear',
+    spanish: 'vaya por Dios'
+  },
+  {
+    norwegian: 'like gammel som',
+    english: 'the same age as',
+    spanish: 'de la misma edad que'
+  },
+  {
+    norwegian: 'hun kunne ikke reddes',
+    english: 'she could not be saved',
+    spanish: 'no se la podía salvar'
+  },
+  {
+    norwegian: 'oppdaget det før',
+    english: 'discovered it earlier',
+    spanish: 'haberlo detectado antes'
+  },
+  {
+    norwegian: 'han gjorde så godt han kunne',
+    english: 'he did the best he could',
+    spanish: 'hizo lo que pudo'
+  },
+  {
+    norwegian: 'sånt som bare skjer',
+    english: 'the kind of thing that just happens',
+    spanish: 'cosas que simplemente pasan'
+  },
+  {
+    norwegian: 'dritvondt',
+    english: 'hurts like hell',
+    spanish: 'duele un montón'
+  },
+  {
+    norwegian: 'gidder du å',
+    english: 'would you mind',
+    spanish: '¿te importa?'
+  },
+  {
+    norwegian: 'melde han til operasjon',
+    english: 'book him in for surgery',
+    spanish: 'apuntarlo para operación'
+  },
+  {
+    norwegian: 'kaste han i veggen',
+    english: 'throw him against the wall',
+    spanish: 'tirarlo contra la pared'
+  },
+  {
+    norwegian: 'dislokert',
+    english: 'dislocated',
+    spanish: 'dislocado'
+  },
+  {
+    norwegian: 'bestille røntgen',
+    english: 'order an X-ray',
+    spanish: 'pedir una radiografía'
+  },
+  {
+    norwegian: 'takk for middag',
+    english: 'thanks for dinner',
+    spanish: 'gracias por la cena'
+  },
+  {
+    norwegian: 'bare hyggelig',
+    english: 'my pleasure',
+    spanish: 'de nada'
+  },
+  {
+    norwegian: 'ingen kan si om han klarer seg',
+    english: 'no one can say whether he will make it',
+    spanish: 'nadie sabe si saldrá adelante'
+  },
+  {
+    norwegian: 'funksjonsnivået',
+    english: 'the level of functioning',
+    spanish: 'el nivel funcional'
+  },
+  {
+    norwegian: 'helt elendig',
+    english: 'absolutely terrible',
+    spanish: 'pésimo'
+  },
+  {
+    norwegian: 'brystsmerter',
+    english: 'chest pain',
+    spanish: 'dolor en el pecho'
+  },
+  {
+    norwegian: 'nå skremmer du meg',
+    english: 'now you are scaring me',
+    spanish: 'me estás asustando'
+  },
+  {
+    norwegian: 'hoppa inn i dette litt fort',
+    english: 'jumped into this a bit fast',
+    spanish: 'me lancé a esto un poco rápido'
+  },
+  {
+    norwegian: 'følelser for noen andre',
+    english: 'feelings for someone else',
+    spanish: 'sentimientos por otra persona'
+  },
+  {
+    norwegian: 'rydde opp i',
+    english: 'sort out',
+    spanish: 'poner en orden'
+  },
+  {
+    norwegian: 'begynner å virke',
+    english: 'start to take effect',
+    spanish: 'empiezan a hacer efecto'
+  },
+  {
+    norwegian: 'går dere i samme klasse',
+    english: 'are you in the same class',
+    spanish: '¿vais a la misma clase?'
+  },
+  {
+    norwegian: 'i helvete',
+    english: 'bloody hell',
+    spanish: 'maldita sea'
+  },
+  {
+    norwegian: 'nok en gang',
+    english: 'once again',
+    spanish: 'una vez más'
+  },
+  {
+    norwegian: 'bare jeg ser bygget, får jeg puls',
+    english: 'just seeing the building makes my heart race',
+    spanish: 'solo con ver el edificio se me acelera el pulso'
+  },
+  {
+    norwegian: 'det er ikke din skyld',
+    english: 'it is not your fault',
+    spanish: 'no es culpa tuya'
+  },
+  {
+    norwegian: 'en helt ræva venn',
+    english: 'a really crappy friend',
+    spanish: 'un amigo de mierda'
+  },
+  {
+    norwegian: 'selvforskyldt',
+    english: 'self-inflicted',
+    spanish: 'por culpa propia'
+  },
+  {
+    norwegian: 'akkurat den skal du ha',
+    english: 'I will give you that one',
+    spanish: 'esa te la concedo'
+  },
+  {
+    norwegian: 'slått opp med',
+    english: 'broken up with',
+    spanish: 'roto con'
+  },
+  {
+    norwegian: 'dødssyke mennesker',
+    english: 'terminally ill people',
+    spanish: 'personas gravemente enfermas'
+  },
+  {
+    norwegian: 'ferdig utlært',
+    english: 'fully trained',
+    spanish: 'totalmente formado'
+  },
+  {
+    norwegian: 'at kunnskapen formidles',
+    english: 'that the knowledge is passed on',
+    spanish: 'que el conocimiento se transmita'
+  },
+  {
+    norwegian: 'dette var leit å høre',
+    english: 'this was sad to hear',
+    spanish: 'qué pena oír esto'
+  },
+  {
+    norwegian: 'pælme',
+    english: 'chuck, hurl',
+    spanish: 'lanzar'
+  },
+  {
+    norwegian: 'kolikkbarn',
+    english: 'a colicky baby',
+    spanish: 'bebé con cólicos'
+  },
+  {
+    norwegian: 'ekstra midler',
+    english: 'extra funds',
+    spanish: 'fondos adicionales'
+  },
+  {
+    norwegian: 'økt pasientgrunnlag',
+    english: 'an increased patient base',
+    spanish: 'mayor número de pacientes'
+  },
+  {
+    norwegian: 'jeg har nettopp lova',
+    english: 'I have just promised',
+    spanish: 'acabo de prometer'
+  },
+  {
+    norwegian: 'sånn er det å være sjef',
+    english: 'that is what being the boss is like',
+    spanish: 'así es ser jefa'
+  },
+  {
+    norwegian: 'hva slags type dans',
+    english: 'what kind of dance',
+    spanish: '¿qué tipo de baile?'
+  },
+  {
+    norwegian: 'uprofesjonelt',
+    english: 'unprofessional',
+    spanish: 'poco profesional'
+  },
+  {
+    norwegian: 'ferske i det her',
+    english: 'new at this',
+    spanish: 'novatos en esto'
+  },
+  {
+    norwegian: 'jeg skal ikke blande meg',
+    english: 'I should not interfere',
+    spanish: 'no quiero entrometerme'
+  },
+  {
+    norwegian: 'det har ikke grodd igjen',
+    english: 'it has not healed over',
+    spanish: 'no se ha cerrado'
+  },
+  {
+    norwegian: 'dra forsiktig',
+    english: 'pull gently',
+    spanish: 'tirar con cuidado'
+  },
+  {
+    norwegian: 'det lugger',
+    english: 'it is pulling my hair',
+    spanish: 'me tira del pelo'
+  },
+  {
+    norwegian: 'jeg kommer ikke helt over',
+    english: 'I cannot quite get over',
+    spanish: 'no acabo de superar'
+  },
+  {
+    norwegian: 'overtale deg til å bli',
+    english: 'persuade you to stay',
+    spanish: 'convencerte de que te quedes'
+  },
+  {
+    norwegian: 'tett på',
+    english: 'up close',
+    spanish: 'muy cerca'
+  },
+  {
+    norwegian: 'sider av meg',
+    english: 'sides of me',
+    spanish: 'facetas de mí'
+  },
+  {
+    norwegian: 'dytte unna',
+    english: 'push away',
+    spanish: 'apartar'
+  },
+  {
+    norwegian: 'har ikke peiling',
+    english: 'have no clue',
+    spanish: 'no tengo ni idea'
+  },
+  {
+    norwegian: 'vielse',
+    english: 'wedding ceremony',
+    spanish: 'ceremonia de boda'
+  },
+  {
+    norwegian: 'bryllupsgjester',
+    english: 'wedding guests',
+    spanish: 'invitados de boda'
+  },
+  {
+    norwegian: 'jeg lovte',
+    english: 'I promised',
+    spanish: 'prometí'
+  },
+  {
+    norwegian: 'jeg kommer ikke unna',
+    english: 'I cannot get around',
+    spanish: 'no puedo evitar'
+  },
+  {
+    norwegian: 'størst er kjærligheten',
+    english: 'the greatest is love',
+    spanish: 'el mayor es el amor'
+  },
+  {
+    norwegian: 'når håpet blekner',
+    english: 'when hope fades',
+    spanish: 'cuando la esperanza se apaga'
+  },
+  {
+    norwegian: 'tristhet, bekymring, sinne',
+    english: 'sadness, worry, anger',
+    spanish: 'tristeza, preocupación, ira'
+  },
+  {
+    norwegian: 'i bunn og grunn',
+    english: 'basically, at heart',
+    spanish: 'en el fondo'
+  },
+  {
+    norwegian: 'derfor erklærer jeg',
+    english: 'therefore I declare',
+    spanish: 'por eso declaro'
+  },
+  {
+    norwegian: 'rette ektefolk',
+    english: 'lawfully wedded spouses',
+    spanish: 'marido y mujer'
+  },
+  {
+    norwegian: 'tegn på troskap',
+    english: 'a sign of fidelity',
+    spanish: 'señal de fidelidad'
+  },
+  {
+    norwegian: 'brudgommen',
+    english: 'the groom',
+    spanish: 'el novio'
+  },
+  {
+    norwegian: 'seff',
+    english: 'of course (slang)',
+    spanish: 'claro (coloquial)'
+  },
+  {
+    norwegian: 'den stygge',
+    english: 'the ugly one',
+    spanish: 'el feo'
+  },
+  {
+    norwegian: 'i forbifarten',
+    english: 'in passing',
+    spanish: 'de pasada'
+  },
+  {
+    norwegian: 'dere blir ikke kvitt han',
+    english: 'you will not get rid of him',
+    spanish: 'no os libraréis de él'
+  },
+  {
+    norwegian: 'tydeligvis ikke',
+    english: 'apparently not',
+    spanish: 'por lo visto no'
+  },
+  {
+    norwegian: 'har de ikke lidd nok',
+    english: 'have they not suffered enough',
+    spanish: '¿no han sufrido ya bastante?'
+  },
+  {
+    norwegian: 'gi deg et blikk',
+    english: 'give you a look',
+    spanish: 'echarte una mirada'
+  },
+  {
+    norwegian: 'innkommende',
+    english: 'incoming',
+    spanish: 'entrante'
+  },
+  {
+    norwegian: 'noen som melder seg',
+    english: 'any volunteers',
+    spanish: '¿algún voluntario?'
   }
 ];
